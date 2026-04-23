@@ -21,7 +21,7 @@ Scripts load **the `.env` next to the code they belong to** (not a single root f
 
 | File | Purpose (typical keys) |
 |------|------------------------|
-| `step1/.env` | e.g. `GROQ_API_KEY`, `CLAUDE_API_KEY` for `extract.py` and `lngextct.py` |
+| `step1/.env` | e.g. `CLAUDE_API_KEY` for `extract.py` and other step1 scripts as needed |
 | `Step2/.env` | e.g. `CLAUDE_API_KEY`, `EASY_TENDER_MODEL`, `TESSERACT_CMD` for `Step2/indexing/…` |
 | `easy_tender/.env` | e.g. `OPENROUTER_API_KEY`, `CLAUDE_API_KEY` for the web app and `format_requirements` |
 
