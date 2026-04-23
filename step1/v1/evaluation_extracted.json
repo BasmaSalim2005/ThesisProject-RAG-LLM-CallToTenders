@@ -1,0 +1,152 @@
+{
+  "EVALUATION_DES_OFFRES_DES_CONCURRENTS": {
+    "evaluation_technique": [
+      {
+        "critere": "Note Technique 1 (NT1) — Critères techniques de la solution proposée",
+        "note_maximale": 50,
+        "sous_criteres": [
+          {
+            "intitule": "Méthodologie de gestion de projet",
+            "faiblement_developpe": 2,
+            "moyennement_developpe": 5,
+            "bien_developpe": 8
+          },
+          {
+            "intitule": "Architecture générale du système d'information",
+            "faiblement_developpe": 2,
+            "moyennement_developpe": 5,
+            "bien_developpe": 8
+          },
+          {
+            "intitule": "Méthodologie de reprise et d'alimentation des données",
+            "faiblement_developpe": 2,
+            "moyennement_developpe": 5,
+            "bien_developpe": 8
+          },
+          {
+            "intitule": "Plan de conduite du changement et de transfert des compétences",
+            "faiblement_developpe": 2,
+            "moyennement_developpe": 5,
+            "bien_developpe": 8
+          },
+          {
+            "intitule": "Méthodologie de gestion de la maintenance du système",
+            "faiblement_developpe": 2,
+            "moyennement_developpe": 5,
+            "bien_developpe": 8
+          },
+          {
+            "intitule": "Planning et chronogramme d'exécution",
+            "faiblement_developpe": 3,
+            "moyennement_developpe": 7,
+            "bien_developpe": 10
+          }
+        ],
+        "legendes": {
+          "faiblement_developpe": "Reproduction des éléments extraits des termes de références",
+          "moyennement_developpe": "En cohérence avec les termes de référence",
+          "bien_developpe": "Donnant de nouveaux éléments pertinents par rapport aux termes de référence"
+        },
+        "elimination": "Méthodologie absente ou comportant des réserves, anomalies ou restrictions par rapport aux exigences du CPS : candidat éliminé"
+      },
+      {
+        "critere": "Note Technique 2 (NT2) — Composition de l'équipe et qualifications des intervenants",
+        "note_maximale": 50,
+        "sous_criteres": [
+          {
+            "profil": "Directeur de projet",
+            "critere_experience": {
+              "egal_10_ans": 5,
+              "superieur_10_ans": 7,
+              "inferieur_10_ans": "écarté"
+            },
+            "critere_projets": {
+              "3_projets": 3,
+              "plus_3_projets": 5,
+              "moins_3_projets": "écarté"
+            }
+          },
+          {
+            "profil": "Expert fonctionnel",
+            "critere_experience": {
+              "egal_5_ans": 5,
+              "superieur_5_ans": 7,
+              "inferieur_5_ans": "écarté"
+            }
+          },
+          {
+            "profil": "Expert dans le domaine de la GMAO",
+            "critere_experience": {
+              "egal_10_ans": 5,
+              "superieur_10_ans": 7,
+              "inferieur_10_ans": "écarté"
+            }
+          },
+          {
+            "profil": "Architecte applicatif expert en conception de systèmes",
+            "critere_experience": {
+              "egal_5_ans": 5,
+              "superieur_5_ans": 7,
+              "inferieur_5_ans": "écarté"
+            },
+            "critere_projets": {
+              "3_projets": 3,
+              "plus_3_projets": 5,
+              "moins_3_projets": "écarté"
+            }
+          },
+          {
+            "profil": "Expert en développement",
+            "critere_experience": {
+              "egal_5_ans": 5,
+              "superieur_5_ans": 7,
+              "inferieur_5_ans": "écarté"
+            },
+            "critere_projets": {
+              "3_projets": 3,
+              "plus_3_projets": 5,
+              "moins_3_projets": "écarté"
+            }
+          }
+        ]
+      },
+      {
+        "note_technique_totale": "Nt = NT1 + NT2 (sur 100 points)",
+        "seuil_minimal_admissibilite": 70,
+        "consequence_sous_seuil": "Toute proposition n'atteignant pas 70 points est rejetée ; l'offre financière correspondante n'est pas ouverte"
+      }
+    ],
+    "evaluation_financiere": [
+      {
+        "admissibilite": "Seuls les candidats ayant obtenu une note technique >= 70 points sont évalués financièrement"
+      },
+      {
+        "criteres_elimination_offre_financiere": [
+          "Offre non conforme à l'objet du marché",
+          "Offre non signée",
+          "Offre signée par une personne non habilitée au regard des pièces justificatives fournies",
+          "Offre comportant des restrictions ou des réserves",
+          "Offre présentant des divergences dans les libellés des prix, l'unité de compte ou les quantités par rapport au descriptif technique, bordereau des prix et détail estimatif",
+          "Offre excessive : supérieure de plus de 20% à l'estimation du maître d'ouvrage",
+          "Offre anormalement basse : inférieure de plus de 25% à l'estimation du maître d'ouvrage"
+        ]
+      },
+      {
+        "calcul_montant_total_offre": "MT = CF + (CM × 3 années), où CF = coût total de la conception, développement et déploiement (y compris maintenance durant la période de garantie) et CM = coût de la maintenance annuel après la période de garantie"
+      },
+      {
+        "formule_note_financiere": "Nf = 100 × (Montant de l'offre moins disante) / (Montant de l'offre évaluée)",
+        "note_maximale": 100
+      },
+      {
+        "ponderation_note_globale": "Ng = 0,7 × Nt + 0,3 × Nf"
+      },
+      {
+        "classement_et_attribution": "Le marché est attribué au candidat ayant obtenu la note globale Ng la plus élevée (offre économiquement la plus avantageuse)"
+      },
+      {
+        "preference_nationale": "Pour les concurrents non installés au Maroc, le montant de l'offre financière est majoré de 15% à des fins de comparaison. Cette disposition ne s'applique pas aux groupements dont la part des membres installés au Maroc est >= 30% telle qu'indiquée dans l'acte d'engagement"
+      }
+    ]
+  }
+}

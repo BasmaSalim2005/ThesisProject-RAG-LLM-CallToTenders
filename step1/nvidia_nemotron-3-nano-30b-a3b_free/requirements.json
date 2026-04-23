@@ -1,0 +1,37 @@
+{
+  "dossier_administrateur": [
+    "Acte d'engagement (Annexe I)",
+    "Déclaration sur l'honneur (Annexe II)",
+    "Cautionnement provisoire (84 000 dirhams)",
+    "Cautionnement définitif (3 % du montant TTC)",
+    "Relevé d'identité bancaire (RIB)",
+    "Procuration ou extrait des statuts du représentant",
+    "Attestation fiscale de situation régulière",
+    "Attestation CNSS",
+    "Certificat d'immatriculation au registre du commerce",
+    "Documents d'origine pour concurrents non installés au Maroc",
+    "Pièces justifiant les capacités et qualités"
+  ],
+  "offre_technique": [
+    "Méthodologie de gestion de projet (organisation, planning, jalons, documentation)",
+    "Architecture générale du système d'information proposé",
+    "Méthodologie de reprise et alimentation des bases de données",
+    "Plan de conduite du changement et de transfert des compétences",
+    "Plan de support et de formation des utilisateurs et administrateurs",
+    "Plan de maintenance (préventive, curative, évolutive)",
+    "Qualifications et CV des intervenants (directeur de projet, expert fonctionnel, expert GMAO, architecte applicatif, expert développement) avec expérience minimale",
+    "Curriculum Vitae selon le modèle annexé, signés",
+    "Diplômes certifiés conformes à l'original",
+    "Maquette numérique des actifs (voiries, réseaux divers)",
+    "Master‑documents ISO 55001",
+    "Détails de la reprise des données et intégration au SGOP"
+  ],
+  "offre_financiere": [
+    "Acte d'engagement (conception et maintenance) selon le modèle annexe",
+    "Bordereau des prix-détail estimatif (conception et maintenance)",
+    "Montant total de l'offre (CF + CM × 3 années de garantie)",
+    "Libellé en DH ou monnaie convertible, avec TVA indiquée en lettres et chiffres",
+    "Déclaration sur l'honneur pour le volet financier",
+    "Evolution du prix en cas de groupement (part de chaque membre)"
+  ]
+}

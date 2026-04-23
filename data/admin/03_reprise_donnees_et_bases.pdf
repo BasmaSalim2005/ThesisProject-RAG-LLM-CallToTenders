@@ -1,0 +1,3 @@
+# Méthodologie de reprise des données et d'alimentation des bases
+
+Stratégie de migration : inventaire des sources, règles de mapping et de qualité, phases d'extract-transform-load, contrôles de cohérence et réconciliation. Alimentation initiale et incrémentale des bases de données applicatives, jeux d'essai et bascule contrôlée.

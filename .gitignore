@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Local Chroma (rebuild with Step2/embedding)
+chroma_*/
+
+# IDE / tools
+.cursor/
+.idea/
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Optional: uncomment if you do not want generated PDFs in the repo
+# Step2/*report*.pdf

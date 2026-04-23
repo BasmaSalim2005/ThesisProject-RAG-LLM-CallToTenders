@@ -1,0 +1,82 @@
+{
+  "dossier_administratif": [
+    {
+      "piece": "La ou les pièces justifiant les pouvoirs conférés à la personne agissant au nom du concurrent",
+      "description": "S'il s'agit d'un représentant du concurrent, celui-ci doit présenter une copie certifiée conforme de la procuration légalisée, un extrait des statuts de la société et/ou copie certifiée conforme à l'original du procès-verbal de l'organe compétent lui conférant le pouvoir d'agir au nom de cette société, ou l'acte par lequel la personne habilitée délègue son pouvoir à une tierce personne, le cas échéant."
+    },
+    {
+      "piece": "La déclaration sur l'honneur",
+      "description": "Attestation sur l'honneur du concurrent."
+    },
+    {
+      "piece": "L'original du récipissé du cautionnement provisoire ou l'attestation de la caution personnelle et solidaire en tenant lieu",
+      "description": "La constitution de cette caution doit être effectuée par voie électronique, conformément aux modalités et conditions du Portail Marocain des Marchés Publics."
+    },
+    {
+      "piece": "La convention constitutive du groupement",
+      "description": "Ou sa copie certifiée conforme, lorsque le concurrent est un groupement."
+    },
+    {
+      "piece": "Une attestation ou sa copie certifiée conforme à l'original délivrée depuis moins d'un an par le percepteur du lieu d'imposition",
+      "description": "Certifiant que le concurrent est en situation fiscale régulière ou à défaut de paiement qu'il a constitué les garanties tel que prévu à l'article 27."
+    },
+    {
+      "piece": "Une attestation ou sa copie certifiée conforme à l'original délivrée depuis moins d'un an par la Caisse Nationale de Sécurité Sociale (CNSS)",
+      "description": "Ou par tout autre organisme de prévoyance sociale certifiant que le concurrent est en situation régulière envers l'organisme concerné."
+    },
+    {
+      "piece": "Une copie du certificat d'immatriculation au registre de commerce",
+      "description": "Pour les personnes assujetties à l'obligation d'immatriculation au registre de commerce en vertu de la législation en vigueur."
+    },
+    {
+      "piece": "L'équivalent des attestations visées aux paragraphes a), b) et c) ci-dessus, délivrées par les administrations ou les organismes compétents de leurs pays d'origine ou de provenance",
+      "description": "Pour les concurrents non installés au Maroc. A défaut de délivrance de ces documents par les administrations ou les organismes compétents, ils sont remplacés par une attestation délivrée par une autorité judiciaire ou administrative du pays d'origine ou de provenance certifiant que les documents précités ne sont pas produits."
+    }
+  ],
+  "offre_technique": [
+    {
+      "piece": "Une présentation détaillée de la méthodologie de gestion de projet",
+      "description": "Qui précise l'organisation du projet, le planning prévisionnel du projet et l'identification de jalons et points de contrôle, et la gestion de la documentation du projet."
+    },
+    {
+      "piece": "L'architecture générale du système d'information proposé",
+      "description": "Proposée par le soumissionnaire pour répondre aux besoins du Maître d'Ouvrage."
+    },
+    {
+      "piece": "La méthodologie de reprise des données et d'alimentation des bases des données du système d'information",
+      "description": "Méthodologie détaillée."
+    },
+    {
+      "piece": "Le plan de conduite du changement et de transfert des compétences",
+      "description": "Qui comprend le plan de communication, la stratégie de conduite de changement, et le plan de support et de formation des utilisateurs et des administrateurs."
+    },
+    {
+      "piece": "Méthodologie de gestion de la maintenance du système d'information",
+      "description": "Qui comprend le programme de la maintenance préventive systématique et curative, et la méthodologie d'exécution de la maintenance évolutive."
+    },
+    {
+      "piece": "La qualité des intervenants qui correspondent aux profils demandés",
+      "description": "Appuyée par les CVs signés par les consultants et les diplômes. Le soumissionnaire précisera dans son offre la description des interventions et la charge estimative d'intervention de chaque profil."
+    },
+    {
+      "piece": "Curriculum Vitae (CV) des intervenants",
+      "description": "Selon le modèle annexé, signé conjointement par la personne concernée (le profil demandé) et par le concurrent (l'entreprise soumissionnaire). Les diplômes fournis des profils demandés doivent être certifiés conformes à l'original."
+    }
+  ],
+  "offre_financiere": {
+    "pieces": [
+      {
+        "piece": "Les deux actes d'engagement",
+        "description": "Partie conception et partie maintenance, conformément au modèle ci-joint en annexe."
+      },
+      {
+        "piece": "Les deux bordereaux des prix-détail estimatif",
+        "description": "Partie conception et partie maintenance."
+      },
+      {
+        "piece": "En cas de Groupement des entreprises nationales et étrangères, le contrat de groupement",
+        "description": "Précisant la part financière revenant à chaque membre du groupement."
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "EVALUATION_DES_OFFRES_DES_CONCURRENTS": {
+    "evaluation_technique": [
+      {
+        "critere": "Méthodologie de gestion de projet",
+        "faiblement_developpe": 2,
+        "moyennement_developpe": 5,
+        "bien_developpe": 8,
+        "elimination": "Méthodologie absente ou comportant des réserves, anomalies ou restrictions par rapport aux exigences du CPS"
+      },
+      {
+        "critere": "Architecture générale du système d'information",
+        "faiblement_developpe": 2,
+        "moyennement_developpe": 5,
+        "bien_developpe": 8,
+        "elimination": "Méthodologie absente ou comportant des réserves, anomalies ou restrictions par rapport aux exigences du CPS"
+      },
+      {
+        "critere": "Méthodologie de reprise et d'alimentation des données",
+        "faiblement_developpe": 2,
+        "moyennement_developpe": 5,
+        "bien_developpe": 8,
+        "elimination": "Méthodologie absente ou comportant des réserves, anomalies ou restrictions par rapport aux exigences du CPS"
+      },
+      {
+        "critere": "Plan de conduite du changement et de transfert des compétences",
+        "faiblement_developpe": 2,
+        "moyennement_developpe": 5,
+        "bien_developpe": 8,
+        "elimination": "Méthodologie absente ou comportant des réserves, anomalies ou restrictions par rapport aux exigences du CPS"
+      },
+      {
+        "critere": "Méthodologie de gestion de la maintenance du système",
+        "faiblement_developpe": 2,
+        "moyennement_developpe": 5,
+        "bien_developpe": 8,
+        "elimination": "Méthodologie absente ou comportant des réserves, anomalies ou restrictions par rapport aux exigences du CPS"
+      },
+      {
+        "critere": "Planning et chronogramme d'exécution",
+        "faiblement_developpe": 3,
+        "moyennement_developpe": 7,
+        "bien_developpe": 10,
+        "elimination": "Méthodologie absente ou comportant des réserves, anomalies ou restrictions par rapport aux exigences du CPS"
+      },
+      {
+        "critere": "Note technique 1 (NT1) - Total solution proposée",
+        "points_max": 50,
+        "description": "Somme des 6 critères ci-dessus. Critère faiblement développé = reproduction des éléments extraits des TDR ; critère moyennement développé = en cohérence avec les TDR ; critère bien développé = nouveaux éléments pertinents par rapport aux TDR."
+      },
+      {
+        "critere": "Directeur de projet - Nombre d'années d'expérience",
+        "egal_10_ans": 5,
+        "superieur_10_ans": 7,
+        "inferieur_10_ans": "écarté"
+      },
+      {
+        "critere": "Directeur de projet - Participation aux projets similaires",
+        "3_projets": 3,
+        "plus_de_3_projets": 5,
+        "moins_de_3_projets": "écarté"
+      },
+      {
+        "critere": "Expert fonctionnel - Nombre d'années d'expérience",
+        "egal_5_ans": 5,
+        "superieur_5_ans": 7,
+        "inferieur_5_ans": "écarté"
+      },
+      {
+        "critere": "Expert dans le domaine de la GMAO - Nombre d'années d'expérience",
+        "egal_10_ans": 5,
+        "superieur_10_ans": 7,
+        "inferieur_10_ans": "écarté"
+      },
+      {
+        "critere": "Architecte applicatif expert en conception de systèmes - Nombre d'années d'expérience",
+        "egal_5_ans": 5,
+        "superieur_5_ans": 7,
+        "inferieur_5_ans": "écarté"
+      },
+      {
+        "critere": "Architecte applicatif expert en conception de systèmes - Participation aux projets similaires",
+        "3_projets": 3,
+        "plus_de_3_projets": 5,
+        "moins_de_3_projets": "écarté"
+      },
+      {
+        "critere": "Expert en développement - Nombre d'années d'expérience",
+        "egal_5_ans": 5,
+        "superieur_5_ans": 7,
+        "inferieur_5_ans": "écarté"
+      },
+      {
+        "critere": "Expert en développement - Participation aux projets similaires",
+        "3_projets": 3,
+        "plus_de_3_projets": 5,
+        "moins_de_3_projets": "écarté"
+      },
+      {
+        "critere": "Note technique 2 (NT2) - Composition et qualifications de l'équipe",
+        "points_max": 50,
+        "description": "Somme des notes correspondant à chacun des critères de qualification des profils listés ci-dessus."
+      },
+      {
+        "critere": "Note technique totale (Nt = NT1 + NT2)",
+        "points_max": 100,
+        "note_minimale_requise": 70,
+        "consequence": "Toute offre n'atteignant pas 70 points est rejetée et son offre financière n'est pas ouverte."
+      }
+    ],
+    "evaluation_financiere": [
+      {
+        "admissibilite": "Seuls les candidats ayant obtenu une note technique >= 70 points accèdent à l'évaluation financière."
+      },
+      {
+        "critere_elimination": "Offre non conforme à l'objet du marché"
+      },
+      {
+        "critere_elimination": "Offre non signée"
+      },
+      {
+        "critere_elimination": "Offre signée par une personne non habilitée"
+      },
+      {
+        "critere_elimination": "Offre comportant des restrictions ou des réserves"
+      },
+      {
+        "critere_elimination": "Offre présentant des divergences dans les libellés des prix, l'unité de compte ou les quantités par rapport au descriptif technique, bordereau des prix et détail estimatif"
+      },
+      {
+        "critere_elimination": "Offre excessive : supérieure de plus de 20% à l'estimation du maître d'ouvrage"
+      },
+      {
+        "critere_elimination": "Offre anormalement basse : inférieure de plus de 25% à l'estimation du maître d'ouvrage"
+      },
+      {
+        "calcul_note_financiere": "Nf = 100 x (Montant de l'offre moins disante) / (Montant de l'offre évaluée)",
+        "montant_total_offre": "MT = CF + (CM × 3 années), où CF = coût total conception/développement/déploiement (y compris maintenance pendant la période de garantie) et CM = coût de maintenance annuel après période de garantie",
+        "points_max": 100
+      },
+      {
+        "ponderation_note_globale": "Ng = 0,7 x Nt + 0,3 x Nf",
+        "attribution": "Le marché est attribué au candidat ayant obtenu la note globale Ng la plus élevée."
+      },
+      {
+        "preference_nationale": "Pour les concurrents non installés au Maroc, le montant de l'offre financière est majoré de 15% à des fins de comparaison. Cette disposition ne s'applique pas aux groupements dont la part des membres installés au Maroc est >= 30% telle qu'indiquée dans l'acte d'engagement."
+      }
+    ]
+  }
+}

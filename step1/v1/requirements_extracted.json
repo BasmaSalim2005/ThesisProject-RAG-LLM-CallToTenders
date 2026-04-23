@@ -1,0 +1,40 @@
+{
+  "dossier_administratif": [
+    "Pièces justifiant les pouvoirs conférés à la personne agissant au nom du concurrent (procuration légalisée pour personne physique, extrait des statuts et/ou PV pour personne morale, acte de délégation le cas échéant)",
+    "Déclaration sur l'honneur (modèle annexé au RC)",
+    "Original du récépissé du cautionnement provisoire (84 000,00 DH) ou attestation de caution personnelle et solidaire — constitué obligatoirement par voie électronique via le Portail Marocain des Marchés Publics",
+    "Convention constitutive du groupement ou copie certifiée conforme (uniquement si le concurrent est un groupement)",
+    "Pour le concurrent pressenti attributaire : attestation fiscale (moins d'un an) certifiant la situation fiscale régulière",
+    "Pour le concurrent pressenti attributaire : attestation CNSS ou organisme de prévoyance sociale (moins d'un an)",
+    "Pour le concurrent pressenti attributaire : copie du certificat d'immatriculation au registre de commerce (modèle 9)",
+    "Pour les concurrents non installés au Maroc : équivalents des attestations fiscale, CNSS et registre de commerce délivrés par les autorités compétentes du pays d'origine, ou attestation judiciaire/administrative certifiant que ces documents ne sont pas produits"
+  ],
+  "offre_technique": [
+    "Note indiquant les moyens humains et techniques du concurrent (lieu, date, nature, importance des prestations exécutées et qualité de participation)",
+    "Au moins deux (02) attestations de référence pour des prestations similaires réalisées durant les dix (10) dernières années, d'un montant supérieur ou égal à l'estimation du maître d'ouvrage (4 200 000,00 DH TTC) — attestations délivrées par les maîtres d'ouvrage publics ou privés ou hommes de l'art",
+    "En cas d'attestation englobant plusieurs prestations : fiches détaillées des activités signées par les hommes de l'art ou bénéficiaires ; en cas de groupement : indication de la part en montant et en missions",
+    "Présentation détaillée de la méthodologie de gestion de projet (organisation, planning prévisionnel avec jalons, gestion de la documentation)",
+    "Architecture générale du système d'information proposé",
+    "Méthodologie de reprise des données et d'alimentation des bases de données",
+    "Plan de conduite du changement et de transfert des compétences (plan de communication, stratégie de conduite du changement, plan de support et formation utilisateurs/administrateurs)",
+    "Méthodologie de gestion de la maintenance du système d'information (programme de maintenance préventive systématique et curative, méthodologie de maintenance évolutive)",
+    "CVs des intervenants clés signés conjointement par la personne concernée et par l'entreprise soumissionnaire, présentés selon le modèle annexe IV, avec diplômes certifiés conformes à l'original :",
+    "  - Directeur de projet : diplôme bac+5 minimum, 10 ans d'expérience dans le management de projets Asset Management incluant développement et déploiement d'applicatifs, au moins 3 projets similaires conduits",
+    "  - Expert fonctionnel : diplôme bac+5 en génie civil minimum, au moins 5 ans d'expérience dans la gestion des ouvrages portuaires ou réseaux et lots techniques",
+    "  - Expert dans le domaine de la GMAO : diplôme bac+5 minimum, au moins 10 ans d'expérience dans la gestion des projets de maintenance à l'aide de GMAO",
+    "  - Architecte applicatif expert en conception de systèmes : diplôme bac+5 en informatique minimum, 5 ans d'expérience en conception de systèmes d'information, participation à au moins 3 projets de même complexité",
+    "  - Expert en développement : diplôme bac+5 en informatique minimum, 5 ans d'expérience dans le développement des systèmes d'information, participation à au moins 3 projets de même complexité",
+    "Description des interventions et charge estimative de chaque profil",
+    "Règlement de Consultation (RC) signé électroniquement",
+    "Cahier des Prescriptions Spéciales (CPS) signé électroniquement"
+  ],
+  "offre_financiere": {
+    "actes_engagement": "Deux actes d'engagement distincts (Partie conception/développement/déploiement et Partie maintenance) conformément aux modèles joints en annexe, montant libellé en chiffres et en lettres",
+    "bordereaux_prix": "Deux bordereaux des prix-détail estimatif distincts (Partie conception et Partie maintenance), prix unitaires et montants en chiffres",
+    "cas_groupement_conjoint": "Acte d'engagement unique indiquant le montant total et la ou les parties des prestations que chaque membre s'engage à réaliser",
+    "cas_groupement_solidaire": "Acte d'engagement unique indiquant le montant total et l'ensemble des prestations ; peut indiquer les travaux de chaque membre",
+    "signature_groupement": "Acte d'engagement signé par chaque membre ou seulement par le mandataire justifiant des procurations légalisées",
+    "cas_groupement_national_etranger": "Contrat de groupement précisant la part financière revenant à chaque membre",
+    "note_discordance": "En cas de discordance entre l'acte d'engagement et le bordereau des prix-détail estimatif, le montant du bordereau prévaut"
+  }
+}

@@ -1,0 +1,2974 @@
+
+ 
+ 
+ 
+ 
+ROYAUME DU MAROC 
+ 
+ 
+ 
+ 
+ 
+AGENCE NATIONALE DES PORTS 
+DIRECTION DES INFRASTRUCTURES ET ETUDES 
+ 
+ 
+APPEL D’OFFRES OUVERT INTERNATIONAL 
+N°30/AOO/DI-DG-ANP/2025 
+ 
+ 
+ 
+CONCEPTION, DEVELOPPEMENT, DEPLOIEMENT ET 
+MAINTENANCE D'UN MODULE DE GESTION DES VOIRIES ET 
+RESEAUX DIVERS PORTUAIRES INTEGRE AU SYSTEME 
+D'INFORMATION D'ASSET MANAGEMENT 
+ 
+ 
+ 
+RC 
+REGLEMENT DE CONSULTATION   
+ 
+ 
+
+REGLEMENT DE CONSULTATION : CONCEPTION, DEVELOPPEMENT ET MISE EN SERVICE D'UN MODULE DE GESTION DES VOIRIES ET 
+RESEAUX DIVERS PORTUAIRES DANS LE CADRE DU SYSTEME D'INFORMATION D'ASSET MANAGEMENT  
+2 
+ 
+SOMMAIRE 
+ 
+ARTICLE 1. 
+OBJET DU REGLEMENT DE CONSULTATION ......................................................................... 3 
+ARTICLE 2. 
+MAITRE D’OUVRAGE ....................................................................................................................... 3 
+ARTICLE 3. 
+REPARTITION EN LOTS .................................................................................................................. 3 
+ARTICLE 4. 
+CONTENU DU DOSSIER D’APPEL D’OFFRES .......................................................................... 3 
+ARTICLE 5. 
+MODIFICATION DES DOCUMENTS D’APPEL D’OFFRES .................................................... 3 
+ARTICLE 6. 
+RETRAIT ELECTRONIQUE DU DOSSIER D’APPEL D’OFFRES .......................................... 4 
+ARTICLE 7. 
+DEMANDE D’ECLAIRCISSEMENT OU RENSEIGNEMENT DES CONCURRENTS ....... 4 
+ARTICLE 8. 
+CONDITIONS REQUISES DES CONCURRENTS ....................................................................... 4 
+ARTICLE 9. 
+LISTE DES PIECES JUSTIFIANT LES CAPACITES ET QUALITES DES 
+CONCURRENTS 5 
+ARTICLE 10. 
+OFFRE TECHNIQUE ....................................................................................................................... 7 
+ARTICLE 11. 
+OFFRE FINANCIERE ...................................................................................................................... 8 
+ARTICLE 12. 
+PRESENTATION DES DOSSIERS DES OFFRES DES CONCURRENTS....................... 9 
+ARTICLE 13. 
+DEPOT DES PLIS DES CONCURRENTS ................................................................................ 10 
+ARTICLE 14. 
+RETRAIT DES PLIS ...................................................................................................................... 10 
+ARTICLE 15. 
+OUVERTURE, EXAMEN DES OFFRES ET APPRECIATION DES CAPACITES DES 
+CONCURRENTS 10 
+ARTICLE 16. 
+EVALUATION DES OFFRES DES CONCURRENTS ............................................................ 11 
+ARTICLE 17. 
+DELAI DE VALIDITE DES OFFRES ......................................................................................... 14 
+ARTICLE 18. 
+RESULTATS DEFINITIFS DE L’APPEL D’OFFRES ............................................................ 14 
+ARTICLE 19. 
+LANGUE DE L’OFFRE.................................................................................................................. 15 
+ARTICLE 20. 
+MONNAIE D’EXPRESSION DE L’OFFRE ............................................................................... 15 
+ARTICLE 21. 
+PREFERENCE NATIONALE ...................................................................................................... 15 
+ARTICLE 22. 
+VISITE DES LIEUX ........................................................................................................................ 15 
+ANNEXE I : MODELE DE L’ACTE D'ENGAGEMENT .....................................................................................16 
+ANNEXE II : MODELE DE DECLARATION SUR L'HONNEUR ....................................................................18 
+ANNEXE III : MODELE DE DECLARATION SUR L'HONNEUR ..................................................................20 
+ANNEXE IV - MODÈLE DE CURRICULUM VITAE .........................................................................................22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+REGLEMENT DE CONSULTATION : CONCEPTION, DEVELOPPEMENT ET MISE EN SERVICE D'UN MODULE DE GESTION DES VOIRIES ET 
+RESEAUX DIVERS PORTUAIRES DANS LE CADRE DU SYSTEME D'INFORMATION D'ASSET MANAGEMENT  
+3 
+ 
+ARTICLE 1. 
+OBJET DU REGLEMENT DE CONSULTATION 
+Le présent règlement de consultation a pour objet de définir les conditions et modalités de 
+passation d'un marché, qui découlera du présent appel d’offres ouvert international, ayant pour 
+objet la conception, le développement et la mise en service d'un module de gestion des 
+voiries et réseaux divers portuaires intégré au système d'information d'Asset Management, 
+conformément aux dispositions du règlement relatif aux conditions et formes de passation des 
+marchés de l'ANP. 
+Les prescriptions du présent règlement de consultation ne peuvent en aucun cas déroger ou 
+modifier les conditions et formes prévues par le règlement de passation des marchés de l'ANP.  
+Toute disposition contraire audit règlement précité est nulle et non avenue. Seules sont valables les 
+précisions et prescriptions complémentaires conformes aux dispositions de l’article 21 et des 
+autres articles du règlement précité. 
+ARTICLE 2. 
+MAITRE D’OUVRAGE 
+Le maître d’ouvrage du marché découlant du présent appel d’offres est l’Agence Nationale des Ports 
+(ANP), représentée par le Directeur Général ou son délégué. 
+ARTICLE 3. 
+REPARTITION EN LOTS 
+Le présent appel d’offres concerne un marché lancé en lot unique. 
+ARTICLE 4. 
+CONTENU DU DOSSIER D’APPEL D’OFFRES 
+Conformément à l’article 22 du règlement relatif aux conditions et formes de passation des marchés 
+de l’Agence Nationale des Ports (ANP), le dossier d’appel d’offres comprend notamment : 
+ Copie de l’avis d’appel d’offres ; 
+ Un exemplaire du cahier des prescriptions spéciales (CPS) ;  
+ Le modèle de l’acte d’engagement (annexé au règlement) ; 
+ Le modèle du bordereau des prix et détail estimatif ; 
+ Le modèle de la déclaration sur l’honneur (annexé au règlement) ; 
+ Le présent règlement de consultation ; 
+ARTICLE 5. 
+MODIFICATION DES DOCUMENTS D’APPEL D’OFFRES 
+Conformément aux dispositions de l’article 22 du règlement relatif aux conditions et formes de 
+passation des marchés de l'ANP, le maître d’ouvrage peut, à titre exceptionnel, introduire des 
+modifications dans le dossier d’appel d’offres sans changer l’objet du marché.  
+Ces modifications sont communiquées à tous les concurrents ayant téléchargé le dossier, et 
+intégrées dans les dossiers mis à la disposition des autres concurrents dans le portail des marchés 
+publics. 
+Ces modifications peuvent intervenir à tout moment à l’intérieur du délai initial de publicité et au 
+plus tard (07) sept jours avant la date de la séance d’ouverture des plis. 
+
+REGLEMENT DE CONSULTATION : CONCEPTION, DEVELOPPEMENT ET MISE EN SERVICE D'UN MODULE DE GESTION DES VOIRIES ET 
+RESEAUX DIVERS PORTUAIRES DANS LE CADRE DU SYSTEME D'INFORMATION D'ASSET MANAGEMENT  
+4 
+ 
+Passé ce délai, le maître d’ouvrage doit, par avis rectificatif, reporter la date de la séance d’ouverture 
+des plis. 
+Lorsque les modifications introduites dans le dossier d’appel d’offres nécessitent la publication d’un 
+avis rectificatif, celui-ci est publié conformément aux dispositions du premier alinéa du deuxième 
+paragraphe de l’article 23 du règlement précité. 
+Dans ce cas, la séance d’ouverture des plis ne peut être tenue qu'après l'expiration d'un délai 
+minimum de (10) dix jours. Ce délai court à partir du lendemain de la date de parution de l’avis 
+rectificatif dans le dernier support de publication, sans que la date de la nouvelle séance ne soit 
+antérieure à celle prévue par l’avis de publicité initial. 
+ARTICLE 6. 
+RETRAIT ELECTRONIQUE DU DOSSIER D’APPEL D’OFFRES 
+Le dossier d’appel d’offres est mis à la disposition des concurrents sous forme électronique sur le 
+portail marocain des marchés publics (www.marchespublics.gov.ma) dès la publication de l’avis 
+d’appel d’offres et jusqu’à la date limite de dépôt des offres. 
+Les concurrents peuvent télécharger gratuitement le dossier d’appel d’offres via ce portail. 
+Les noms des concurrents ayant procédé au téléchargement sont enregistrés automatiquement par 
+le système, ce qui permet au maître d’ouvrage de communiquer toute modification ou information 
+complémentaire à l’ensemble des candidats concernés. 
+ARTICLE 7. 
+DEMANDE D’ECLAIRCISSEMENT OU RENSEIGNEMENT DES 
+CONCURRENTS 
+Tout concurrent peut demander au maître d’ouvrage, par lettre transmise par tout moyen pouvant 
+donner date certaine, de lui fournir des éclaircissements ou renseignements concernant l’appel 
+d’offres ou les documents y afférents. Cette demande n’est recevable que si elle parvient au maître 
+d’ouvrage au moins (07) sept jours avant la date prévue pour la séance d’ouverture des plis. 
+Le maître d’ouvrage doit répondre, dans les mêmes formes, à toute demande d’information ou 
+d’éclaircissement reçue, au plus tard (03) trois jours avant la date prévue pour la séance 
+d’ouverture des plis.  
+Tout éclaircissement ou renseignement fourni par le maître d’ouvrage à un concurrent à la 
+demande de ce dernier doit être communiqué, le même jour et dans les mêmes formes, aux autres 
+concurrents ayant téléchargé le dossier d’appel d’offres et aux membres de la commission d’appel 
+d’offres.  
+Cet éclaircissement ou renseignement est mis à la disposition de tout concurrent potentiel dans le 
+portail des marchés publics.  
+ARTICLE 8. 
+CONDITIONS REQUISES DES CONCURRENTS  
+Conformément aux dispositions de l’article 27 du règlement relatif aux conditions et formes de 
+passation des marchés de l'ANP, seules les personnes physiques ou morales remplissant les 
+conditions suivantes peuvent participer valablement au présent appel d’offres et être attributaires 
+du marché de l’ANP : 
+
+REGLEMENT DE CONSULTATION : CONCEPTION, DEVELOPPEMENT ET MISE EN SERVICE D'UN MODULE DE GESTION DES VOIRIES ET 
+RESEAUX DIVERS PORTUAIRES DANS LE CADRE DU SYSTEME D'INFORMATION D'ASSET MANAGEMENT  
+5 
+ 
+ Justifient des capacités juridiques, techniques et financières requises ;  
+ Sont en situation fiscale régulière, pour avoir souscrit leurs déclarations et réglé les sommes 
+exigibles ou, à défaut de règlement, constitué des garanties jugées suffisantes par le 
+comptable chargé du recouvrement, et ce conformément à la législation en vigueur en 
+matière de recouvrement des créances publiques ;  
+ Sont affiliées à la Caisse nationale de sécurité sociale ou à un autre régime particulier de 
+prévoyance sociale, et souscrivent de manière régulière leurs déclarations de salaires et sont 
+en situation régulière auprès de ces organismes ;  
+ Exercent l’une des activités en rapport avec l’objet du marché.  
+Ne sont pas admises à participer aux appels d’offres : 
+ Les personnes en liquidation judiciaire ; 
+ Les personnes en redressement judiciaire, sauf autorisation spéciale délivrée par l’autorité 
+judiciaire compétente ;  
+ Les personnes ayant fait l’objet d’une décision d’exclusion temporaire ou définitive prise 
+conformément aux dispositions de l’article 152 du présent règlement ;  
+ Les personnes qui représentent plus d’un concurrent dans un même marché, lorsqu’il s’agit 
+d’un marché en lot unique ou d’un même lot lorsqu’il s’agit d’un marché alloti ; 
+ Les prestataires de services ayant contribué à la préparation du dossier de l’appel d’offres 
+concerné ; 
+ Les titulaires dont les marchés ont fait l’objet de résiliation pour une faute qui leur incombe 
+au titre des marchés d’achèvement y afférents. 
+ARTICLE 9. 
+LISTE DES PIECES JUSTIFIANT LES CAPACITES ET QUALITES 
+DES CONCURRENTS 
+Conformément aux dispositions de l’article 28 du règlement relatif aux conditions et 
+formes de passation des marchés de l'ANP, chaque concurrent doit fournir un dossier 
+complet comprenant un dossier administratif et un dossier technique, comportant 
+notamment les pièces suivantes :  
+A. DOSSIER ADMINISTRATIF 
+A1. Pour chaque concurrent, au moment de la présentation des offres :  
+a) La ou les pièces justifiant les pouvoirs conférés à la personne agissant au nom du 
+concurrent : 
+- S’il s’agit d’un représentant du concurrent, celui-ci doit présenter, selon le cas : 
+ 
+Une copie certifiée conforme de la procuration légalisée, lorsqu’il agit au nom d’une 
+personne physique ;  
+ 
+Un extrait des statuts de la société et/ou copie certifiée conforme à l’original du 
+procès-verbal de l’organe compétent lui conférant le pouvoir d’agir au nom de cette 
+société ;  
+ 
+L’acte par lequel la personne habilitée délègue son pouvoir à une tierce personne, le 
+cas échéant.  
+b) La déclaration sur l’honneur ;  
+c) L’original du récépissé du cautionnement provisoire ou l’attestation de la caution 
+personnelle et solidaire en tenant lieu, le cas échéant ; ; la constitution de cette caution 
+
+REGLEMENT DE CONSULTATION : CONCEPTION, DEVELOPPEMENT ET MISE EN SERVICE D'UN MODULE DE GESTION DES VOIRIES ET 
+RESEAUX DIVERS PORTUAIRES DANS LE CADRE DU SYSTEME D'INFORMATION D'ASSET MANAGEMENT  
+6 
+ 
+doit être effectuée par voie électronique, conformément aux modalités et conditions 
+du Portail Marocain des Marchés Publics. 
+d) La convention constitutive du groupement prévue à l’article 150 du règlement de passation 
+des marchés de l'ANP ou sa copie certifiée conforme, lorsque le concurrent est un 
+groupement. 
+ 
+A2. Pour le concurrent auquel il est envisagé d'attribuer le marché, dans les conditions 
+fixées à l'article 43 du règlement de passation des marchés de l'ANP : 
+a) Une attestation ou sa copie certifiée conforme à l’original délivrée depuis moins d’un an par 
+le percepteur du lieu d’imposition certifiant que le concurrent est en situation fiscale régulière 
+ou à défaut de paiement qu’il a constitué les garanties tel que prévu à l’article 27 ci-dessus. 
+Cette attestation doit mentionner l’activité au titre de laquelle le concurrent est imposé  
+b) Une attestation ou sa copie certifiée conforme à l’original délivrée depuis moins d’un an par 
+la Caisse Nationale de Sécurité Sociale (CNSS) ou par tout autre organisme de prévoyance 
+sociale certifiant que le concurrent est en situation régulière envers l’organisme concerné ;  
+c) Une copie du certificat d’immatriculation au registre de commerce (modèle 9) pour les 
+personnes assujetties à l’obligation d’immatriculation au registre de commerce en vertu de la 
+législation en vigueur ;  
+d) L’équivalent des attestations visées aux paragraphes a), b) et c) ci-dessus, délivrées par les 
+administrations ou les organismes compétents de leurs pays d’origine ou de provenance, pour 
+les concurrents non installés au Maroc ; 
+A défaut de délivrance de ces documents par les administrations ou les organismes compétents, ils 
+sont remplacés par une attestation délivrée par une autorité judiciaire ou administrative du pays 
+d’origine ou de provenance certifiant que les documents précités ne sont pas produits. 
+La date de production, au maître d’ouvrage, des pièces prévues aux a) et b) ci-dessus sert de base 
+pour l’appréciation de leur validité. 
+ 
+B. DOSSIER TECHNIQUE 
+Ce dossier doit contenir les pièces suivantes : 
+ Une note indiquant les moyens humains et techniques du concurrent et mentionnant, le cas 
+échéant, le lieu, la date, la nature et l’importance des prestations qu’il a exécutées ou à 
+l’exécution desquelles il a participé, avec précision de la qualité de sa participation ; 
+ Les attestations ou leurs copies certifiées conformes à l’original délivrées par les maîtres 
+d’ouvrage, publics ou privés, ou par les hommes de l’art sous la direction desquels le 
+concurrent a exécuté ces prestations ou par les titulaires de marchés au titre des 
+prestations sous-traitées.   
+Pour être admis, le concurrent doit impérativement présenter au moins deux (02) 
+attestations de référence pour des prestations similaires à l’objet du présent appel d’offres, 
+réalisées durant les dix (10) dernières années, et d’un montant supérieur ou égal à 
+l’estimation du maître d’ouvrage.  
+ 
+Toute attestation de référence n’indiquant pas les informations demandées sera rejetée. 
+ 
+
+REGLEMENT DE CONSULTATION : CONCEPTION, DEVELOPPEMENT ET MISE EN SERVICE D'UN MODULE DE GESTION DES VOIRIES ET 
+RESEAUX DIVERS PORTUAIRES DANS LE CADRE DU SYSTEME D'INFORMATION D'ASSET MANAGEMENT  
+7 
+ 
+Note importante : 
+Dans le cas d’attestations de référence englobant plusieurs prestations, les concurrents doivent les 
+accompagner de fiches détaillant les différentes activités menées, signées par les hommes de l’art 
+ou les bénéficiaires publics ou privés des dites prestations. 
+Dans le cas où des prestations relatives à une référence ont été réalisées dans le cadre d’un 
+groupement, le concurrent doit indiquer sur la fiche sa part en montant et en missions réalisées. 
+Cette fiche doit être signée par les hommes de l’art ou les bénéficiaires publics ou privés des dites 
+prestations. 
+ARTICLE 10. OFFRE TECHNIQUE 
+Les concurrents doivent présenter une offre technique faisant ressortir leur capacité à réaliser les 
+prestations objet de cet appel d'offres selon une procédure technique avantageuse.  A cet effet, ils 
+doivent fournir les documents suivants :  
+1) Une présentation détaillée de la méthodologie de gestion de projet qui précise les éléments 
+suivants :  
+(i) L’organisation du projet : présentation des structures de travail et de pilotage du 
+projet,  
+(ii) Le planning prévisionnel du projet et l’indentification de jalons et points de contrôle 
+(iii) La gestion de la documentation du projet ; 
+2) L’architecture générale du système d’information proposé par le soumissionnaire pour 
+répondre aux besoins du Maître d’Ouvrage. 
+3) La méthodologie de reprise des données et d’alimentation des bases des données du système 
+d’information ; 
+4) Le plan de conduite du changement et de transfert des compétences avec :  
+(i) Le Plan de communication,  
+(ii) La Stratégie de conduite de changement 
+(iii) Le Plan de support et de formation des utilisateurs et des administrateurs ; 
+5) Méthodologie de gestion de la maintenance du système d’information avec : 
+(i) le Programme de la maintenance préventive systématique et curative 
+(ii) la méthodologie d’exécution de la maintenance évolutive ; 
+6) La qualité des intervenants qui correspondent aux profils demandés dans le présent appel 
+d'offres appuyée par les CVs signés par les consultants et les diplômes. Le soumissionnaire 
+précisera dans son offre la description des interventions et la charge estimative 
+d’intervention de chaque profil. 
+L’équipe du soumissionnaire doit avoir une expérience confirmée dans le développement des 
+systèmes similaires et être composée notamment de : 
+a. Directeur de projet :  
+ Disposant au minimum d’un diplôme supérieur (bac+5), ayant une expérience de 10 ans 
+dans le management de projets de mise en place de système d’Asset Management y 
+compris développement et déploiement d’applicatifs ; 
+ Ayant déjà conduit au moins 3 projets similaires et de même envergure ; 
+
+REGLEMENT DE CONSULTATION : CONCEPTION, DEVELOPPEMENT ET MISE EN SERVICE D'UN MODULE DE GESTION DES VOIRIES ET 
+RESEAUX DIVERS PORTUAIRES DANS LE CADRE DU SYSTEME D'INFORMATION D'ASSET MANAGEMENT  
+8 
+ 
+ Il sera l’interlocuteur unique de l’ANP sur tous les aspects techniques, opérationnels, 
+commerciaux et administratifs relatifs au projet. 
+b. Expert fonctionnel :  
+ Disposant au minimum d’un diplôme supérieur (bac+5) en génie civil ; 
+ Ayant une expérience d’au moins 5 ans dans la gestion des ouvrages portuaires ou les 
+réseaux et lots techniques ; 
+c. Un expert dans le domaine de la GMAO :  
+ Disposant au minimum d’un diplôme supérieur (bac+5) ; 
+ Ayant une expérience d’au moins 10 ans dans la gestion des projets de maintenance à 
+l’aide de GMAO. 
+d. Un architecte applicatif expert en conception de systèmes :  
+ Disposant au minimum d’un diplôme supérieur (bac+5) en informatique, ayant une 
+expérience de 5 ans dans la conception des systèmes d’information ; 
+ Ayant une expérience pertinente d’au moins 5 ans en matière de conception des systèmes 
+d’information ; 
+ Ayant participé à au moins 3 projets de même complexité ; 
+e. Un expert en développement :  
+ Disposant au minimum d’un diplôme supérieur (bac+5) en informatique ; 
+ Ayant une expérience de 5 ans dans le développement des systèmes d’information 
+ Ayant participé à au moins 3 projets de même complexité. 
+ Les CV doivent être présentés selon le modèle ci-joint en annexe. 
+ Chaque CV doit être signé conjointement par la personne concernée (le profil 
+demandé) et par le concurrent (l'entreprise soumissionnaire). 
+ Les diplômes fournis des profils demandés doivent être certifiés conformes à 
+l'original. 
+NB : Tout concurrent ayant présenté une offre incomplète ou ne répondant pas aux exigences 
+mentionnées ci-dessus sera écarté. 
+ARTICLE 11. OFFRE FINANCIERE 
+Chaque concurrent doit présenter une offre financière comprenant obligatoirement les documents 
+ci-après conformément aux modèles joints en annexe : 
+1. Les deux actes d’engagement (Partie conception et partie maintenance) conformément au 
+modèle ci-joint en annexe ; 
+2. Les deux bordereaux des prix-détail estimatif (Partie conception et partie maintenance) ; 
+ En cas de Groupement des entreprises nationales et étrangères, le contrat de 
+groupement précisant la part financière revenant à chaque membre du groupement.  
+
+REGLEMENT DE CONSULTATION : CONCEPTION, DEVELOPPEMENT ET MISE EN SERVICE D'UN MODULE DE GESTION DES VOIRIES ET 
+RESEAUX DIVERS PORTUAIRES DANS LE CADRE DU SYSTEME D'INFORMATION D'ASSET MANAGEMENT  
+9 
+ 
+En cas de groupement conjoint, le groupement doit présenter un acte d’engagement 
+unique qui indique le montant total du marché et précise-la ou les parties des 
+prestations que chacun des membres du groupement conjoint s’engage à réaliser. 
+En cas de groupement solidaire, le groupement doit présenter un acte d’engagement 
+unique qui indique le montant total du marché et l’ensemble des prestations que les 
+membres du groupement s’engagent solidairement à réaliser, étant précisé que cet acte 
+d’engagement peut, le cas échéant, indiquer les travaux que chacun des membres 
+s’engage à réaliser dans le cadre dudit marché. 
+ Lorsque l’acte d’engagement est souscrit par un groupement, il doit être signé soit par 
+chacun des membres du groupement, soit seulement par le mandataire, si celui-ci 
+justifie des habilitations sous forme de procurations légalisées pour représenter les 
+membres du groupement lors de la procédure de passation du marché. 
+ 
+Le montant de l'acte d'engagement doit être libellé en chiffres et en lettres. 
+Les prix unitaires et les montants totaux du bordereau des prix-détail estimatif doivent être libellés 
+en chiffres. 
+En cas de discordance entre le montant total de l'acte d'engagement et de celui du bordereau des 
+prix-détail estimatif, le montant de ce dernier document est tenu pour bons pour établir le montant 
+réel de l'acte d'engagement. 
+ARTICLE 12. PRESENTATION DES DOSSIERS DES OFFRES DES 
+CONCURRENTS 
+Conformément aux dispositions de l’article 32 du règlement relatif aux conditions et formes de 
+passation des marchés de l'ANP et à l’arrêté du Ministre Délégué auprès de la Ministre de 
+l’Economie et des Finances, chargé du budget n° 1692-23 du 4 hija 1444 (23 juin 2023) relatif à la 
+dématérialisation des procédures, des documents et des pièces relatives aux marchés publics, les 
+offres des concurrents doivent être obligatoirement déposées sous forme dématérialisée via le 
+portail marocain des marchés publics. 
+Note importante : toutes les pièces des plis de l’offre doivent être insérées individuellement et 
+signées électroniquement via le portail des marchés publics par le concurrent ou la personne 
+dûment habilitée à le représenter. La signature électronique du concurrent ou de son représentant 
+dûment habilité se fait au moyen d'un certificat électronique délivré par une autorité de 
+certification agréée, conformément à la législation et la réglementation en vigueur. 
+LE PREMIER PLI : 
+Le premier pli contient : 
+ Le dossier administratif ; 
+ Le dossier technique ;  
+ Le Règlement de Consultation (RC) ; 
+ Le Cahier des Prescriptions Spéciales (CPS). 
+Toutes les pièces de ces dossiers doivent être insérées individuellement et signées 
+électroniquement via le portail des marchés publics par le concurrent ou la personne dûment 
+habilitée à cet effet. 
+
+REGLEMENT DE CONSULTATION : CONCEPTION, DEVELOPPEMENT ET MISE EN SERVICE D'UN MODULE DE GESTION DES VOIRIES ET 
+RESEAUX DIVERS PORTUAIRES DANS LE CADRE DU SYSTEME D'INFORMATION D'ASSET MANAGEMENT  
+10 
+ 
+ 
+LE DEUXIÈME PLI : 
+Le deuxième pli contient l’offre technique.  
+Toutes les pièces de ce dossier doivent être insérées individuellement et signées électroniquement 
+via le portail des marchés publics par le concurrent ou la personne dûment habilitée à cet effet. 
+LE TROISIÈME PLI : 
+Le troisième pli contient l'offre financière.  
+Toutes les pièces de ce dossier doivent être insérées individuellement et signées électroniquement 
+via le portail des marchés publics par le concurrent ou la personne dûment habilitée à cet effet. 
+ARTICLE 13. DEPOT DES PLIS DES CONCURRENTS 
+Le dépôt des offres des concurrents s’effectue par voie électronique, conformément à l’article 34 du 
+règlement relatif aux conditions et formes de passation des marchés de l'ANP et à l’arrêté du 
+Ministre Délégué auprès de la Ministre de l’Économie et des Finances, chargé du budget n° 1692-23 
+du 4 hija 1444 (23 juin 2023) relatif à la dématérialisation des procédures, des documents et des 
+pièces relatives aux marchés publics. 
+Toutes les pièces du dossier d’appel d’offres doivent être insérées individuellement et signées 
+électroniquement via le portail des marchés publics par le concurrent ou son représentant dûment 
+habilité. 
+Le délai pour la réception des offres expire à la date et à l’heure fixées par l’avis d’appel d’offres 
+pour la séance d’ouverture des plis. 
+ARTICLE 14. RETRAIT DES PLIS  
+Le retrait des plis des offres des concurrents s’effectue par voie électronique, conformément à 
+l’article 35 du règlement relatif aux conditions et formes de passation des marchés de l'ANP et à 
+l’arrêté du Ministre Délégué auprès de la Ministre de l’Économie et des Finances, chargé du budget 
+n° 1692-23 du 4 hija 1444 (23 juin 2023) relatif à la dématérialisation des procédures, des 
+documents et des pièces relatives aux marchés publics. 
+Les concurrents ayant retiré leurs plis peuvent déposer de nouveau leurs plis par voie électronique, 
+dans les mêmes conditions prévues à l’article ci-dessus relatif au dépôt des plis. 
+ 
+ARTICLE 15. OUVERTURE, EXAMEN DES OFFRES ET APPRECIATION DES 
+CAPACITES DES CONCURRENTS 
+L’ouverture des plis s’effectue en séance publique à la date, à l’heure et au lieu fixés dans l’avis 
+d’appel d’offres, conformément aux dispositions du règlement relatif aux conditions et formes de 
+passation des marchés de l'ANP et de l’arrêté du Ministre Délégué auprès de la Ministre de 
+l’Économie et des Finances, chargé du budget n° 1692-23 du 4 hija 1444 (23 juin 2023) relatif à la 
+dématérialisation des procédures, des documents et des pièces relatives aux marchés publics. 
+
+REGLEMENT DE CONSULTATION : CONCEPTION, DEVELOPPEMENT ET MISE EN SERVICE D'UN MODULE DE GESTION DES VOIRIES ET 
+RESEAUX DIVERS PORTUAIRES DANS LE CADRE DU SYSTEME D'INFORMATION D'ASSET MANAGEMENT  
+11 
+ 
+La commission procède à l’examen des dossiers administratifs et techniques afin de vérifier la 
+complétude, la conformité et la validité des pièces fournies, ainsi qu’à l’appréciation des capacités 
+des concurrents conformément aux critères fixés dans le présent règlement de consultation. 
+Tout concurrent n’ayant pas présenté l’une des pièces exigées au dossier administratif et technique 
+ou ne répondant pas aux critères de capacité sera écarté. 
+Seules les offres admises à l’issue de cet examen seront retenues pour l’ouverture et l’évaluation 
+des offres techniques. 
+ARTICLE 16. EVALUATION DES OFFRES DES CONCURRENTS   
+L'examen des offres techniques ne concerne que les seuls candidats admis à l’issue de l'examen de 
+leurs dossiers « administratifs et techniques » et ce, au regard des critères fixés par le règlement de 
+la consultation. 
+Les critères énumérés ci-après sont assortis de la grille de notation ci-dessous :   
+ EVALUATION TECHNIQUE NOTEE SUR 100 POINTS 
+L'évaluation technique des offres sera axée sur les critères suivants : 
+1. Evaluation des critères techniques de la solution proposée (Note technique 1 : 
+NT1=50 points maximum) 
+CRITERE D’EVALUATION 
+faiblement 
+développé 
+moyennement 
+développé 
+bien 
+développé 
+Méthodologie de gestion de 
+projet 
+2 
+5 
+8 
+Architecture générale du 
+système d’information 
+2 
+5 
+8 
+Méthodologie de reprise et 
+d’alimentation des données 
+2 
+5 
+8 
+Plan de conduite du changement 
+et de transfert des compétences 
+2 
+5 
+8 
+Méthodologie de gestion de la 
+maintenance du système 
+2 
+5 
+8 
+Planning et chronogramme 
+d’exécution 
+3 
+7 
+10 
+ 
+NB : 
+ Critère faiblement développé : Reproduction des éléments extraits des termes de références. 
+ Critère moyennement développé : En cohérence avec les termes de référence. 
+ Critère bien développé : Donnant de nouveaux éléments pertinents par rapport aux termes de 
+référence. 
+
+REGLEMENT DE CONSULTATION : CONCEPTION, DEVELOPPEMENT ET MISE EN SERVICE D'UN MODULE DE GESTION DES VOIRIES ET 
+RESEAUX DIVERS PORTUAIRES DANS LE CADRE DU SYSTEME D'INFORMATION D'ASSET MANAGEMENT  
+12 
+ 
+ Méthodologie absente ou comporte des réserves, des anomalies ou restrictions par rapport 
+aux exigences du CPS : candidat éliminé. 
+2. Evaluation de la composition de l’équipe et des qualifications des intervenants 
+(Note technique 2 : NT2=maximum 50 points)  
+DESIGNATION DES PROFILS 
+CRITERE 
+NOTE 
+Directeur de projet 
+Nombre d’années 
+Expérience 
+=10 ans 
+5 
+> 10 ans 
+7 
+< 10 ans 
+écarté 
+Participation aux 
+projets similaires 
+3 projets 
+3 
+Plus de 3 projets 
+5 
+< 3 projets 
+écarté 
+Expert fonctionnel 
+Nombre d’années 
+Expérience 
+=5 ans 
+5 
+> 5 ans 
+7 
+< 5 ans 
+écarté 
+Expert dans le domaine de 
+la GMAO 
+Nombre d’années 
+Expérience 
+=10 ans 
+5 
+> 10 ans 
+7 
+< 10 ans 
+écarté 
+Architecte applicatif expert 
+en conception de systèmes 
+Nombre d’années 
+Expérience 
+=5 ans 
+5 
+> 5 ans 
+7 
+< 5 ans 
+écarté 
+Participation aux 
+projets similaires 
+3 projets 
+3 
+Plus de 3 projets 
+5 
+< 3 projets 
+écarté 
+Expert en développement 
+Nombre d’années 
+Expérience 
+=5 ans 
+5 
+> 5 ans 
+7 
+< 5 ans 
+écarté 
+Participation aux 
+projets similaires 
+3 projets 
+3 
+Plus de 3 projets 
+5 
+< 3 projets 
+écarté 
+La note technique (Nt) est égale à la somme des points correspondants à chacun des critères ci-
+dessus. 
+La note globale de l’équipe proposée par le consultant, sera la somme des notes correspondantes à 
+chacun des critères listés ci-dessus. 
+
+REGLEMENT DE CONSULTATION : CONCEPTION, DEVELOPPEMENT ET MISE EN SERVICE D'UN MODULE DE GESTION DES VOIRIES ET 
+RESEAUX DIVERS PORTUAIRES DANS LE CADRE DU SYSTEME D'INFORMATION D'ASSET MANAGEMENT  
+13 
+ 
+La note technique minimale requise est de 70 points. A ce titre, toute proposition est rejetée à ce 
+stade si elle n'atteint pas la note technique minimale spécifiée. Dans ce cas, l’offre financière du 
+concurrent dont la proposition a été rejetée ne sera pas ouverte. 
+ EVALUATION FINANCIERE NOTEE SUR 100 POINTS 
+Admissibilité à l'évaluation financière : 
+L'examen des offres financières concerne les seuls candidats ayant obtenu la note technique 
+d’admissibilité indiquée ci-dessus. 
+Critères d'élimination des offres financières : 
+La commission d’appel d’offres écartera les offres financières des concurrents dans les cas 
+suivants : 
+ L’offre n’est pas conforme à l’objet du marché. 
+ L’offre n’est pas signée. 
+ L’offre est signée par une personne non habilitée, au regard des pièces justificatives 
+fournies. 
+ L’offre comporte des restrictions ou des réserves. 
+ L’offre présente des divergences dans les libellés des prix, l’unité de compte ou les 
+quantités par rapport aux données prévues dans le descriptif technique, le bordereau des 
+prix et le détail estimatif. 
+ L’offre est considérée excessive, lorsqu’elle est supérieure de plus de vingt pour cent 
+(20%) par rapport à l’estimation du coût des prestations établies par le maître d’ouvrage 
+;  
+ L’offre est considérée anormalement basse lorsqu’elle est inférieure de plus de vingt–cinq 
+pour cent (25%) par rapport à l’estimation du coût des prestations établies par le maître 
+d’ouvrage. 
+ 
+Calcul de la note financière : 
+Après élimination des offres non retenues à l'issue de l'évaluation technique, une note financière Nf 
+sur 100 relative à l'offre financière sera attribuée aux candidats retenus en fonction de l'offre la 
+moins disante, parmi les offres retenues.  
+L’évaluation globale des offres financières sera effectuée en tenant compte de la combinaison de 
+l’offre de conception, développement et déploiement d’un module de gestion des voiries et réseaux 
+divers portuaires intégré au système d'information d'Asset Management et de la maintenance 
+comme suit : 
+ 
+ 
+ 
+ 
+ 
+
+REGLEMENT DE CONSULTATION : CONCEPTION, DEVELOPPEMENT ET MISE EN SERVICE D'UN MODULE DE GESTION DES VOIRIES ET 
+RESEAUX DIVERS PORTUAIRES DANS LE CADRE DU SYSTEME D'INFORMATION D'ASSET MANAGEMENT  
+14 
+ 
+INTITULE 
+PRESTATIONS 
+Cout de la 
+conception, 
+développement 
+et déploiement 
+(CF) 
+Coût total de la conception, développement et déploiement 
+d’un module de gestion des voiries et réseaux divers portuaires 
+intégré au système d'information d'Asset Management, y 
+compris le coût de  la maintenance durant la période de 
+garantie. 
+Cout de la 
+maintenance 
+(CM) 
+Coût de la maintenance annuel après la période de garantie 
+ 
+Le montant total d’une offre MT est égale : MT = CF + (CM × 3 années) 
+La note financière est calculée selon la formule suivante : 
+Nf = 100 x (Montant de l’offre moins disante) / (Montant de l’offre évaluée) 
+ PONDERATION DES NOTES 
+La note globale du soumissionnaire (Ng) sera déterminée selon la formule suivante :   
+Ng = 0,7 x Nt + 0,3 x Nf 
+ CLASSEMENT ET ATTRIBUTION  
+L’offre économiquement la plus avantageuse est l’offre ayant obtenu la meilleure note technico–
+financière.  
+Le marché sera attribué au candidat ayant obtenu la note finale « N » la plus élevée. 
+ARTICLE 17. DELAI DE VALIDITE DES OFFRES  
+Les concurrents restent engagés par leurs offres pendant un délai de (60) soixante jours qui 
+commence à courir à compter de la date de la séance d’ouverture des plis. 
+Toutefois, lorsque la commission d’appel d’offres considère qu’elle n’est pas en mesure d’effectuer 
+son choix pendant le délai de validité des offres, le maître d’ouvrage saisit les concurrents 
+concernés, avant l’expiration de ce délai, par voie électronique, en vue de leur demander une 
+prorogation du délai de validité des offres d’une durée supplémentaire qu’il fixe.  
+A cet effet, le maître d’ouvrage fixe aux concurrents concernés une date limite pour faire connaître 
+leurs réponses.  
+Seuls les concurrents ayant donné leur accord, par voie électronique, à la demande de 
+prorogation avant la date limite de réponse fixée, restent engagés pendant ce délai 
+supplémentaire convenu.  
+ARTICLE 18. RESULTATS DEFINITIFS DE L’APPEL D’OFFRES 
+Le maître d’ouvrage informe, via le portail marocain des marchés publics, le concurrent retenu de 
+l’acceptation de son offre dans un délai n’excédant pas trois (03) jours suivant la date d’achèvement 
+des travaux de la commission d’appel d’offres. 
+
+REGLEMENT DE CONSULTATION : CONCEPTION, DEVELOPPEMENT ET MISE EN SERVICE D'UN MODULE DE GESTION DES VOIRIES ET 
+RESEAUX DIVERS PORTUAIRES DANS LE CADRE DU SYSTEME D'INFORMATION D'ASSET MANAGEMENT  
+15 
+ 
+Les concurrents non retenus sont également informés, dans le même délai, du rejet de leur offre, 
+avec indication des motifs d’éviction. 
+ARTICLE 19. LANGUE DE L’OFFRE 
+L'Offre préparée par le concurrent, ainsi que toute correspondance et tous les documents échangés 
+entre le concurrent et le Maître d'Ouvrage, doivent être rédigés en langue française 
+Cependant, Les documents techniques et administratifs peuvent être fournis dans leur langue 
+d'origine, à condition d’être accompagnés d'une traduction française certifiée. 
+ARTICLE 20. MONNAIE D’EXPRESSION DE L’OFFRE 
+Les prix des offres doivent être formulés et exprimés en Dirham Marocain pour les concurrents 
+installés au Maroc. 
+Pour les concurrents non installés au Maroc, le prix des offres doit être exprimé en monnaie 
+convertible. 
+La conversion des monnaies étrangères s’effectue sur la base du cours de référence du dirham en 
+vigueur, donné par Bank Al– Maghrib, le premier jour ouvrable de la semaine précédant celle du 
+jour d’ouverture des plis. 
+ARTICLE 21. PREFERENCE NATIONALE  
+Conformément aux dispositions de l’article 147  du règlement relatif aux conditions et formes de 
+passation des marchés de l’ANP, une préférence nationale est accordée aux concurrents installés au 
+Maroc lors de l’évaluation des offres financières relatives aux prestations d’études. 
+ 
+Lorsque des concurrents non installés au Maroc soumissionnent au présent appel d'offres, le 
+montant de leur offre financière est majoré d’un pourcentage fixé à quinze pour cent (15 %), à des 
+fins de comparaison, dans le but de favoriser les offres des concurrents installés au Maroc. 
+ 
+Cette disposition ne s’applique pas aux groupements dans lesquels un ou plusieurs membres sont 
+installés au Maroc, à condition que la part détenue par ces membres, telle qu’indiquée dans l’acte 
+d’engagement, soit égale ou supérieure à trente  (30%) pour cent. 
+ARTICLE 22. VISITE DES LIEUX  
+Dans le cadre de cet appel d’offres et vu la nature des prestations, il n’est pas prévu de réunion ou 
+de visite des lieux. 
+Représentant du Maitre d’ouvrage : Directeur des Infrastructures et Etudes 
+Signé : Mohamed JAJA 
+ 
+ 
+ 
+ 
+
+REGLEMENT DE CONSULTATION : CONCEPTION, DEVELOPPEMENT ET MISE EN SERVICE D'UN MODULE DE GESTION DES VOIRIES ET 
+RESEAUX DIVERS PORTUAIRES DANS LE CADRE DU SYSTEME D'INFORMATION D'ASSET MANAGEMENT  
+16 
+ 
+ANNEXE I : MODELE DE L’ACTE D'ENGAGEMENT 
+ 
+A - Partie réservée à l’ANP 
+Appel d’offres Ouvert international sur offres des prix n° 30/DIE-DG-ANP/2025  
+Objet du marché : CONCEPTION, DEVELOPPEMENT ET DEPLOIEMENT D'UN MODULE DE GESTION 
+DES VOIRIES ET RESEAUX DIVERS PORTUAIRES INTEGRE AU SYSTEME D'INFORMATION D'ASSET 
+MANAGEMENT 
+En application des dispositions de l’alinéa I paragraphe 1 et l’alinéa I paragraphe 3   de l’article 19, du 
+paragraphe 1 de l’article 20 et de l’alinéa b) du paragraphe 3 de l’article 20 du règlement relatif aux conditions 
+et formes de passation des marchés de l’Agence Nationale des Ports (ANP). 
+B - Partie réservée au concurrent agissant à titre individuel 
+a) Pour les personnes physiques (4) : 
+Je 
+soussigné(e) 
+................................................................................ 
+(prénom, 
+nom 
+et 
+qualité), 
+agissant en mon nom personnel et pour mon propre compte, 
+Adresse du domicile élu :........................................................................................................ 
+Affilié(e) à (5) : .................................sous le………………………numéro....................... 
+Inscrit(e) au registre du commerce de ...................... (localité) sous le numéro :....................... 
+Inscrit(e) à la taxe professionnelle sous le numéro : .................................................................. 
+Numéro de l’identifiant commun de l’entreprise : .................................................................. 
+En vertu des pouvoirs qui me sont conférés ; 
+b) Pour les personnes morales (4) : 
+Je 
+soussigné(e) 
+................................................................................ 
+(prénom, 
+nom 
+et 
+qualité), 
+agissant au nom et pour le compte de .................................... (raison sociale et forme juridique), 
+au capital social de ....................................................... 
+Adresse du siège social de la société : .................................. 
+Adresse du domicile élu : ......................................................... 
+Affilié(e) à (5) : ......................................... sous le numéro : ............................. 
+Inscrit(e) au registre du commerce de ..................... (localité) sous le numéro :...........................  
+Inscrit(e) à la taxe professionnelle sous le numéro : ............................................................ 
+Numéro de l’identifiant commun de l’entreprise :......................................................... 
+En vertu des pouvoirs qui me sont conférés ; 
+C - Partie réservée aux concurrents membres d’un groupement : 
+Nous soussignés (6) : 
+ 
+Membre n° 1 : .................................................................................................................. 
+ 
+Membre n° 2 : .................................................................................................................. 
+ 
+Membre n° n : .................................................................................................................. 
+En vertu des pouvoirs qui nous sont conférés, nous nous obligeons conjointement / solidairement (choisir la 
+mention adéquate) et désignons ........................................................................ (prénoms, noms et qualité) en tant que 
+mandataire du groupement ; 
+D - Partie commune à tous les concurrents : 
+Après avoir pris connaissance du dossier d’appel d’offres, (1) concernant les prestations précisées en objet de 
+la partie A ci-dessus, 
+Après avoir apprécié à mon (notre) point de vue et sous ma (notre) responsabilité la nature et les difficultés 
+que comportent ces prestations : 
+1. Remets (remettons), revêtu(s) de ma (nos) signature(s), un bordereau de prix, un détail estimatif 
+conformément aux modèles figurant au dossier (d’appel d’offres) ;  
+
+REGLEMENT DE CONSULTATION : CONCEPTION, DEVELOPPEMENT ET MISE EN SERVICE D'UN MODULE DE GESTION DES VOIRIES ET 
+RESEAUX DIVERS PORTUAIRES DANS LE CADRE DU SYSTEME D'INFORMATION D'ASSET MANAGEMENT  
+17 
+ 
+2. M’engage (nous nous engageons) à exécuter lesdites prestations conformément au cahier des 
+prescriptions spéciales et moyennant les prix que j’ai (nous avons) établi(s) moi-même (nous-
+mêmes), lesquels font ressortir : 
+Lorsque le marché est en lot unique : 
+ 
+Montant hors TVA : ........................................................................ (en lettres et en chiffres) 
+ 
+Taux de la TVA : ............................................................................. (en pourcentage) 
+ 
+Montant de la TVA : ....................................................................... (en lettres et en chiffres) 
+ 
+Montant TVA comprise : ................................................................ (en lettres et en chiffres) 
+Lorsque le marché est alloti (9) : 
+ 
+Lot n° .......... 
+ 
+Montant hors TVA : ........................................................................ (en lettres et en chiffres) 
+ 
+Taux de la TVA : ............................................................................. (en pourcentage) 
+ 
+Montant de la TVA : ....................................................................... (en lettres et en chiffres) 
+ 
+Montant TVA comprise : ................................................................ (en lettres et en chiffres) 
+Lorsque le marché est conclu avec un groupement: 
+ Part revenant au membre n° 1: .........................................(en lettres et en chiffres) 
+ Part revenant au membre n° 2: .........................................(en lettres et en chiffres) 
+ Part revenant au membre n° n: .........................................(en lettres et en chiffres) 
+L’ANP se libère des sommes dues par lui en faisant donner crédit au compte...........(postal, bancaire ou à la 
+TGR)(10) ouvert au nom de .................(titulaire du marché) à…......…   (localité) sous le relevé d'identification 
+bancaire numéro..............(11) 
+Fait à....................., le.................... 
+Signature et cachet du concurrent 
+ 
+(1) Préciser la procédure utilisée. 
+(2) Choisir la mention appropriée : 
+ 
+Ouvert national sur offres des prix; 
+ 
+Ouvert international sur offres des prix ; 
+ (3) Préciser l’objet du marché, avec indication, le cas échéant, du lieu d’exécution y compris la commune, la province ou la préfecture 
+et la région concernée. 
+(4) Ces mentions ne concernent que les personnes assujetties à ces obligations. 
+(5) Indiquer la CNSS ou tout autre régime particulier de prévoyance sociale. 
+(6) Indiquer les mêmes informations prévues au a) ou b) ci-dessus, selon le cas. 
+(9) En cas d’un marché alloti, le concurrent doit produire un acte d’engagement pour chaque lot au titre duquel il soumissionne. Dans 
+ce cas, chaque acte d’engagement est mis dans une enveloppe fermée et portant de façon apparente la mention « Lot n° ». 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+REGLEMENT DE CONSULTATION : CONCEPTION, DEVELOPPEMENT ET MISE EN SERVICE D'UN MODULE DE GESTION DES VOIRIES ET 
+RESEAUX DIVERS PORTUAIRES DANS LE CADRE DU SYSTEME D'INFORMATION D'ASSET MANAGEMENT  
+18 
+ 
+ANNEXE II : MODELE DE DECLARATION SUR L'HONNEUR 
+ 
+Objet du marché : CONCEPTION, DEVELOPPEMENT ET DEPLOIEMENT D'UN MODULE DE GESTION 
+DES VOIRIES ET RESEAUX DIVERS PORTUAIRES INTEGRE AU SYSTEME D'INFORMATION D'ASSET 
+MANAGEMENT 
+A - Pour les personnes physiques : 
+1) Cas des personnes physiques agissant pour leur propre compte : 
+Je soussigné(e) ............................................. (nom, prénom et qualité), agissant en mon nom personnel et pour mon 
+propre compte. 
+Numéro de téléphone : ............................................................................................................... 
+Numéro du fax : .......................................................................................................................... 
+Adresse électronique : ............................................................................................................... 
+Adresse du domicile élu : .......................................................................................................... 
+Affilié(e) à la CNSS (2) sous le numéro : .................................................................................... 
+Inscrit(e) au registre du commerce de ............. (localité) sous le numéro : ............................ 
+Inscrit(e) à la taxe professionnelle sous le numéro : ................................................................. 
+Numéro de l’identifiant commun de l’entreprise : ...................................................................... 
+Relevé d’identité bancaire (postal, bancaire ou à la TGR) (3) numéro (4) : ................................ 
+En vertu des pouvoirs qui me sont conférés ; 
+ 
+B - Pour les personnes morales : 
+1) Cas des sociétés : 
+Je soussigné(e) ............................................. (nom, prénom et qualité), agissant au nom et pour le compte de 
+........................ (raison sociale et forme juridique), au capital social de : .............................. 
+Numéro de téléphone : ............................................................................................................... 
+Numéro du fax : .......................................................................................................................... 
+Adresse électronique : ............................................................................................................... 
+Adresse du siège social de la société : ....................................................................................... 
+Adresse du domicile élu : .......................................................................................................... 
+Affiliée à la CNSS, sous le numéro (7) : ..................................................................................... 
+Inscrite au registre du commerce ............., sous le numéro : .................................................... 
+Inscrite à la taxe professionnelle sous le numéro : ....................................................................... 
+Numéro de l’identifiant commun de l’entreprise : ....................................................................... 
+Relevé d’identité bancaire (postal, bancaire ou à la TGR) (8) numéro (9) : ................................ 
+En vertu des pouvoirs qui me sont conférés ; 
+2) Cas des établissements publics : 
+Je soussigné(e) ............................................. (nom, prénom et qualité), agissant au nom et pour le compte de 
+............................................. (dénomination de l'établissement). 
+Numéro de téléphone : ............................................................................................................... 
+Numéro du fax : .......................................................................................................................... 
+Adresse électronique : ............................................................................................................... 
+Adresse du siège : ..................................................................................................................... 
+Affiliée à (10) ............. sous le numéro : .................................................................................... 
+Inscrit(e) au registre du commerce de (11) ............. (localité) sous le numéro : ....................... 
+Numéro de l’identifiant commun de l’entreprise (7) : ................................................................. 
+Inscrit(e) à la taxe professionnelle sous le numéro (7) : ............................................................ 
+Références du texte l’habilitant à exercer les missions objet du marché : ............................... 
+Relevé d’identité bancaire (postal, bancaire ou à la TGR) (12) numéro (13) : ............................ 
+En vertu des pouvoirs qui me sont conférés ; 
+
+REGLEMENT DE CONSULTATION : CONCEPTION, DEVELOPPEMENT ET MISE EN SERVICE D'UN MODULE DE GESTION DES VOIRIES ET 
+RESEAUX DIVERS PORTUAIRES DANS LE CADRE DU SYSTEME D'INFORMATION D'ASSET MANAGEMENT  
+19 
+ 
+ 
+Déclare sur l'honneur : 
+1. Que je remplis les conditions prévues à l'article 27 du règlement relatif aux conditions et formes de 
+passation des marchés de l’ANP; 
+2. M'engage à couvrir, dans les conditions fixées dans le cahier des charges, par une police d'assurance, 
+les risques découlant de mon activité professionnelle ; 
+3. M'engage, si j'envisage de recourir à la sous-traitance : 
+ 
+à veiller à ce que celle-ci ne dépasse pas cinquante pour cent (50%) du montant du marché et 
+qu’elle ne porte pas sur le lot ou le corps d’état principal du marché ; 
+ 
+à m’assurer que les sous-traitants auxquels je recours remplissent les conditions prévues à 
+l’article 27 du règlement relatif aux conditions et formes de passation des marchés de l’ANP. 
+4. Atteste que je dispose des autorisations requises pour l’exécution des prestations telles que prévues 
+par la législation et la réglementation en vigueur ; 
+5. Atteste que je ne suis pas en liquidation judiciaire ou redressement judiciaire ; 
+6. Étant en redressement judiciaire, j'atteste que je suis autorisé par l'autorité judiciaire compétente à 
+participer aux appels d’offres ; (16) 
+7. Je m’engage à ne pas recourir par moi-même ou par personne interposée à des pratiques de fraude 
+ou de corruption des personnes qui interviennent, à quelque titre que ce soit, dans les procédures de 
+passation, de gestion et d’exécution du marché ; 
+8. Je m’engage à ne pas faire, par moi-même ou par personne interposée, de promesses, de dons ou de 
+présents, en vue d’influer sur la procédure de conclusion du marché et de son exécution ; 
+9. J'atteste que je ne suis pas en situation de conflit d’intérêts ; 
+10. J'atteste que je n'ai pas participé à la préparation du dossier de l’appel d’offres considéré. 
+Je certifie l’exactitude des renseignements contenus dans la présente déclaration sur l’honneur et dans les 
+pièces fournies dans mon dossier de candidature, sous peine de l’application des mesures coercitives 
+prévues à l’article 152 du règlement relatif aux conditions et formes de passation des marchés de l’ANP. 
+ 
+Fait à ........................, le ............................. 
+Signature et cachet du concurrent 
+ 
+(1) En cas de groupement, chacun des membres doit présenter sa propre déclaration sur l'honneur. 
+(2) Ou tout autre régime particulier de prévoyance sociale. 
+(3) Supprimer la mention inutile. 
+(4) Le relevé d’identité bancaire (RIB) contient 24 positions. 
+(5) Supprimer la mention inutile. 
+(6) Le relevé d’identité bancaire (RIB) contient 24 positions. 
+(7) Ou tout autre régime particulier de prévoyance sociale. 
+(8) Supprimer la mention inutile. 
+(9) Le relevé d’identité bancaire (RIB) contient 24 positions. 
+(10) Indiquer la CNSS ou tout autre régime particulier de prévoyance sociale. 
+(11) Lorsque l'établissement public est assujetti à cette obligation. 
+(12) Supprimer la mention inutile. 
+(13) Le relevé d’identité bancaire (RIB) contient 24 positions. 
+(14) Supprimer la mention inutile. 
+(15) Le relevé d’identité bancaire (RIB) contient 24 positions. 
+(16) À supprimer si le concurrent n’est pas en situation de redressement judiciaire. 
+ 
+ 
+
+REGLEMENT DE CONSULTATION : CONCEPTION, DEVELOPPEMENT ET MISE EN SERVICE D'UN MODULE DE GESTION DES VOIRIES ET 
+RESEAUX DIVERS PORTUAIRES DANS LE CADRE DU SYSTEME D'INFORMATION D'ASSET MANAGEMENT  
+20 
+ 
+ANNEXE III : MODELE DE DECLARATION SUR L'HONNEUR 
+ 
+Objet du marché : MAINTENANCE DU MODULE DE GESTION DES VOIRIES ET RESEAUX DIVERS 
+PORTUAIRES INTEGRE AU SYSTÈME D'INFORMATION D'ASSET MANAGEMENT 
+A - Pour les personnes physiques : 
+1) Cas des personnes physiques agissant pour leur propre compte : 
+Je soussigné(e) ............................................. (nom, prénom et qualité), agissant en mon nom personnel et pour mon 
+propre compte. 
+Numéro de téléphone : ............................................................................................................... 
+Numéro du fax : .......................................................................................................................... 
+Adresse électronique : ............................................................................................................... 
+Adresse du domicile élu : .......................................................................................................... 
+Affilié(e) à la CNSS (2) sous le numéro : .................................................................................... 
+Inscrit(e) au registre du commerce de ............. (localité) sous le numéro : ............................ 
+Inscrit(e) à la taxe professionnelle sous le numéro : ................................................................. 
+Numéro de l’identifiant commun de l’entreprise : ...................................................................... 
+Relevé d’identité bancaire (postal, bancaire ou à la TGR) (3) numéro (4) : ................................ 
+En vertu des pouvoirs qui me sont conférés ; 
+ 
+B - Pour les personnes morales : 
+1) Cas des sociétés : 
+Je soussigné(e) ............................................. (nom, prénom et qualité), agissant au nom et pour le compte de 
+........................ (raison sociale et forme juridique), au capital social de : .............................. 
+Numéro de téléphone : ............................................................................................................... 
+Numéro du fax : .......................................................................................................................... 
+Adresse électronique : ............................................................................................................... 
+Adresse du siège social de la société : ....................................................................................... 
+Adresse du domicile élu : .......................................................................................................... 
+Affiliée à la CNSS, sous le numéro (7) : ..................................................................................... 
+Inscrite au registre du commerce ............., sous le numéro : .................................................... 
+Inscrite à la taxe professionnelle sous le numéro : ....................................................................... 
+Numéro de l’identifiant commun de l’entreprise : ....................................................................... 
+Relevé d’identité bancaire (postal, bancaire ou à la TGR) (8) numéro (9) : ................................ 
+En vertu des pouvoirs qui me sont conférés ; 
+2) Cas des établissements publics : 
+Je soussigné(e) ............................................. (nom, prénom et qualité), agissant au nom et pour le compte de 
+............................................. (dénomination de l'établissement). 
+Numéro de téléphone : ............................................................................................................... 
+Numéro du fax : .......................................................................................................................... 
+Adresse électronique : ............................................................................................................... 
+Adresse du siège : ..................................................................................................................... 
+Affiliée à (10) ............. sous le numéro : .................................................................................... 
+Inscrit(e) au registre du commerce de (11) ............. (localité) sous le numéro : ....................... 
+Numéro de l’identifiant commun de l’entreprise (7) : ................................................................. 
+Inscrit(e) à la taxe professionnelle sous le numéro (7) : ............................................................ 
+Références du texte l’habilitant à exercer les missions objet du marché : ............................... 
+Relevé d’identité bancaire (postal, bancaire ou à la TGR) (12) numéro (13) : ............................ 
+En vertu des pouvoirs qui me sont conférés ; 
+
+REGLEMENT DE CONSULTATION : CONCEPTION, DEVELOPPEMENT ET MISE EN SERVICE D'UN MODULE DE GESTION DES VOIRIES ET 
+RESEAUX DIVERS PORTUAIRES DANS LE CADRE DU SYSTEME D'INFORMATION D'ASSET MANAGEMENT  
+21 
+ 
+ 
+Déclare sur l'honneur : 
+1. Que je remplis les conditions prévues à l'article 27 du règlement relatif aux conditions et formes de 
+passation des marchés de l’ANP; 
+2. M'engage à couvrir, dans les conditions fixées dans le cahier des charges, par une police d'assurance, 
+les risques découlant de mon activité professionnelle ; 
+3. M'engage, si j'envisage de recourir à la sous-traitance : 
+ 
+à veiller à ce que celle-ci ne dépasse pas cinquante pour cent (50%) du montant du marché et 
+qu’elle ne porte pas sur le lot ou le corps d’état principal du marché ; 
+ 
+à m’assurer que les sous-traitants auxquels je recours remplissent les conditions prévues à 
+l’article 27 du règlement relatif aux conditions et formes de passation des marchés de l’ANP. 
+4. Atteste que je dispose des autorisations requises pour l’exécution des prestations telles que prévues 
+par la législation et la réglementation en vigueur ; 
+5. Atteste que je ne suis pas en liquidation judiciaire ou redressement judiciaire ; 
+6. Étant en redressement judiciaire, j'atteste que je suis autorisé par l'autorité judiciaire compétente à 
+participer aux appels d’offres ; (16) 
+7. Je m’engage à ne pas recourir par moi-même ou par personne interposée à des pratiques de fraude 
+ou de corruption des personnes qui interviennent, à quelque titre que ce soit, dans les procédures de 
+passation, de gestion et d’exécution du marché ; 
+8. Je m’engage à ne pas faire, par moi-même ou par personne interposée, de promesses, de dons ou de 
+présents, en vue d’influer sur la procédure de conclusion du marché et de son exécution ; 
+9. J'atteste que je ne suis pas en situation de conflit d’intérêts ; 
+10. J'atteste que je n'ai pas participé à la préparation du dossier de l’appel d’offres considéré. 
+Je certifie l’exactitude des renseignements contenus dans la présente déclaration sur l’honneur et dans les 
+pièces fournies dans mon dossier de candidature, sous peine de l’application des mesures coercitives 
+prévues à l’article 152 du règlement relatif aux conditions et formes de passation des marchés de l’ANP. 
+ 
+Fait à ........................, le ............................. 
+Signature et cachet du concurrent 
+ 
+(1) En cas de groupement, chacun des membres doit présenter sa propre déclaration sur l'honneur. 
+(2) Ou tout autre régime particulier de prévoyance sociale. 
+(3) Supprimer la mention inutile. 
+(4) Le relevé d’identité bancaire (RIB) contient 24 positions. 
+(5) Supprimer la mention inutile. 
+(6) Le relevé d’identité bancaire (RIB) contient 24 positions. 
+(7) Ou tout autre régime particulier de prévoyance sociale. 
+(8) Supprimer la mention inutile. 
+(9) Le relevé d’identité bancaire (RIB) contient 24 positions. 
+(10) Indiquer la CNSS ou tout autre régime particulier de prévoyance sociale. 
+(11) Lorsque l'établissement public est assujetti à cette obligation. 
+(12) Supprimer la mention inutile. 
+(13) Le relevé d’identité bancaire (RIB) contient 24 positions. 
+(14) Supprimer la mention inutile. 
+(15) Le relevé d’identité bancaire (RIB) contient 24 positions. 
+(16) À supprimer si le concurrent n’est pas en situation de redressement judiciaire. 
+ 
+ 
+
+REGLEMENT DE CONSULTATION : CONCEPTION, DEVELOPPEMENT ET MISE EN SERVICE D'UN MODULE DE GESTION DES VOIRIES ET 
+RESEAUX DIVERS PORTUAIRES DANS LE CADRE DU SYSTEME D'INFORMATION D'ASSET MANAGEMENT  
+22 
+ 
+ANNEXE IV - MODÈLE DE CURRICULUM VITAE 
+ 
+INFORMATIONS GÉNÉRALES : 
+Appel d'offres : N°............................ - «.................................................» 
+Poste proposé : _____________________________ 
+Société/Organisme : _____________________________ 
+Nom et Prénom : _____________________________ 
+Profession/Spécialité : _____________________________ 
+Date de naissance : _____________________________ 
+Ancienneté dans la société : _____ années 
+Expérience professionnelle totale : _____ années 
+Nationalité : _____________________________ 
+Missions spécifiques envisagées : _____________________________ 
+ 
+1. SYNTHÈSE DES QUALIFICATIONS 
+Présenter un résumé des compétences, formations et expériences les plus pertinentes pour le poste proposé. 
+Préciser le niveau de responsabilité exercé lors de missions similaires antérieures (dates et lieux à 
+mentionner). 
+2. FORMATION ACADÉMIQUE ET PROFESSIONNELLE 
+Détailler les études universitaires et formations spécialisées en indiquant les établissements fréquentés, 
+périodes et diplômes obtenus. 
+Période 
+Diplôme/Certification 
+obtenu(e) 
+Établissement 
+ 
+ 
+ 
+ 
+3. EXPÉRIENCE PROFESSIONNELLE 
+Lister les emplois par ordre chronologique inverse (du plus récent au plus ancien) depuis l'obtention du 
+diplôme le plus élevé. 
+Période 
+Employeur 
+Lieu 
+Poste occupé 
+Responsabilités 
+principales 
+Du...au... 
+ 
+ 
+ 
+ 
+Du...au... 
+ 
+ 
+ 
+ 
+Du...au... 
+ 
+ 
+ 
+ 
+ 
+4. RÉFÉRENCES DE MISSIONS SIMILAIRES 
+Présenter les études/projets réalisés en rapport avec l'objet du présent appel d'offres. 
+ 
+
+REGLEMENT DE CONSULTATION : CONCEPTION, DEVELOPPEMENT ET MISE EN SERVICE D'UN MODULE DE GESTION DES VOIRIES ET 
+RESEAUX DIVERS PORTUAIRES DANS LE CADRE DU SYSTEME D'INFORMATION D'ASSET MANAGEMENT  
+23 
+ 
+Intitulé du 
+projet/étude 
+Poste occupé 
+Activités 
+réalisées 
+Maître 
+d'ouvrage/Pays 
+Période 
+Projet 1 
+ 
+ 
+ 
+ 
+Projet 2 
+ 
+ 
+ 
+ 
+Projet 3 
+ 
+ 
+ 
+ 
+ 
+5. COMPÉTENCES LINGUISTIQUES 
+Indiquer le niveau de maîtrise pour chaque langue : Débutant/Moyen/Bon/Excellent 
+Langue 
+Lu 
+Écrit 
+Parlé 
+Observations 
+Français 
+ 
+ 
+ 
+ 
+Anglais 
+ 
+ 
+ 
+ 
+Arabe 
+ 
+ 
+ 
+ 
+Autres 
+ 
+ 
+ 
+ 
+ 
+ 
+Déclaration et signature du candidat : 
+"Je soussigné(e) _________________________, certifie l'exactitude et l'authenticité de toutes les 
+informations contenues dans le présent curriculum vitae ainsi que dans les pièces justificatives 
+jointes." 
+Date : _______________Signature : 
+Signature de l'employeur : 
+Nom et qualité du signataire :……………………………. 
+ 
+Date : ……………………………….. 
+Signature et cachet de l'entreprise : 
+ 
+
+Page 1 sur 37 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ROYAUME DU MAROC 
+ 
+ 
+ 
+ 
+ 
+ 
+AGENCE NATIONALE DES PORTS 
+DIRECTION DES INFRASTRUCTURES ET ETUDES 
+ 
+ 
+ 
+APPEL D’OFFRES OUVERT INTERNATIONAL 
+N°30/AOO/DIE-DG-ANP/2025 
+ 
+   
+ 
+ 
+CPS 
+CAHIER DES PRESCRIPTIONS SPECIALES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONCEPTION, DEVELOPPEMENT, DEPLOIEMENT ET 
+MAINTENANCE D'UN MODULE DE GESTION DES VOIRIES ET 
+RESEAUX DIVERS PORTUAIRES INTEGRE AU SYSTEME 
+D'INFORMATION D'ASSET MANAGEMENT 
+
+Page 2 sur 37 
+ 
+SOMMAIRE 
+ 
+ ................................................................... 5 
+ARTICLE N°1 : OBJET DE L’APPEL D’OFFRES ............................................................................................... 5 
+ARTICLE N°2 : CONSISTANCE DES PRESTATIONS ..................................................................................... 5 
+ARTICLE N°3 : LIEUX D’EXECUTION ................................................................................................................ 5 
+ARTICLE N°4 : PIÈCES CONSTITUTIVES DU MARCHÉ .............................................................................. 5 
+ARTICLE N°5 : DOCUMENTS DE REFERENCE .............................................................................................. 6 
+ARTICLE N°6 : ELECTION DE DOMICILE ........................................................................................................ 6 
+ARTICLE N°7 : VALIDITÉ DU MARCHÉ – APPROBATION DU MARCHÉ ............................................. 6 
+ARTICLE N°8 : DÉLAI D’EXÉCUTION – PÉNALITÉS DE RETARD .......................................................... 7 
+ARTICLE N°9 : SOUS-TRAITANCE ..................................................................................................................... 7 
+ARTICLE N°10 : NANTISSEMENT ...................................................................................................................... 8 
+ARTICLE N°11 : MODALITES DE REGLEMENT ............................................................................................ 8 
+ARTICLE N°12 : RECEPTION PROVISOIRE ET DEFINITIVE .................................................................... 9 
+ARTICLE N°13 : CAUTIONNEMENT PROVISOIRE ET DEFINITIF – RETENUE DE GARANTIE ... 9 
+ARTICLE N°14 : REVISION DES PRIX ............................................................................................................. 10 
+ARTICLE N°15 : NATURE ET CARACTERE DES PRIX ............................................................................... 10 
+ARTICLE N°16 : AVANCE AU TITULAIRE ..................................................................................................... 10 
+ARTICLE N°17 : FORMALITES D’ENREGISTREMENT ............................................................................. 10 
+ARTICLE N°18 : ASSURANCES .......................................................................................................................... 10 
+ARTICLE N°19 : SECRET PROFESSIONNEL ET CONFIDENTIALITE .................................................. 11 
+ARTICLE N°20 : NORMES D’EXECUTION ...................................................................................................... 11 
+ARTICLE N°21 : REPRESENTATION DU MAITRE D’OUVRAGE ............................................................ 11 
+ARTICLE N°22 : REPRESENTATION ET SUIVI DE L’EXECUTION PAR LE TITULAIRE................ 12 
+ARTICLE N°23 : DOCUMENTS ET INFORMATIONS FOURNIS PAR LE MAITRE D’OUVRAGE .. 12 
+ARTICLE N°24 : RESPONSABILITE DU TITUALAIRE ............................................................................... 13 
+ARTICLE N°25 : IMPOTS ET TAXES ................................................................................................................ 13 
+ARTICLE N°26 : ARRET D’EXECUTION DE L’ETUDE ............................................................................... 13 
+ARTICLE N°27 : RESILIATION DU MARCHE ................................................................................................ 14 
+ARTICLE N°28 : CONTESTATIONS - LITIGES .............................................................................................. 14 
+ ................................................................................................... 15 
+ARTICLE N°29 : PERIMETRE DU PROJET ..................................................................................................... 15 
+ARTICLE N°30 : DEROULEMENT DU PROJET ............................................................................................. 15 
+ARTICLE N°31 : CONSISTANCE DES PRESTATIONS ................................................................................ 16 
+ARTICLE N°32 : SYSTEME D’INFORMATION ACTUEL DE L’ANP ........................................................ 26 
+ARTICLE N°33 : DOCUMENTS A REMETTRE AU MAITRE D’OUVRAGE ........................................... 31 
+ARTICLE N°34 : MOYENS HUMAINS DU TITULAIRE ............................................................................... 33 
+ARTICLE N°35 : ELEMENTS COMPRIS DANS LES PRIX .......................................................................... 34 
+ARTICLE N°36 : DEFINITION DES PRIX ........................................................................................................ 34 
+BOREDEREAU DES PRIX - DETAIL ESTIMATIF.......................................................................................... 36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Page 3 sur 37 
+ 
+ROYAUME DU MAROC 
+AGENCE NATIONALE DES PORTS 
+DIRECTION DES INFRASTRUCTURES ET ETUDES 
+APPEL D’OFFRES OUVERT INTERNATIONAL N°30/AOO/DI-DG-ANP/2025 
+CONCEPTION, DEVELOPPEMENT, DEPLOIEMENT ET MAINTENANCE 
+D'UN MODULE DE GESTION DES VOIRIES ET RESEAUX DIVERS 
+PORTUAIRES INTEGRE AU SYSTEME D'INFORMATION D'ASSET 
+MANAGEMENT 
+ 
+Le marché issu du présent appel d’offres international sur offres de prix est passé en application des 
+dispositions de l’alinéa I paragraphe 1 et l’alinéa I paragraphe 3   de l’article 19, du paragraphe 1 de 
+l’article 20 et de l’alinéa b) du paragraphe 3 de l’article 20 du règlement relatif aux conditions et formes 
+de passation des marchés de l’Agence Nationale des Ports (ANP). 
+ 
+ENTRE
+ 
+ 
+L’Agence Nationale des Ports (ANP), Etablissement Public, créé par la loi n°15-02 promulguée par 
+le Dahir n° 1-05-146 du 20 Chaoual 1426 (23 novembre 2005), dont le siège social est à Casablanca, 
+Lot n°300, Lotissement Mandarona, Sidi Maârouf, représentée par son Directeur Général, Monsieur 
+MUSTAPHA FARES et désigné ci-après par l’ANP ou le Maître d’ouvrage ; 
+ 
+                                                                                                                    D’une part,
+ 
+ 
+Et
+ 
+1. Cas d’une personne morale 
+ La 
+société 
+…………………………………………………….représentée 
+par 
+M :………………………………….…….  
+ qualité…………………………..………………………………. 
+Agissant au nom et pour le compte de .………………………………………………….en vertu des 
+pouvoirs qui lui sont conférés.  
+Au 
+capital 
+social 
+………………………………………………….. 
+Patente 
+n° 
+………………………………………….….. 
+Registre 
+de 
+commerce 
+de 
+…………………………………..Sous 
+le 
+n°………………………..………………………. 
+Affilié 
+à 
+la 
+CNSS 
+sous 
+n° 
+………………………………………………………………………………..………………….……. 
+Faisant 
+élection 
+de 
+domicile 
+au 
+……………………………………………………………………………................... 
+Compte bancaire n° (RIB sur 24 chiffres)……………………………………………………………ouvert 
+auprès de …………………………………………………………………………………………..  
+Désigné ci-après par le terme « Consultant ou bureau d’études ou titulaire » 
+D’AUTRE PART 
+2. Cas de personne physique 
+M………………………………………………………….Agissant en son nom et pour son propre compte.  
+
+Page 4 sur 37 
+ 
+Registre 
+de 
+commerce 
+de 
+…………………………………………..sous 
+le 
+n°………………………………………… 
+Patente 
+n° 
+………………………………………….… 
+Affilié 
+à 
+la 
+CNSS 
+sous 
+n° 
+……………………………………….. 
+Faisant 
+élection 
+de 
+domicile 
+au 
+……………………………………………………………………………................... 
+Compte bancaire n° (RIB sur 24 chiffres)…………………………………………………….…… 
+ouvert auprès de…………………………………………………………………………………………. 
+Désigné ci-après par le terme « Consultant ou bureau d’études ou titulaire » 
+D’AUTRE PART 
+3. Cas d’un groupement 
+  Les membres du groupement (Solidaire ou conjoint) soussignés constitué aux termes de la 
+convention …………………………………..(les références de la convention) : 
+- 
+Membre 1 : 
+M. 
+……………………………………………………………………qualité 
+…………………………..………………………………. 
+Agissant au nom et pour le compte de………………………………………………….en vertu des 
+pouvoirs qui lui sont conférés.  
+Au 
+capital 
+social 
+…………………………………………………. 
+Patente 
+n° 
+………………………………………….….. 
+Registre 
+de 
+commerce 
+de……………………………………Sous 
+le 
+n°………………………………………………… 
+Affilié 
+à 
+la 
+CNSS 
+sous 
+n° 
+…………………, 
+Faisant 
+élection 
+de 
+domicile 
+au 
+…………………………………………............................. 
+Compte bancaire n° (RIB sur 24 chiffres)….………………………………………… ouvert auprès de     
+……………………………………………………………………………………………… 
+- 
+Membre 2 : 
+……………………………………………………………………………………………………
+……. 
+(Servir les renseignements le concernant)  
+ 
+- 
+Membre n : 
+……………………………………………………………………………………………………
+……. 
+- 
+(Servir les renseignements le concernant)  
+Nous nous obligeons (conjointement ou solidairement, selon la nature du groupement), ayant désigné 
+M……..… ..(prénom, nom et qualité)……. en tant que mandataire du groupement et coordonnateur 
+de la réalisation des fournitures,  
+Désigné ci-après par le terme « Groupement ou Titulaire ». 
+D’AUTRE PART 
+L’ANP se libérera des sommes dues dans le cadre du marché en en faisant donner crédit au compte 
+bancaire    ouvert au nom de la Société …………………………… à la BANQUE 
+…………………………….., Agence ……………………………….., à …………………………………….. 
+sous le numéro ……………………………………………………………… 
+ 
+ 
+ 
+ 
+ 
+
+Page 5 sur 37 
+ 
+ARTICLE N°1 : OBJET DE L’APPEL D’OFFRES 
+Le présent appel d’offres a pour objet la conception, le développement et la mise en service 
+d’un module de gestion des voiries et réseaux divers portuaires intégré au système 
+d'information d'Asset Management, ainsi que la préparation et l’intégration de la maquette 
+numérique de tous les ports gérés par l’ANP. 
+Le présent appel d’offres définit l’étendue des missions et les obligations du titulaire du présent 
+appel d’offres. 
+ARTICLE N°2 :  CONSISTANCE DES PRESTATIONS 
+Le présent CPS a pour objet la conception, le développement et la mise en service d’un 
+module de gestion des voiries et réseaux divers portuaires intégré au système d'information 
+d'Asset Management, ainsi que la préparation et l’intégration de la maquette numérique de 
+tous les ports gérés par l’ANP. 
+La prestation d’étude se décompose en 3 missions :  
+Mission 1 : Diagnostic et cartographie des voiries et réseaux divers ; 
+Mission 2 : Conception du module de gestion des voiries et réseaux divers ; 
+Mission 3 : Développement et déploiement du module de gestion des voiries et réseaux 
+divers ; 
+La consistance détaillée de chacune de ces missions est précisée à l’article 35 du présent 
+cahier des prescriptions spéciales. 
+ARTICLE N°3 :  LIEUX D’EXECUTION 
+Le titulaire du marché qui découlera du présent appel d’offres sera amené à se déplacer aux 
+ports concernés pour visiter les ouvrages en question. 
+Il sera amené également à se déplacer pour assister aux réunions programmées au siège de 
+l’ANP ou éventuellement aux ports concernés.  
+ARTICLE N°4 : PIÈCES CONSTITUTIVES DU MARCHÉ  
+En application des dispositions de l’article 4 du CCAG-EMO, les pièces contractuelles 
+constituant le marché, énumérées par ordre de priorité, sont les suivantes :  
+ L’acte d’engagement ; 
+ Le Cahier des Prescriptions Spéciales (CPS) ; 
+ L’offre technique du titulaire ; 
+ Le Bordereau des prix - détail estimatif dûment remplis ; 
+ Le Cahier des Clauses Administratives Générales applicables aux marchés de 
+services relatifs aux Etudes et Maîtrise d’œuvres (CCAG-EMO) passées pour le 
+compte de l’Etat approuvé par le décret n° 2-01-2332 du 22 Rabii I 1423 (04 Juin 
+2002). 
+
+Page 6 sur 37 
+ 
+En cas de contradiction ou de différence entre les documents constitutifs du marché, ceux-ci 
+prévalent dans l’ordre où ils sont énumérés ci-dessus. 
+ARTICLE N°5 : DOCUMENTS DE REFERENCE  
+Le Titulaire du marché qui découlera du présent appel d’offres est soumis aux textes 
+administratifs en vigueur au Maroc, notamment en ce qui concerne l'emploi de la main 
+d’œuvre, les transports et la fiscalité. 
+Il restera en particulier soumis aux textes généraux suivants : 
+ Le règlement du 01 Juillet 2025 relatif aux conditions et formes de passation des 
+marchés de l’Agence Nationale des Ports (ANP). 
+ Le Dahir n°1-56-211 du 11 décembre 1956 relatif aux garanties pécuniaires des 
+soumissionnaires et adjudicataires de marchés publics, tel qu’il a été modifié et 
+complété ; 
+ La loi N° 112-13 relative au nantissement des marchés publics promulguée par le Dahir 
+N° 1-15-05 du 29 Rabii II 1436 (19 Février 2015), tel qu’il a été modifié et complété ; 
+ Le Dahir n° 1-03-195 du ramadan 1424 portant promulgation de la loi n° 69-00 relative 
+au contrôle financier de l’état sur les entreprises publiques et autres organismes ; 
+ L’arrêté du Ministre Délégué auprès de la Ministre de l’Economie et des Finances, 
+chargé du budget n° 1692-23 du 4 hija 1444 (23 juin 2023) relatif à la dématérialisation 
+des procédures, des documents et des pièces relatives aux marchés publics ; 
+ Le Dahir N° 1-03-194 du 14 Rajeb 1424 (11 Septembre 2003) portant promulgation de 
+la loi N° 65-99 relative au code du travail ; 
+ La loi n° 53-05 relative à l’échange électronique des données juridiques, promulguée 
+par le dahir n° 1-07-129 du 19 kaada 1428 (30 novembre 2007) ;  
+ Décret n°2-14-272 du 14 rejeb 1435 relatif aux avances en matière de marchés 
+publics. 
+ Tous les textes législatifs et réglementaires ayant trait aux marchés de l’Etat rendus 
+applicables à la date de signature du marché. 
+Le titulaire devra se procurer ces documents s’il ne les possède pas. Il ne pourra en aucun 
+cas exciper de ’l’ignorance de ceux-ci et se dérober aux obligations qui y sont contenues. 
+Si les documents énumérés ci-dessus présentent des clauses contradictoires, le titulaire se 
+conformera au plus récent d'entre eux. 
+L’énumération des textes ci-dessous référencés est indicative et non limitative. Le titulaire 
+reste soumis d’une manière générale aux lois et règlements en vigueur. 
+ARTICLE N°6 :  ELECTION DE DOMICILE 
+Toutes les notifications concernant le marché découlant du présent Appel d’Offres seront 
+valablement faites au domicile élu ou au siège social du titulaire mentionné dans son acte 
+d’engagement. 
+En cas de changement de domicile, le titulaire est tenu d’en aviser le maitre d’ouvrage dans 
+un délai de quinze (15) jours suivant ce changement. 
+ARTICLE N°7 :  VALIDITÉ DU MARCHÉ – APPROBATION DU MARCHÉ 
+Le marché ne sera valable, définitif et exécutoire qu’après son approbation par l’autorité 
+compétente.  
+
+Page 7 sur 37 
+ 
+L’approbation du marché doit être notifiée à l’attributaire dans un délai maximum de soixante 
+(60) jours à compter de la date d’ouverture des plis. 
+Le maître d’ouvrage peut demander à l’attributaire, de proroger la validité de son offre d’une 
+durée supplémentaire ne dépassant pas trente jours. A cet effet, il lui fixe une date limite pour 
+faire connaître sa réponse. 
+Les dispositions relatives à la prorogation du délai de validité des offres sont définies aux 
+articles 36 et 143 du règlement relatif aux conditions et formes de passation des marchés de 
+l’ANP. 
+ARTICLE N°8 : DÉLAI D’EXÉCUTION – PÉNALITÉS DE RETARD 
+Le délai global d’exécution des prestations du marché qui découlera du présent appel d’offres 
+est fixé à 18 mois. Ce délai court à compter de la date de commencement fixée par l’ordre 
+de service prescrivant le démarrage des prestations. 
+Le délai global ne comprend pas le délai d’examen par le Maître d’Ouvrage des livrables 
+remis par le titulaire à l’issue de l’exécution des prestations. Ce délai est fixé à 20 jours par 
+mission.  
+En cas de dépassement du délai global, le titulaire encourt de plein droit et sans mise en 
+demeure préalable, une pénalité journalière d'un millième (1/1000) du montant initial TTC du 
+marché éventuellement modifié ou complété par les avenants intervenus. 
+Les pénalités seront déduites d’office des sommes dues au Titulaire et seront plafonnées à 
+10 % du montant initial du marché (T.T.C) éventuellement modifié ou complété par les 
+avenants intervenus. 
+L’application de ces pénalités ne libère en rien le Titulaire des autres obligations et 
+responsabilités qu’il a souscrites au titre du marché. 
+Lorsque le plafond des pénalités est atteint, le Maître d’Ouvrage est en droit de résilier le 
+marché après mise en demeure préalable du titulaire et sans préjudice de l’application des 
+autres mesures coercitives prévues à l’article 52 du CCAG-EMO. 
+ARTICLE N°9 :  SOUS-TRAITANCE  
+La sous-traitance des prestations du marché se déroulera conformément aux dispositions de 
+l’article 151, du règlement relatif aux conditions et formes de passation des marchés de l’ANP. 
+La sous–traitance ne peut ni dépasser cinquante pour cent (50%) du montant du marché 
+toutes taxes comprises, ni porter sur le lot ou le corps d’état principal du marché.  
+Les prestations qui constituent le corps d’état principal du marché sont les missions de 
+conception et de développement du module. 
+Lorsque le titulaire envisage de recourir à la sous-traitance, il est tenu de faire appel à des 
+prestataires installés au Maroc, notamment les très petites, petites et moyennes entreprises 
+y compris les jeunes entreprises innovantes, les coopératives, les unions de coopératives et 
+les auto– entrepreneurs. 
+Lorsque le maître d’ouvrage réalise que les sous– traitants ne remplissent pas les conditions 
+prévues à l’article 27 du présent règlement, il peut, dans un délai de quinze (15) jours à 
+
+Page 8 sur 37 
+ 
+compter de la date de réception du contrat de sous–traitance, exercer un droit de récusation, 
+par lettre motivée transmise par voie recommandée avec accusé de réception.  
+Le titulaire du marché est tenu de présenter au maître d’ouvrage les documents justifiant le 
+paiement, par ses soins, des sommes dues au sous–traitant au fur à mesure de l’exécution 
+des prestations sous–traitées. 
+ARTICLE N°10 : NANTISSEMENT 
+Le soumissionnaire pourra bénéficier du régime institué par le Dahir N° 1.15.05 du 29 rabii II 
+1436 (19 février 2015) portant promulgation de la loi N°112.13 relative au nantissement des 
+marchés publics. Il remettra à cet effet une copie du marché revêtu de la mention prévue par 
+ledit Dahir. Dans l'éventualité d'une affectation en nantissement du marché, il est précisé que 
+ La liquidation des sommes dues par le maître d’ouvrage sera opérée par les soins 
+de Monsieur le Directeur Général et du Directeur des Finances et de la Comptabilité 
+de l’ANP, ou de leurs délégataires respectifs. 
+ Le responsable chargé de fournir au titulaire du marché, ainsi qu'aux bénéficiaires 
+des nantissements ou subrogations, les renseignements et états prévus au Dahir 
+n° 1-15-05 du 29 rabii II 1436 (19 février 2015) portant promulgation de la loi n° 112-
+13 relative au nantissement des marchés publics, est Monsieur le Directeur Général 
+de l’ANP ou son délégataire. 
+ Les paiements prévus au marché seront effectués par Monsieur le Directeur 
+Général et du Directeur des Finances et de la Comptabilité de l’ANP ou leurs 
+délégataires respectifs seuls qualifiés pour recevoir les significations des créanciers 
+du titulaire du marché. 
+Le Maître d’Ouvrage délivrera à l’entrepreneur gratuitement sur sa demande, contre 
+récépissé, un exemplaire spécial du marché portant la mention " exemplaire unique" et 
+destiné à former titre, conformément aux dispositions du Dahir N° 1.15.05 du 29 rabii II 1436, 
+relatif au nantissement des marchés publics. 
+ARTICLE N°11 : MODALITES DE REGLEMENT  
+Le règlement au titulaire se fera sur la base de décomptes provisoires et du décompte 
+définitif, établi à partir de la prononciation de la réception provisoire partielle concernant 
+chaque mission ou la réception définitive des prestations. 
+Le délai de règlement est fixé à 60 (soixante) jours à compter de la date de dépôt de la facture 
+et d’un document attestant le service fait au portail e-facture de l’Agence Nationale des Ports 
+(accessible via l’adresse https://efactureanp.ma). 
+Cette facture doit être déposée également au bureau d’ordre de l’ANP – Direction des 
+infrastructures et études. Le paiement sera effectué par virement au compte bancaire indiqué 
+dans l’acte d’engagement.  
+Les règlements seront plafonnés comme suit : 
+ 
+
+Page 9 sur 37 
+ 
+Phases 
+% de paiement du 
+montant TTC du 
+marché 
+Mission I 
+40 % 
+Mission II 
+30 % 
+Mission III 
+30 % 
+ 
+En cas de dépassement de l’un ou de plusieurs plafonds fixés ci-avant par le titulaire dans 
+son offre financière, le règlement sera réalisé de la façon suivante : 
+ Mission 1 : le règlement de ce prix sera plafonné à 40 % du montant TTC du marché 
+à la réception provisoire partielle et le reliquat sera payé à la réception provisoire du 
+marché ; 
+ Mission 2 : le règlement de ce prix sera plafonné à 30 % du montant TTC du marché 
+à la réception provisoire partielle et le reliquat sera payé à la réception provisoire du 
+marché ; 
+ Mission 3 : le règlement de ce prix sera plafonné à 30 % du montant TTC du marché 
+à la réception provisoire partielle et le reliquat sera payé à la réception provisoire du 
+marché ; 
+ARTICLE N°12 :  RECEPTION PROVISOIRE ET DEFINITIVE 
+Le maître d’ouvrage s’assure, de la conformité des livrable aux exigences du marché.  
+A l'issue de chaque phase ou mission, et après la validation des livrables, le maitre d'ouvrage 
+prononcera la réception provisoire partielle. Cette réception sera sanctionnée par 
+l’établissement d'un procès-verbal de réception provisoire partielle.  
+La dernière réception provisoire partielle tient lieu de la réception provisoire du marché et 
+donnera lieu à l'établissement d'un procès-verbal de réception provisoire du marché. 
+En raison du caractère des prestations du marché, La réception définitive sera prononcée en 
+même temps que la réception provisoire après remise des dossiers définitifs de l’étude 
+dûment approuvés par le Maitre d’ouvrage. 
+ARTICLE N°13 : CAUTIONNEMENT PROVISOIRE ET DEFINITIF – RETENUE DE 
+GARANTIE 
+Le montant de la caution provisoire est fixé à 84 000,00 dirhams. 
+Le cautionnement définitif est fixé à 3% (trois pour cent) du montant initial TTC du marché. Il 
+doit être constitué dans les trente (30) jours qui suivent la notification de l'approbation du 
+marché. 
+Le cautionnement provisoire reste acquis au maitre d’ouvrage notamment dans les cas cités 
+à l’article 24 du règlement relatif aux conditions et formes de passation des marchés de 
+l’Agence Nationale des Ports et l’article 15 du CCAG-EMO. 
+
+Page 10 sur 37 
+ 
+Le cautionnement définitif est restitué à la suite d'une mainlevée délivrée par le Maître 
+d'Ouvrage dans un délai maximum de trois (3) mois suivant la date de réception définitive 
+des prestations. 
+Par dérogation à l’article 13 du CCAG-EMO, il n’est pas prévu de retenue de garantie. 
+ARTICLE N°14 : REVISION DES PRIX  
+Les prix sont fermes et non révisables. 
+ARTICLE N°15 :  NATURE ET CARACTERE DES PRIX  
+Le présent marché est à prix global unitaires.  
+Les prix du marché qui découlera du présent appel d’offres sont ceux prévues au bordereau 
+des prix détail estimatif. Ces prix rémunèrent les prestations les concernant par application 
+de ces prix aux prestations réellement exécutées conformément au marché.  
+ 
+Les prix du marché sont réputés comprendre toutes les dépenses résultant de l’exécution 
+des prestations de services y compris tous les droits, impôts, taxes frais généraux, faux frais 
+et d’une façon générale toutes les dépenses qui sont à la conséquence nécessaire et directe 
+du travail. 
+ARTICLE N°16 :  AVANCE AU TITULAIRE 
+Conformément aux dispositions du décret n° 2.14.272 relatif aux avances en matière de 
+marchés publics, le maître d’ouvrage peut accorder une avance au titulaire du marché. 
+Les conditions d’octroi, de montant, de garantie, de versement et de remboursement de cette 
+avance sont fixées par ledit décret. 
+Le titulaire est tenu de constituer, avant tout versement, une caution personnelle et solidaire 
+garantissant le remboursement intégral de l’avance. 
+Le remboursement de l’avance s’effectue par déduction sur les acomptes dus au titulaire, 
+conformément aux modalités prévues par ledit décret. 
+ARTICLE N°17 :  FORMALITES D’ENREGISTREMENT  
+Les formalités d'enregistrement inhérentes au marché découlant du présent appel d'offres 
+sont à la charge du titulaire. 
+ARTICLE N°18 :  ASSURANCES  
+Avant le démarrage des prestations, le Titulaire doit transmettre au Maître d’Ouvrage une ou 
+plusieurs attestations émises par des compagnies d’assurance agréées, justifiant la 
+souscription des polices d’assurances couvrant les risques liés à l’exécution du marché. Ces 
+attestations doivent préciser la nature des garanties souscrites ainsi que leurs périodes de 
+validité. 
+En particulier, le Titulaire doit impérativement assurer son personnel contre les risques 
+d’accidents du travail, conformément à la législation et à la réglementation en vigueur au 
+Maroc. 
+
+Page 11 sur 37 
+ 
+ 
+Le Maître d’Ouvrage décline toute responsabilité en cas de dommages, accidents ou 
+indemnités à verser concernant le matériel ou le personnel du Titulaire ou de ses sous-
+traitants. 
+Le Titulaire s’engage à garantir le Maître d’Ouvrage contre toute réclamation, demande de 
+dommages et intérêts, plainte, poursuite, frais ou charges de toute nature résultant de ces 
+accidents, conformément aux dispositions de l’article 20 du CCAG EMO tel qu’il a été modifié. 
+ARTICLE N°19 :  SECRET PROFESSIONNEL ET CONFIDENTIALITE 
+Le Titulaire s’engage à respecter une obligation de secret professionnel et de confidentialité 
+pendant toute la durée d’exécution du marché ainsi qu’après son achèvement. 
+Il s’engage à ne divulguer, communiquer ou utiliser, sous quelque forme que ce soit, aucune 
+donnée, information, document ou élément à caractère confidentiel dont il aura connaissance 
+dans le cadre de l’exécution des prestations, sauf autorisation expresse et écrite du Maître 
+d’Ouvrage. 
+Cette obligation concerne notamment les informations techniques, économiques, 
+stratégiques, méthodologiques, ainsi que tout savoir-faire, données chiffrées ou analyses 
+fournies ou produites dans le cadre du marché. 
+Le Titulaire prendra toutes les mesures nécessaires pour assurer la protection et la 
+confidentialité de ces informations, y compris vis-à-vis de son personnel et de ses éventuels 
+sous-traitants. 
+Toute violation de cette obligation pourra entraîner des sanctions conformément aux 
+dispositions du marché et à la réglementation en vigueur, sans préjudice des dommages et 
+intérêts que le Maître d’Ouvrage pourrait réclamer. 
+ARTICLE N°20 :  NORMES D’EXECUTION 
+Le Titulaire exécutera les prestations d’études avec la plus grande diligence, rigueur et 
+professionnalisme, en respectant les délais impartis. 
+Les études seront réalisées conformément aux normes techniques marocaines en vigueur, 
+aux règles de l’art, ainsi qu’aux pratiques modernes et reconnues dans la profession. 
+Les livrables (rapports, plans, notes de calcul, dossiers techniques) devront être produits 
+conformément aux exigences définies dans le marché découlant du présent CPS, avec un 
+soin particulier apporté à la qualité, à la précision et à la clarté des documents. 
+Toute dérogation aux normes applicables devra faire l’objet d’une justification écrite et d’une 
+approbation préalable du Maître d’Ouvrage. 
+ARTICLE N°21 :  REPRESENTATION DU MAITRE D’OUVRAGE  
+Le Maître d’Ouvrage désigne un ou plusieurs représentants chargés du suivi, du contrôle et 
+de la supervision des prestations confiées au Titulaire. 
+Le Titulaire est tenu de fournir à tout moment au(x) représentant(s) du Maître d’Ouvrage 
+
+Page 12 sur 37 
+ 
+tous renseignements, informations ou documents nécessaires à la bonne conduite des 
+prestations. 
+Toute demande de ce type ne saurait être interprétée comme une ingérence dans l’exécution 
+des prestations ni entraîner un partage des responsabilités qui incombent exclusivement au 
+Titulaire. 
+Le représentant du Maître d’Ouvrage dispose des pouvoirs nécessaires pour prendre, dans 
+les limites de sa mission, les décisions engageant le Maître d’Ouvrage dans le cadre du 
+marché. 
+ARTICLE N°22 :  REPRESENTATION ET SUIVI DE L’EXECUTION PAR LE 
+TITULAIRE  
+Dès la notification du marché, le Titulaire désigne une ou plusieurs personnes physiques 
+habilitées à le représenter auprès du Maître d’Ouvrage pour les besoins de l’exécution du 
+marché. 
+Le Titulaire doit notifier sans délai au Maître d’Ouvrage toute modification concernant la 
+désignation de ses représentants, ainsi que tout changement important affectant sa situation 
+juridique ou économique pouvant avoir une incidence sur l’exécution du marché. 
+Les représentants du Titulaire disposent des pouvoirs suffisants pour prendre, dès notification 
+de leur nom au Maître d’Ouvrage, toutes les décisions nécessaires engageant le Titulaire 
+dans le cadre de l’exécution du marché. 
+Le Maître d’Ouvrage communiquera exclusivement avec ces représentants pour toutes 
+questions relatives à l’exécution du marché. 
+Les prestataires non installés au Maroc sont tenus d’associer des experts marocains dans 
+une proportion qui ne peut être inférieure à vingt pour cent (20%) des experts affectés à 
+l’exécution des prestations objet du marché, sauf en cas d’indisponibilité dûment justifiées de 
+ces experts marocains) 
+ARTICLE N°23 :  DOCUMENTS ET INFORMATIONS FOURNIS PAR LE MAITRE 
+D’OUVRAGE 
+Le Maître d’Ouvrage s’engage à mettre à la disposition du Titulaire, sur simple demande, 
+tous les renseignements, documents, données et informations en sa possession, nécessaires 
+à la bonne exécution de l’étude. 
+Ces éléments peuvent inclure, sans s’y limiter, les plans, rapports antérieurs, relevés, 
+données techniques, études préliminaires, ainsi que tout autre document utile à la 
+compréhension et à la réalisation des prestations. 
+Le Maître d’Ouvrage ne saurait être tenu responsable de l’exactitude ou de l’exhaustivité des 
+informations fournies, le Titulaire devant vérifier leur pertinence et compléter, si nécessaire, 
+ses propres investigations. 
+Le Titulaire devra utiliser ces documents uniquement dans le cadre de l’exécution du marché 
+et respecter la confidentialité des informations transmises. 
+ 
+
+Page 13 sur 37 
+ 
+ARTICLE N°24 :  RESPONSABILITE DU TITUALAIRE  
+Le Prestataire assume l'entière responsabilité des prestations d'étude qui lui sont confiées, 
+incluant la qualité, la conformité, l'exactitude et la fiabilité des éléments produits. Il s'engage 
+à réaliser les études conformément aux règles de l'art, aux normes en vigueur et aux 
+spécifications du marché découlant du présent cahier des charges, dans le respect des délais 
+convenus. 
+Le Prestataire demeure seul responsable des erreurs, omissions ou négligences dans 
+l'exécution de ses missions, ainsi que des conséquences directes ou indirectes pouvant en 
+découler pour le Maître d'Ouvrage ou les tiers. En cas de défauts ou de non-conformités, il 
+devra procéder, à ses frais et dans les délais impartis, aux corrections ou compléments 
+nécessaires. 
+Cette responsabilité s'étend également aux prestations réalisées par ses sous-traitants, dont 
+il reste pleinement garant vis-à-vis du Maître d'Ouvrage. 
+ARTICLE N°25 :  IMPOTS ET TAXES 
+Le Titulaire est réputé avoir pris connaissance de la législation fiscale en vigueur au Maroc 
+et supportera l’ensemble des impôts, droits, taxes et charges afférents à l’exécution du 
+marché. 
+Les prix du marché comprennent notamment : 
+ 
+Tous les impôts directs et indirects, y compris la Taxe sur la Valeur Ajoutée (TVA) au 
+taux en vigueur. 
+ 
+La retenue à la source applicable, notamment la retenue de 10 % sur les prestations 
+facturées par un titulaire étranger non résident au Maroc, qui sera prélevée et reversée 
+par l’ANP au Trésor public.  
+ 
+Tous autres droits, taxes, frais généraux et charges liés à la réalisation des prestations. 
+Le Titulaire, s’il est une entreprise étrangère, doit désigner un représentant fiscal domicilié au 
+Maroc chargé d’effectuer pour son compte les formalités fiscales, notamment la déclaration 
+et le paiement de la TVA. Une attestation de représentation fiscale devra être remise au 
+Maître d’Ouvrage avant le début des prestations.  
+Toute modification ultérieure des taux d’imposition légalement applicable sera prise en 
+compte conformément aux dispositions du marché et du CCAG-EMO. 
+ARTICLE N°26 :  ARRET D’EXECUTION DE L’ETUDE 
+Conformément à l’article 28 du CCAG-EMO, le Maître d’Ouvrage se réserve le droit d’arrêter 
+l’exécution de l’étude à l’issue de la réalisation de l’une des missions définies dans le marché 
+découlant du présent Cahier des Prescriptions Spéciales (CPS). 
+Cet arrêt ne pourra en aucun cas engager la responsabilité du Maître d’Ouvrage au-delà des 
+obligations contractuelles, ni constituer un motif de réclamation ou de pénalité à son encontre. 
+ 
+ 
+
+Page 14 sur 37 
+ 
+ARTICLE N°27 :  RESILIATION DU MARCHE 
+Le marché peut être résilié par le maître d’ouvrage de plein droit dans tous les cas de figures 
+prévues par les textes en vigueur, sans que le titulaire puisse prétendre à une indemnité. 
+ARTICLE N°28 :  CONTESTATIONS - LITIGES 
+Tout litige survenu à l'occasion de l'interprétation ou de l'exécution du marché qui découlera 
+du présent appel d’offres, s'il n'est pas réglé à l'amiable, sera traité en application de la 
+procédure prévue par les articles 52, 53 et 54 du CCAG – EMO. 
+Si cette procédure ne permet pas le règlement du litige, celui-ci sera soumis aux tribunaux 
+compétents de Casablanca, conformément à l'article 55 du CCAG - EMO. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Page 15 sur 37 
+ 
+ARTICLE N°29 :  PERIMETRE DU PROJET 
+L’Agence Nationale des Ports a déjà mis en place, une plateforme intégrée de gestion des 
+actifs portuaires (SGOP – Asset Management). Cette plateforme constitue le socle du 
+système d’information patrimonial de l’ANP et permet la gestion centralisée, le suivi du cycle 
+de vie et la maintenance des ouvrages portuaires. 
+Le présent projet s’inscrit dans la continuité de cette démarche en intégrant un module 
+spécifique dédié à la gestion des Voiries et Réseaux Divers (VRD). Ce module sera 
+développé en respectant l’architecture, la nomenclature, les standards et les règles de 
+gestion établis dans la plateforme SGOP existante, afin de garantir son interopérabilité et sa 
+cohérence fonctionnelle avec les autres modules. 
+Le Périmètre du projet concerne les portfolios suivants : 
+ Voiries : routes et voies de circulation utilisés par les véhicules au sein des ports, 
+voies permettant l’accès direct aux infrastructures portuaires (quais, postes à quai) 
+y compris la signalisation verticale et horizontale, réseau ferroviaire portuaire (trains 
+et systèmes de rails) ; 
+ Réseaux d’alimentation eau potable ; 
+ Réseaux d’incendie ; 
+ Réseaux d’arrosage des espaces verts ; 
+ Réseaux d’assainissement : eaux pluviales et eaux usées ; 
+ Réseaux électriques ; 
+ Réseaux informatiques et de télécommunication ; 
+ Ainsi que tous les équipements et les regards liés aux réseaux ; 
+ARTICLE N°30 :  DEROULEMENT DU PROJET  
+Le présent appel d’offres a pour objectif la mise en place d'un module de gestion des voiries 
+et réseaux divers portuaires, dans le cadre du système d'information d'Asset management. 
+Pour atteindre cet objectif, le prestataire doit développer dans son offre une démarche et une 
+méthodologie respectant les prestations minimales décrites ci-après. 
+Les prestations nécessaires à réaliser pour ce projet, sont organisées en 3 missions : 
+ Mission I : DIAGNOSTIC ET CARTOGRAPHIE DES VOIRIES ET RESEAUX 
+DIVERS 
+o Mission I-1 : Veille technologique et benchmark.  
+o Mission I-2 : Diagnostic de l’existant et proposition d’améliorations. 
+o Mission I-3 : Maîtrise des actifs. 
+o Mission I-4 : Préparation des maquettes numériques 
+ Mission II : CONECEPTION DU MODULE DE GESTION DES VOIRIES ET 
+RESEAUX DIVERS 
+o Mission II-1 : Ateliers de conception et définition des exigences métier. 
+o Mission II.2 : Conception détaillée du module de gestion des voiries et 
+réseaux divers. 
+
+Page 16 sur 37 
+ 
+o Mission II-3 : Etablissement des master-documents de la norme ISO 
+55001. 
+ Mission III : DEVELOPPEMENT ET DEPLOIEMENT DU MODULE DE GESTION 
+DES VOIRIES ET RESEAUX DIVERS  
+o Mission III.1 : Développement du module et tests de performance. 
+o Mission III-2 : Transfert de compétence 
+ARTICLE N°31 : CONSISTANCE DES PRESTATIONS  
+Mission I : DIAGNOSTIC ET CARTOGRAPHIE DES VOIRIES ET RESEAUX DIVERS 
+L’objectif de cette mission est d’établir un état des lieux précis et exhaustif des Voiries et 
+Réseaux Divers (VRD) portuaires afin d’identifier les points critiques, d’optimiser la gestion 
+de ces réseaux et de préparer l’intégration d’un module de suivi et de maintenance 
+au sein de la plateforme SGOP d’Asset Management existante, en cohérence avec les 
+nomenclatures, inventaires et standards definis  
+Pour cela, quatre étapes sont à suivre, à savoir : 
+ Veille technologique et benchmark.  
+ Diagnostic de l’existant et proposition d’améliorations. 
+ Maîtrise des actifs 
+ Préparation des maquettes numériques 
+Mission I.1 : Veille technologique et benchmark 
+Cette mission vise à analyser les meilleures pratiques et technologies innovantes utilisées 
+dans la gestion des Voiries et Réseaux Divers (VRD) portuaires à l’échelle national et 
+internationale. Elle permettra d’identifier des solutions avancées en matière de cartographie, 
+surveillance, maintenance prédictive et gestion intelligente des voiries et réseaux divers afin 
+de les adapter au contexte des ports de l’ANP. 
+ Analyse des tendances et technologies de pointe :  
+ En matière d’inspection et monitoring : 
+ Capteurs IoT pour le suivi en temps réel des réseaux (Voiries, Assainissement, 
+Eclairage, … etc.). 
+ Drones et capteurs LIDAR pour l’inspection et la cartographie haute précision. 
+ Modèles de maintenance prédictive basés sur l’IA et le Big Data. 
+ En matière de numérisation et maitrise : 
+ SIG et BIM pour la gestion centralisée des actifs VRD. 
+ Jumeaux numériques (Digital Twins) pour la simulation et l’optimisation des 
+interventions. 
+
+Page 17 sur 37 
+ 
+ Etude de cas et benchmark international : 
+ Etudes et présentation des bonnes pratiques au niveau d’au moins trois ports à 
+l’échelle international. 
+ Analyse comparative des méthodes de gestion et des outils utilisés. 
+ Identification des indicateurs de performance clés (KPI) permettant d’évaluer 
+l’efficacité des solutions déployées. 
+ 
+Mission I.2 : Diagnostic de l’existant et proposition d’amélioration. 
+Le titulaire examine le fonctionnement de l’ANP en matière de gestion des voiries et réseaux 
+divers, conformément aux directives des normes ISO 55000/1/2, en détaillant les aspects 
+suivants : 
+ Contexte et Cadre organisationnel 
+ Exigences réglementaires et des référentiels applicables 
+ Exigences fonctionnelles auprès de l’exploitation portuaire 
+ Gestion opérationnelle 
+ Besoins des parties prenantes 
+ Surveillance et Monitoring de performance 
+ Maîtrise de l’état des actifs 
+ Evaluation des écarts par rapport aux seuils conventionnels des autres sites 
+similaires ou identifiés pendant la phase du benchmark 
+ Proposition des scénarios d'amélioration et d’harmonisation du module de gestion 
+des voiries et réseaux portuaires.  
+ Elaboration du rapport d’analyse de l’existant 
+ 
+Mission I.3 : Maîtrise des actifs 
+Dans un premier temps, le prestataire devra établir un inventaire technique avancé 
+regroupant l’ensemble des portfolios géré par l’ANP, selon le cheminement (non exhaustif) 
+décrit ci-après : 
+1. Maitrise des actifs 
+Revue d’un inventaire détaillé des voiries et réseaux portuaires, qui sera successivement 
+décomposé en groupes, familles, éléments et objets, pour les portefeuilles suivants : 
+ Les voiries : routes, trottoirs, terres pleins, parkings, …etc. 
+ Les Réseaux d’assainissement, d’eau potable et incendie et d’arrosage : 
+canalisations, stations de pompage, regards, …etc. 
+ Les réseaux électriques et éclairage public : lampadaires, câbles électriques, 
+postes transfo, …etc. 
+ Les réseaux informatiques et télécommunication.    
+
+Page 18 sur 37 
+ 
+L’inventaire, l’arborescence technico-spatiale et les fiches d’identité des actifs VRD 
+devront être structurés et livrés en parfaite continuité avec les nomenclatures, 
+modèles et formats déjà établis dans la plateforme SGOP (Asset Management                           
+2. Structuration des actifs 
+Il s’agit de mettre en place une arborescence technico-spatiale permettant une classification 
+minutieuse et générique, adapté à la nomenclature existante du MO et à ses besoins, pour 
+aboutir à un niveau de détail harmonisé avec une identification unique des actifs objets de 
+l’étude. 
+3. Consolidation des documents techniques 
+Constitution des dossiers techniques comprenant les éléments suivants : 
+ Plans de recollement ; 
+ Documents de conception ; 
+ Documents issus du cycle de surveillance (expertise, inspections, rapports 
+d’incidents/interventions ...) 
+Le dossier technique comprendra également la préparation d’un modèle type de la fiche 
+d’identité. C’est une fiche récapitulative qui comprend deux volets : 
+a. Le premier fourni des informations générales : 
+o L’identification d’actif ; 
+o Le sommaire des documents techniques associés ; 
+o Les caractéristiques techniques ; 
+o L’emplacement ; 
+o L’évolution de cycle de vie ; 
+o Les schémas et photos. 
+b. Le deuxième volet comprend une série d’informations actualisables qui retrace 
+l’historique de l’actif ; à savoir : 
+o Le programme de suivi ; 
+o La liste des documents d’inspection, d’analyse et d’entretien ; 
+Le titulaire procédera en premier lieu à la collecte et la structuration de la base de données 
+fournies par le maitre d’ouvrage.  
+4.  Identification et comblement des données manquantes 
+Le titulaire procédera en premier lieu à la collecte et la structuration de la base de données 
+fournies par le maitre d’ouvrage, en identifiant les lacunes dans les données relatives aux 
+actifs de voiries et réseaux divers (VRD). Cela comprendra notamment : 
+ 
+L’absence d’attributs essentiels (année de mise en service, matériaux, dimensions, 
+état, etc.) ; 
+ 
+Les incohérences entre différentes sources de données (plans, historiques de 
+maintenance) ; 
+ 
+Le manque de géo-référencement ou de précision géographique ; 
+ 
+L’absence de données sur certains segments ou équipements des réseaux. 
+
+Page 19 sur 37 
+ 
+Une fois cet état des lieux établi, le titulaire dressera une cartographie des éléments 
+manquants, hiérarchisée selon leur criticité pour la gestion patrimoniale et la prise de décision 
+(gestion des risques, priorisation des investissements, etc.). 
+Sur cette base, il devra proposer un plan d’actions opérationnel pour le comblement des 
+données manquantes, incluant notamment : 
+ 
+L'identification des besoins en relevés terrain (Levée topographique, reconnaissance 
+sur site, etc.) ; 
+ 
+Une proposition de planification réaliste et budgétisée des actions à mettre en œuvre. 
+Les actions proposées devront viser à améliorer significativement la qualité du référentiel 
+d’actifs pour permettre la mise en place d’un système d’Asset Management fiable, évolutif et 
+orienté performance. 
+5. Identification des risques & anomalies 
+L’élaboration de l’arborescence préliminaire des différents risques / anomalies qui concernent 
+les différentes composantes d’actifs du projet. 
+6. Identification des besoins des parties prenantes  
+Particulièrement les exigences fonctionnelles relatives aux opérations d’exploitation, des 
+exigences réglementaires et des exigences des référentiels appliqués. 
+7. Définition des indicateurs de pilotage d’actifs et des seuils de contrôle  
+Des indicateurs de performance des composantes d’actifs seront établis par le prestataire en 
+concertation avec le MO et les parties prenantes qu’il a désignées. 
+   Les conclusions du benchmark seront rappelées à ce chapitre. 
+8. Définition des critères de priorisation 
+Il s’agit de définir pour l’ensemble des actifs gérés des critères de priorisation permettant une 
+répartition optimale des budgets planifiés par rapport à la vision du MO, en concertation de 
+toutes les parties prenantes concernées. 
+9. Définition du programme de surveillance : 
+Une fois les risques et besoin des parties prenantes sont identifiés, le prestataire arrêtera le 
+programme de surveillance et contrôle pour chaque actif, prenant en considération entre 
+autres la performance escomptée, les contrôles réglementaires et les exigences des 
+différents référentiels appliqués. 
+10. Définition du tableau de bord système  
+En plus des indicateurs de performance liés aux actifs, des indicateurs liés au bon 
+fonctionnement du système seront intégrés afin de présenter un aperçu global sur la gestion 
+du site. 
+Mission I.4 : Préparation de la maquette numérique 
+La mission consiste à élaborer les modèles numériques des actifs de l’ensemble des ports à 
+partir de l’inventaire technique détaillé établi lors de la phase précédente. Il s’agira de traduire 
+
+Page 20 sur 37 
+ 
+ces données techniques en représentations numériques précises et structurées, intégrant 
+l’ensemble des caractéristiques physiques et fonctionnelles des actifs. 
+La mission comprend également la modélisation des ouvrages de l’ensemble des ports gérés 
+par l’ANP, à savoir : 
+ Ouvrages de protection 
+ Ouvrages d’accostage incluant les équipements 
+ Ouvrages de mise à sec 
+ Terre-pleins 
+ 
+ MISSION II : CONECEPTION DU MODULE DE GESTION DES VOIRIES ET RESEAUX 
+DIVERS 
+Mission II.1 : Ateliers de conception 
+Sur la base des résultats et conclusions des missions précédentes, le prestataire devra 
+réaliser des ateliers de conception du module de gestion des voiries et réseaux divers. 
+Ces ateliers concernent les parties prenantes nécessaires à la réussite du module envisagé. 
+Le prestataire animera une série d’ateliers avec les différentes parties prenantes, afin 
+d’informer, fédérer, et convenir une logique harmonisée de gestion d’actifs objets du présent 
+appel d’offres, permettant une nomenclature unique et une déclinaison transverse des 
+objectifs.  
+Ces objectifs seront issus de la vision établie et développés dans les missions précédentes, 
+les ateliers comprennent entre autres : 
+ La présentation de l'inventaire des actifs Techniques. 
+ La validation du canevas de définition des objectifs de performance opérationnelle 
+et stratégique et critères de priorisation. 
+ La revue de la nomenclature des actifs. 
+ Le recueil éventuel des objectifs et seuils de performances auprès des parties 
+prenantes. 
+ L’établissement des objectifs annuels et des seuils limites. 
+ L’élaboration de l'architecture préliminaire du système d’information asset 
+management en y incluant les interfaces. 
+A l’issue de chaque atelier, le prestataire établira un PV reprenant les principales conclusions.  
+Un rapport final consolidera les actions convenues et comprendra l’architecture fonctionnelle 
+de la plateforme collaborative, l’arborescence et nomenclature développées des actifs, le 
+plan des objectifs annuels de gestion d’Actifs ainsi que les critères de priorisation et les seuils 
+de performance exigés sera établi par le prestataire. 
+Mission II.2 : Conception détaillée du système 
+Cette mission de conception détaillée du système permettra de cerner les différents aspects 
+conceptuels de la solution. Le titulaire est appelé, dans cette phase, à modéliser et concevoir 
+
+Page 21 sur 37 
+ 
+le nouveau module en se basant sur les livrables des missions précédentes. Les éléments 
+suivants devront être précisés par le prestataire : 
+ Conception fonctionnelle : 
+A travers des ateliers de travail et une étude documentaire des processus, le prestataire 
+devra formaliser les spécifications fonctionnelles générales qui doivent comprendre : 
+ Le descriptif des activités et processus de gestion qui doivent permettre ; 
+ La maîtrise de l’information possédée et acquise ; 
+ L’organisation et la standardisation de l’archivage et la mise à jour des 
+informations et données concernant les documents de gestion des voiries et 
+réseaux portuaires ; 
+ L’accès rapide à l'information recherchée ;  
+ La réalisation des analyses et des requêtes spatiales et de répondre à des 
+interrogations, des recherches et des identifications spatiales ;  
+ La génération des tableaux de bords et des statistiques tabulaires, graphiques 
+et géographiques répondant à des critères et requêtes standard ou 
+personnalisées ; 
+ La génération des cartes thématiques ;  
+ La génération des rapports relatifs aux données déjà traitées, et ceci selon des 
+critères alphanumériques, géographiques et des filtres bien spécifiques ;  
+ L’ajout des données de divers types (images, fichiers CAO, MNT, GRID, SHP, 
+TAB, etc.) avec la possibilité de géoréférencer les fichiers vectoriels et les 
+images importées ; 
+ La solution et les interfaces de consultation et d'exploitation mises en œuvre 
+doivent être simples et conviviales avec une ergonomie logique et précise afin 
+de permettre un accès simple et rapide à l'information ;  
+ Assurer l'échange d'information et la communication entre les modules ; 
+ Prendre en considération l'ensemble des applications et bases de données déjà 
+déployées au sein de l'Agence ; 
+ L’acquisition par le concurrent de logiciels nécessaires pour le développement 
+et le déploiement de l'application. 
+ Les règles de gestion ; 
+ Le descriptif des workflows de transmission et de validation. 
+ 
+ Conception technique : 
+L’étape préalable au développement de l’application consiste, pour le prestataire, à détailler 
+les aspects concernant les exigences techniques, l’architecture et les composants du 
+système, il s’agit de définir : 
+ Le Modèle conceptuel, Modèle physique, Modèle logique ; 
+ L'environnement technologique du système qui comprend les spécifications de 
+l'environnement technologique, les restrictions techniques, les exigences de mise 
+en œuvre ; 
+
+Page 22 sur 37 
+ 
+ La liste du matériel de production des éléments à fournir, avec le choix des 
+caractéristiques des équipements que le titulaire considère comme optimum pour 
+l'obtention des fonctionnalités spécifique ;  
+ La Conception de l'interface utilisateur IHM ; 
+ La Conception des interfaces externes avec les applications avec lesquelles le 
+système doit être intégré ; 
+ L’architecture des Base de données alphanumériques et géographiques. 
+ 
+La solution proposée doit répondre de façon précise aux besoins spécifiques de l'Agence 
+Nationale des Ports en termes d'exploitation des données et d'organisation fonctionnelle. Elle 
+doit s'appuyer notamment sur une solution SIG & SGBD/R reconnue mondialement 
+(PostgreSQL, SQL Server, Oracle...) pouvant garantir une interopérabilité, une portabilité des 
+données et assurer la pérennité et l'évolution de la solution ; 
+La solution doit permette l'intégration et l'exploitation des images satellitaires disponibles, le 
+contractant devra prendre en considération l'intégration d'une plate-forme SIG en architecture 
+full web pour le déploiement de la solution, la plate-forme doit offrir des services de 
+géodonnées pour l'extraction, la réplication et la synchronisation de données, ainsi qu'une 
+architecture et des outils pour la gestion de jeux de données spatiaux volumineux ;  
+La plate-forme doit contenir des outils et des tâches, dont le déplacement et le zoom, 
+l'identification d'entités, la mesure de distances, l'interrogation et la recherche attributaire ; 
+ 
+Le module VRD devra être développé dans le respect de l’architecture technique de la 
+plateforme SGOP (Asset Management) existante. À ce titre, le titulaire devra utiliser les 
+environnements et frameworks en vigueur (Angular pour l’interface utilisateur et Node.js pour 
+les services applicatifs), ou toute autre technologie compatible validée par le maître 
+d’ouvrage. Toute divergence technologique devra être dûment justifiée et validée, en veillant 
+à garantir l’intégration native, la maintenabilité et l’évolutivité du système. 
+La solution proposée devra prendre en considération les critères et les ouvertures des 
+fonctionnalités ci-après :  
+ La possibilité de création de tables supplémentaires ;  
+ Les possibilités de programmation (outil et langage utilisés) ;  
+ Les formats d'import et d'export ;  
+ Les liens avec les produits de bureautique (PDF, Excel, Word ...) ; 
+ Les fonctions d'intégration des modules GPS ;  
+ Les fonctions d'analyses spatiales ; 
+ Les fonctions d'analyses thématiques et statistiques ; 
+ Les fonctions de sémiologie cartographique (symbole, trame, superposition, 
+etc.) 
+ 
+Mission II.3 : Etablissement des master-documents de la norme ISO 55001 
+Il s’agit d’élaborer l’ensemble des documents exigés par la norme ISO 55001, pour les voiries 
+et réseaux divers, à savoir : 
+
+Page 23 sur 37 
+ 
+ La politique Asset Management. 
+ Le SAMP (Strategic Asset Management Plan). 
+ Les AMP (Asset Management Plan). 
+ Les procédures (incluant l’adaptation des procédures existantes). 
+ Les plans d’actions, surveillance et d’amélioration. 
+ 
+MISSION III : DEVELOPPEMENT ET DEPLOIEMENT DU MODULE DE GESTION DES 
+VOIRIES ET RESEAUX DIVERS  
+ 
+Lors de cette phase, le prestataire développera et réalisera l’ensemble des composantes 
+fonctionnelles et techniques susmentionnés en mettant les ressources et les moyens 
+nécessaires. 
+Tous les développements informatiques réalisés expressément par ce marché seront la 
+propriété exclusive de l’ANP. 
+Par la suite, le titulaire devra réaliser tous les tests nécessaires pour s’assurer du bon 
+fonctionnement de chaque fonction du système et de s’assurer aussi que toutes les 
+composantes du système interagissent convenablement entre elles. 
+Mission III.1 : Développement du module et tests de performance. 
+Le titulaire aura pour mission d’assurer : 
+ Mise en place des environnements de développement, test et production ; 
+ Développement de la solution ; 
+ Modélisation des actifs en 2D et 3D 
+ Paramétrage de la nouvelle plateforme collaborative 
+ Reprise documentaire des actifs 
+ Développement des écrans, des menus, des documents et des états, des 
+indicateurs de suivi, des enchaînements d’écrans ou des menus ; 
+ Mise en place des règles de gestion ; 
+ Développement des structures des données ; 
+ Développement des interfaces entre le système et les autres applications de l’ANP ; 
+ Vérification du bon fonctionnement des fonctions développées et paramétrées ; 
+ Livrer les développements pour la mise en recette ; 
+ Mettre en place un plan de test et recette ; 
+ Réaliser les tests et recette : 
+ Tests unitaires de la solution (Traitements, IHM) ; 
+ Tests d’intégration. 
+ Validation et déploiement 
+ Reprise des données 
+ 
+
+Page 24 sur 37 
+ 
+La plateforme numérique proposée est basée sur une logique SIG, incluant la numérisation 
+des processus de gestion d’actifs, basé notamment sur la maquette numérique des actifs. 
+Les principales fonctionnalités demandées sont les suivantes : 
+ La gestion documentaire des dossiers techniques des actifs (plans de recollement, 
+fiches techniques, etc.), avec un suivi des modifications desdits dossiers ; 
+ La gestion de la politique de maintenance, avec un suivi des plannings des 
+différentes parties prenantes (équipes maintenance, finances, management, …) 
+ La gestion des anomalies et gestion de son cycle de vie 
+ Gestion des notifications en temps réel aux parties prenantes  
+ La centralisation des besoins/réclamations des parties prenantes  
+ Le suivi et contrôle des interventions (adaptation, maintenance, acquisition) 
+ Centralisation de données sur capteurs (existant éventuellement) et analyse en 
+temps réels (API à fournir par les fournisseurs des capteurs) 
+ La gestion du cycle de vie des actifs  
+ Un tableau de bord de suivi des performances des actifs et du système de gestion 
+d’actifs 
+ 
+La plateforme doit permettre la centralisation des renseignements/demandes des parties 
+prenantes, la gestion de changement et la notification et la diffusion ciblée des tableaux de 
+bord paramétrés. 
+Le prestataire doit assurer un déploiement de la plateforme au niveau de tous les ports et un 
+accompagnement à son utilisation à travers des sessions par région. 
+Une formation des équipes du MO et ses partenaires sur l’utilisation de ce logiciel sera prévue 
+pour favoriser l’autonomie dans l’exploitation du système. 
+Une centralisation avec les systèmes existants disponibles chez le MO doit être possible. 
+Les comptes des représentants du MO seront créés conformément à la politique 
+d’authentification existante.  
+La mise à jour de la base de données pour intégrer les informations recueillies pendant les 
+inspections doit se faire d’une manière automatique. 
+Le système d’information doit être évolutif et extensible. 
+Ci-dessous une description de certains points cités ci-haut : 
+ 
+1. Traçabilité et gestion des changements 
+Toute intervention est tracée dans le système en définissant la nature, la date, l’actif 
+concerné et le responsable ainsi que toute information jugée nécessaire par le MO. 
+Toutes les modifications apportées aux actifs doivent être intégrées dans la plateforme 
+avant clôture des interventions. 
+2. Respect du programme de surveillance 
+
+Page 25 sur 37 
+ 
+Il s’agit de planifier l’ensemble des actions préventives périodiques et d’assurer un suivi de 
+son exécution. Cette planification comprend toutes les taches dans le cadre du processus de 
+collecte et analyse des données (suivi périodique), qui déclenche des actions de maintenance 
+préventive. 
+Le système de gestion de la planification permet une répartition optimale des tâches (temps 
+et profils) conformément au programme de surveillance, avec un calcul en temps réel des 
+indicateurs du respect de la planification. 
+Le système doit prévoir un double check-in des taches réalisées par voie physique (par 
+formulaire sur site) et par voie numérique (automatiquement à travers la plateforme). 
+3. Cycle de vie des anomalies / gestion des réclamations des parties prenantes 
+La plateforme permet la prise en charge du cycle de vie des anomalies, issues à la fois des 
+inspections périodiques (internes) ou suite à des réclamations des parties prenantes 
+(externes). 
+A travers la plateforme collaborative, la gestion de la durée de vie de l’anomalie est optimisée 
+en ciblant la notification à l’agent concerné. 
+La plateforme calculera automatiquement des indicateurs de performances relatifs à la 
+réactivité, le nombre des réclamations clôturées, la récurrence des réclamations, … 
+4. Système de notification 
+Le système de notification est l’outil de communication fluide et efficace pour optimiser et 
+garantir la réactivité des parties concernées.  
+Le paramétrage de la plateforme concernera également l’établissement des listes de 
+diffusions automatiques selon des critères spécifiques à déterminer en concertation avec le 
+MO. 
+5. Tableau de bord 
+Il s’agit de la numérisation d’un tableau de bord ciblé et adapté aux besoins du MO, et 
+paramétré pour chaque profil concerné. 
+En fonction du besoin de chaque partie, le tableau de bord devra présenter un aperçu sur les 
+indicateurs concernés, et évalue la performance et les écarts associés en temps réels. 
+Afin d'assurer une visualisation claire, dynamique et accessible des indicateurs définis, il est 
+proposé d’adopter Power BI comme outil principal de conception des tableaux de bord. Power 
+BI permet de se connecter à diverses sources de données (PostgreSQL, services web, Excel, 
+etc.), d’offrir une mise à jour automatique des indicateurs, et de générer des visualisations 
+interactives pour différents profils d’utilisateurs. Cette solution facilite le suivi en temps réel 
+de la performance des actifs, des anomalies signalées, du respect des plannings de 
+maintenance, et de tout indicateur stratégique. Elle est également adaptée au déploiement 
+multi-site et à l’autonomie des équipes grâce à sa simplicité d’usage. 
+ 
+Mission III.2 : Insertion des données dans la plateforme. 
+Après avoir arrêté la structure de la base de données de la plateforme, et validé la 
+structuration des actifs, ainsi que les différentes informations nécessaires au bon 
+
+Page 26 sur 37 
+ 
+fonctionnement du système, le prestataire est amené à adapté, si nécessaires, les données 
+modélisées (maquette numérique) avec l’ensemble des attributs associés, ou les données 
+opérationnelles (notamment les plannings, les types d’anomalies, les indicateurs …). 
+Par la suite, le prestataire doit alimenter la base de données du système pour intégrer 
+l’ensembles des informations concernant le scope du projet, et veiller à la couverture de 
+l’ensemble des actifs VRD pour tous les ports de l’ANP. 
+Mission III.3 : Transfert de compétences. 
+Le titulaire devra assurer les formations concerneront tous les aspects du module de gestion 
+des voiries et réseaux portuaires, à savoir : 
+ Permettre l'adhésion de l'utilisateur au nouveau module ; 
+ Donner à l’utilisateur le savoir-faire pour exploiter convenablement le nouveau 
+module ;  
+ Elaborer 
+la 
+documentation 
+suffisamment 
+illustrée 
+« utilisateurs » 
+et 
+« administrateurs » ainsi que les modes opératoires ; 
+ Familiariser l’utilisateur avec sa future documentation qui le rendra à terme, 
+autonome.  
+Deux types de formations doivent être réalisés : 
+ Formation sur l’exploitation du module (Formation Utilisateur) : Cette formation 
+concerne les utilisateurs de différents profils et porte sur l’exploitation et la maîtrise 
+des fonctionnalités de la solution ; 
+ Formation sur l’administration du module (Formation Administrateur) : Cette 
+formation est destinée aux personnes qui seront chargées de l’administration et de 
+la maintenance du module. 
+  Le nombre des bénéficiaires de la formation sera de : 
+Un seul groupe de vingt (20) personnes pour la formation des administrateurs du module ; 
+Trois groupes de vingt (20) personnes soit en total de soixante (60) personnes pour la 
+formation des utilisateurs du module ; 
+La durée de la formation sera d’un volume horaire de quarante (40) heures de formation 
+pour les administrateurs du système et de quatre-vingt (80) heures de formation pour les 
+utilisateurs. 
+ARTICLE N°32 :  SYSTEME D’INFORMATION ACTUEL DE L’ANP 
+ Applications actuelles  
+L’ANP est en cours de modernisation de son système d’information actuel. Le schéma ci-
+dessous donne un aperçu sur les chantiers s’inscrivant dans cette modernisation dont fait 
+partie le système d'information d'Asset management pour la gestion des actifs portuaires. Ci-
+dessous un tableau qui présente les applications existantes dont certaines pourront faire 
+l’objet d’intégration avec la solution cible : 
+
+Page 27 sur 37 
+ 
+Application 
+Fonction 
+Technologies 
+PREST 
+ Taxation et édition des factures clients. 
+ Recouvrement des factures clients. 
+AS400 et 
+DB2/400 
+SI Achats 
+ Etablissement des dossiers d’achat ; 
+ Etablissement des Appel d’offres ; 
+ Les phases d’ouverture et contrôle ; 
+ Le processus d’adjudication ; 
+ L’élaboration du marché et le suivi de 
+l’exécution du marché. 
+JAVA/J2EE 
+et ORACLE 
+SI Domaine 
+Publique 
+ Gestion du domaine publique portuaire ; 
+ 
+SI 
+Conférence 
+ solution informatique qui systématise et 
+sécurise le contrôle des 
+accostages/appareillages et assure le suivi et 
+le respect des consignes de transit des 
+marchandises dangereuses et spéciales. 
+ 
+Intranet 
+ Portail de collaboration interne 
+SharePoint 
+2010 
+GED 
+ Gestion électronique des documents 
+Alfresco 
+Active 
+Directory 
+ Annuaire LDAP 
+Active 
+directory 
+ 
+ Architecture applicative 
+Les principes transverses appliqués au parc applicatif de l’ANP sont :  
+ Une architecture orientée services SOA ; 
+ Une architecture applicative Java EE structurée en couches ; 
+ Principes Structurants  
+Toute brique applicative du SI est considérée comme un « Macro Objet » dont les interactions 
+suivront les patterns suivants :  
+ Responsabilité : Toute brique fonctionnelle qui détient une information est 
+responsable de l’exposer ;  
+ Faible Couplage : Les différents composants du parc applicatif et du SI doivent 
+éviter l’effet « spaghetti » (définition Wikipédia : effet spaghetti)  
+ Forte Cohésion : Tout composant technique ou bloc fonctionnel doit être spécialisé 
+afin de fournir une fonctionnalité et un comportement atomique et spécifique. 
+ 
+ Architecture Orientée Service  
+L’architecture se base sur une organisation de type SOA pour "Service-Oriented Architecture" 
+(i.e. Architecture Orientée Services). Elle consiste à voir chaque domaine et fonction de 
+l’ensemble applicatif comme un fournisseur de services pour les autres domaines. Elle 
+favorise ainsi la réutilisabilité du système par la mutualisation des services.  
+
+Page 28 sur 37 
+ 
+Cette réutilisabilité permet également à l’ensemble des applications ANP en dehors de 
+l’ensemble applicatif de consommer les mêmes services.  
+La solution technique doit s’appuyer sur un modèle d’architecture qui permet de se conformer 
+aux « fondamentaux » d’un système d’information, à savoir :  
+ La pérennité de la solution, par la maîtrise du code source et le choix des 
+technologies de référence,  
+ La réutilisabilité, par le partage de services et de composants entre différentes 
+applications,  
+ L'évolutivité, par la capacité de répondre aux nouveaux besoins fonctionnels sans 
+remise en cause du socle bâti,  
+ L'interopérabilité, qui permet d’augmenter la réactivité du système en assurant des 
+moyens normalisés de communication entre les modules applicatifs de plates-
+formes et environnements hétérogènes, 
+ La scalabilité et la performance, par la souplesse du mode de déploiement des 
+composants applicatifs du système sur les composants physiques : l’amélioration 
+des performances du système et le support d’une demande croissante de 
+sollicitations sont ainsi assurés de manière transparente par l’ajout de composants 
+matériels (RAM, CPU, disques …) ou de serveurs physiques en partage de charge. 
+L’architecture à base de services est modulaire et flexible lorsque les différentes couches de 
+traitement sont parfaitement identifiées et leurs échanges sont normalisés.  Les choix 
+techniques seront orientés « LightWeight » afin de garantir :  
+ La facilité sur les environnements DEV, INT, QUALIF, PROD :  
+ Le déploiement/l’administration  
+ La scalabilité  
+ La Testabilité  
+ La simplicité des flux/échanges :  
+ Utiliser REST (Simple, Efficace)  
+ Sauf contrainte : Ne pas utiliser SOAP & WS-*  
+ Architecture réparties en n-tiers :  
+ Tiers Client, Tiers Web, Tiers Services  
+ Tiers Médiation, Tiers Orchestration, Workflow et Règles Métier  
+ Tiers Ressources : Annuaires, SGBDR, Systèmes centraux. 
+L’architecture des modules applicatifs respecte un schéma structurel global qui permet de :  
+ Mutualiser les développements en identifiant les composants transversaux,  
+ Offrir la flexibilité qui garantit l’évolutivité facile des développements futurs,  
+ Structurer la décomposition de l’architecture en plusieurs niveaux ou couches,  
+ Adapter l’architecture technique en environnement compatible avec le système 
+informatique de l’ANP.  
+
+Page 29 sur 37 
+ 
+La description du découpage en couches applicatives applique les principes décrits 
+précédemment. En effet chaque couche est spécialisée en utilisant le principe « Forte 
+Cohésion » et n’est couplée qu’avec des couches spécifiques « Faible Couplage ». 
+L’architecture des applicatifs de l’ANP est décomposée en six couches bien identifiées à 
+travers leurs rôles respectifs :  
+ Présentation ;  
+ Navigation ; 
+ Services ; 
+ Domaine ; 
+ Persistance ; 
+ Processus & Règles Métier. 
+ 
+ 
+Important : 
+La couche processus et règles est responsable d’implémentation de :  
+ Workflow et Processus Métier ;  
+ Implémentation et exposition des règles Métier.  
+Le workflow décrit le circuit de validation, les tâches à accomplir entre les différents acteurs 
+d'un processus, les délais et les modes de validation, et fournit à chacun des acteurs les 
+informations nécessaires pour la réalisation de sa tâche. Fonctionnellement parlant, cette 
+couche sera fortement couplée avec la couche des Services ;  
+Les règles permettent d’isoler les traitements d’un côté et les données « facts » de l’autre 
+coté en les rapprochant pour obtenir des « results » correspondant aux attentes exprimées 
+dans les règles. L’ANP a adopté cette solution pour pouvoir gérer les nombreuses micros 
+règles qui changent souvent dans le métier portuaire. 
+A. Interactions Services / Processus 
+Les activités de la couche processus sollicitent les services de la couche services. Le moteur 
+de règles expose aux services des interfaces d’appel. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B. Interactions avec les Règles 
+
+Page 30 sur 37 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Les règles Métier suivent le processus suivant :  
+ Implémentées sur IDE ;  
+ Déposées et visionnées sur le Repository des règles ;  
+ Approuvées et déployées sur le moteur des règles.  
+Les règles Métier sont exploitées de deux façons :  
+ Depuis la couche Services : pour implémenter les traitements Métier, elles reçoivent 
+des « facts » en entrée de la part des services et retournent des « results » en sortie  
+ Depuis la couche Processus : pour implémenter les traitements Métier et aussi sur le 
+choix d’une étape ou d’une tache. 
+ 
+ Architecture technique  
+L’architecture du système est construite selon les principes suivants : 
+a. Frontend  
+ 
+Développée en Angular (ou équivalent). 
+ 
+Interface ergonomique, responsive et multilingue (arabe, amazigh, français). 
+
+Page 31 sur 37 
+ 
+ 
+Mise en œuvre de la technique de lazy loading pour améliorer les performances de 
+chargement. 
+b. Backend 
+ 
+Développé en Node.js (ou technologie équivalente en performance). 
+ 
+Mise en place d’API RESTful avec gestion des droits et des accès. 
+ 
+Gestion des échanges de données via format JSON. 
+c.  Base de données 
+ 
+Base principale sous SQL Server ou équivalent, avec une architecture assurant 
+haute disponibilité (High Availability Group ou équivalent). 
+ 
+Utilisation de mécanismes de réplication, de sauvegarde automatique et de 
+tolérance aux pannes. 
+d. Couche IoT et gestion des données temps réel 
+Le système devra intégrer une couche IoT assurant la gestion des données issues de 
+capteurs industriels : 
+ 
+Middleware de gestion des flux (type Apache Kafka ou équivalent). 
+ 
+Base de données de séries temporelles (InfluxDB ou équivalent). 
+ 
+Fonctionnalités de traitement temps réel, archivage, compression et consultation 
+des historiques. 
+ARTICLE N°33 : DOCUMENTS A REMETTRE AU MAITRE D’OUVRAGE  
+Les documents à remettre par le prestataire dans le cadre de l’exécution du présent appel 
+d’offres sont récapitulés dans le tableau ci-après : 
+MISSION 
+DOCUMENTS A REMETTRE 
+Mission I : 
+DIAGNOSTIC ET 
+CERTOGRAPHIE 
+DES VOIRIES ET 
+RESEAUX 
+PORTAUIRES 
+Mission I-1 
+ Rapport détaillé du Benchmark 
+Mission I-2 
+ Rapport détaillé de diagnostic et d’analyse 
+de l’existant. 
+ 
+Mission I-3 
+ Inventaire détaillé et structuré des actifs 
+ 
+ Dossiers techniques consolidés (plans de 
+recollement, conception, maintenance…) 
+ 
+ Fiches modèle d’identification de l’ensemble 
+des actifs 
+ 
+ Rapport d’identification des risques et 
+besoin du MO 
+ 
+ Rapport de définition des indicateurs de 
+pilotage et les critères de priorisation 
+ 
+ Tableau de bord du système 
+ 
+Mission I-4 
+ Maquette numérique des actifs  
+ 
+ 
+Mission II : 
+CONECEPTION DU 
+Mission II-1 
+ Rapport détaillé comprenant l’architecture 
+fonctionnelle de la plateforme collaborative, 
+l’arborescence et nomenclature 
+ 
+
+Page 32 sur 37 
+ 
+MODULE DE 
+GESTION DES 
+VOIRIES ET 
+RESEAUX DIVERS 
+développées des actifs, le plan des objectifs 
+annuels de gestion d’actifs, les critères de 
+priorisation et les seuils de performance 
+exigés. 
+Mission II-2 
+ Dossier fonctionnel et technique du e 
+système cible : 
+- Macro-processus et enchaînement des 
+tâches manuelles et automatiques ; 
+- Services attendus et les différents 
+contrôles à implémenter ; 
+- Spécifications fonctionnelles détaillées ;  
+- Spécifications techniques de la solution. 
+ Dossier de conception :  
+- Conception détaillée du système ; 
+- Conception des interfaces avec les 
+autres systèmes de l’ANP ; 
+- Catalogue détaillé des pré-requises 
+techniques (plateforme technique, 
+serveurs, OS…) ; 
+- Livrable sur les environnements cibles 
+proposés pour la futur solution 
+(environnement test, développement et 
+production). 
+ 
+Mission II-3 
+ Les master-documents de la norme iso 
+55001 pour les voiries et réseaux divers 
+ 
+Mission III : 
+DEVELOPPEMENT 
+ET DEPLOIEMENT 
+DU MODULE DE 
+GESTION DES 
+VOIRIES ET 
+RESEAUX DIVERS 
+Mission III-1 
+ Support informatique des programmes 
+sources développés. Le programme source 
+doit être bien documenté ; 
+ 
+ Documentation de configuration et 
+d’installation  
+ 
+ Documentation d’exploitation, de 
+sauvegarde et de restauration ; 
+ 
+ Documentation de configuration des postes 
+de travail ; 
+ 
+ Canevas du format des données pour les 
+besoins d’interfaces ; 
+ 
+ Document descriptif de chaque interface 
+incluant les aspects techniques et 
+d’exploitation ; 
+ 
+ Livrable de mécanisme de test et mise en 
+production ;  
+ 
+ Planning de déroulement des tests ; 
+ 
+ Document préparatoire des tests de recette 
+contenant la liste des tests à réaliser ; 
+ 
+ Compte rendu des résultats de tests 
+reprenant l’ensemble des tests prévus lors 
+de la planification, les problèmes 
+rencontrés. 
+ 
+Mission III-2 
+ Base de données alimentées par les 
+données de la maquette numérique ajustée 
+pour les actifs du scope du marché, ainsi 
+ 
+
+Page 33 sur 37 
+ 
+que les données de fonctionnement du 
+système 
+ PV de reprise des données ; 
+Mission III-3 
+ Manuel de formation 
+ Documentation suffisamment illustrée 
+« utilisateurs » et « administrateurs » ainsi 
+que les modes opératoires 
+ 
+ 
+ARTICLE N°34 : MOYENS HUMAINS DU TITULAIRE 
+L’équipe du titulaire doit faire l’objet de l’approbation du maître d’ouvrage avant le 
+commencement des prestations et avant son déploiement sur le chantier. Les membres de 
+l’équipe du titulaire doivent avoir au minimum les exigences suivantes : 
+ Directeur de projet : 
+ Disposant au minimum d’un diplôme supérieur (bac+5), ayant une expérience de 
+10 ans dans le management de projets de mise en place de système d’Asset 
+Management y compris développement et déploiement d’applicatifs ; 
+ Ayant déjà conduit au moins 3 projets similaires et de même envergure ; 
+ Il sera l’interlocuteur unique de l’ANP sur tous les aspects techniques, 
+opérationnels, commerciaux et administratifs relatifs au projet. 
+ 
+ Un (1) Expert fonctionnel :  
+ Disposant au minimum d’un diplôme supérieur (bac+5) en génie civil ; 
+ Ayant une expérience d’au moins 5 ans dans le domaine VRD ; 
+ Un (1) Expert dans le domaine de la GMAO : 
+ Disposant au minimum d’un diplôme supérieur (bac+5) ; 
+ Ayant une expérience d’au moins 10 ans dans la gestion des projets de 
+maintenance à l’aide de GMAO. 
+ Un (1) Architecte applicatif expert en conception de systèmes : 
+ Disposant au minimum d’un diplôme supérieur (bac+5) en informatique, ayant une 
+expérience de 5 ans dans la conception des systèmes d’information ; 
+ Ayant une expérience pertinente d’au moins 5 ans en matière de conception des 
+systèmes d’information ; 
+ Ayant participé à au moins 3 projets de même complexité ; 
+ 
+ Un (1) Expert en développement :  
+ Disposant au minimum d’un diplôme supérieur (bac+5) en informatique ; 
+ Ayant une expérience de 5 ans dans le développement des systèmes 
+d’information 
+ Ayant participé à au moins 3 projets de même complexité. 
+
+Page 34 sur 37 
+ 
+NB :  
+Les prestataires non installés au Maroc sont tenus d’associer des experts marocains dans 
+une proportion minimale de vingt pour cent (20%) des experts affectés à l’exécution des 
+prestations objet du marché, sauf en cas d’indisponibilité dûment justifiée de ces experts 
+marocains. 
+ARTICLE N°35 : ELEMENTS COMPRIS DANS LES PRIX 
+Conformément à l’article 34 du CCAG-EMO, Les prix de soumission comprennent le bénéfice 
+ainsi que tous droits, impôts, taxes, frais généraux, faux frais et d’une façon générale toutes 
+les dépenses qui sont à la conséquence nécessaire et directe des missions du titulaire. 
+Ils comprennent également la production des éléments dessinés et écrits, toutes sujétions de 
+transport, d’assurance, de remplacement le cas échéant, ainsi que toutes autres sujétions 
+inhérentes à l’application de ces prix. 
+Les prix de soumission sont réputés inclure toutes les missions, taches et obligations du 
+titulaire telles que décrites dans le présent CPS, même s’ils ne sont pas explicités dans la 
+définition des prix ci-dessous.  
+ARTICLE N°36 :  DEFINITION DES PRIX  
+Les prix définis ci-dessous comprennent toutes sujétions liées directement ou indirectement 
+au bon déroulement des prestations, telles que la recherche des informations, enquêtes 
+auprès des Administrations, des opérateurs et des usagers des ports, documentations, 
+déplacement et frais de séjour, réalisations des reconnaissances, secrétariat et édition, 
+remise des livrables (mémoire, notes, rapports provisoires et définitifs). 
+Mission I : DIAGNOSTIC ET CARTOGRAPHIE DES VOIRIES ET RESEAUX DIVERS 
+ 
+Prix I-1 : Veille technologique et benchmark 
+Ce prix rémunère d’une manière forfaitaire le consultant pour la réalisation de la 
+mission I-1, y compris toutes les sujétions.  
+Prix payé au forfait. 
+ 
+Prix I-2 : Diagnostic de l’existant et proposition d’améliorations 
+Ce prix rémunère d’une manière forfaitaire le consultant pour la réalisation de la 
+mission I-2, y compris toutes les sujétions.  
+Prix payé au forfait. 
+ 
+Prix I-3 : Maîtrise des actifs 
+Ce prix rémunère d’une manière forfaitaire le consultant pour la réalisation de la 
+mission I-3, y compris toutes les sujétions.  
+Prix payé au forfait. 
+ 
+Prix I-4 : Préparation des maquettes numériques 
+Ce prix rémunère d’une manière forfaitaire le consultant pour la réalisation de la 
+mission I-4, y compris toutes les sujétions.  
+Prix payé au forfait. 
+Mission II : CONCEPTION DU MODULE DE GESTION DES VOIRIES ET RESEAUX 
+DIVERS 
+
+Page 35 sur 37 
+ 
+ 
+Prix II-1 : Ateliers de conception et définition des exigences métier 
+Ce prix rémunère d’une manière forfaitaire le consultant pour la réalisation de la 
+mission II-1, y compris toutes les sujétions.  
+Prix payé au forfait. 
+ 
+Prix II-2 : Conception détaillée du module de gestion des voiries et réseaux 
+divers 
+Ce prix rémunère d’une manière forfaitaire le consultant pour la réalisation de la 
+mission II-2, y compris toutes les sujétions.  
+Prix payé au forfait. 
+ 
+Prix II-3 : Établissement des master-documents de la norme ISO 55001 
+Ce prix rémunère d’une manière forfaitaire le consultant pour la réalisation de la 
+mission II-3, y compris toutes les sujétions.  
+Prix payé au forfait. 
+Mission III : DEVELOPPEMENT ET DEPLOIEMENT DU MODULE DE GESTION DES 
+VOIRIES ET RESEAUX DIVERS 
+ 
+Prix III-1 : Développement du module et tests de performance 
+Ce prix rémunère d’une manière forfaitaire le consultant pour la réalisation de la 
+mission III-1, y compris toutes les sujétions.  
+Prix payé au forfait. 
+ 
+Prix III-2 : Insertion des données 
+Ce prix rémunère d’une manière forfaitaire le consultant pour la réalisation de la 
+mission III-2, y compris toutes les sujétions.  
+Prix payé au forfait. 
+ 
+Prix III-3 : Transfert de compétence 
+Ce prix rémunère d’une manière forfaitaire le consultant pour la réalisation de la 
+mission III-3, y compris toutes les sujétions.  
+Prix payé au forfait. 
+ 
+ 
+ Représentant du Maitre d’ouvrage : Directeur des Infrastructures et Etudes 
+Signé : Mohamed JAJA 
+ 
+ 
+ 
+
+  
+ 
+Page 36 sur 37 
+ 
+BOREDEREAU DES PRIX - DETAIL ESTIMATIF 
+APPEL D’OFFRES OUVERT INTERNATIONAL N° 30/AOO/DIE-DG-ANP/2025 
+« CONCEPTION, DEVELOPPEMENT, DEPLOIEMENT ET MAINTENANCE D'UN MODULE DE GESTION DES VOIRIES ET RESEAUX DIVERS 
+PORTUAIRES INTEGRE AU SYSTEME D'INFORMATION D'ASSET MANAGEMENT » 
+ 
+N° PRIX 
+DESIGNATION DES PRESTATIONS 
+UNITE QUANTITE 
+PRIX 
+UNITAIRE 
+EN 
+…………/HT 
+MONTANT 
+TOTAL 
+EN 
+…………/HT 
+Mission I : DIAGNOSTIC ET CARTOGRAPHIE DES VOIRIES ET RESEAUX DIVERS 
+Prix I-1 
+Mission I-1 : Veille technologique et benchmark. 
+Forfait 
+1 
+ 
+ 
+Prix I-2 
+Mission I-2 : Diagnostic de l’existant et proposition d’améliorations. 
+Forfait 
+1 
+ 
+ 
+Prix I-3 
+Mission I-3 : Maitrise des actifs  
+Forfait 
+1 
+ 
+ 
+Prix I-4 
+Mission I-4 : Préparation des maquettes numériques 
+Forfait 
+1 
+ 
+ 
+Mission II : CONECEPTION DU MODULE DE GESTION DES VOIRIES ET RESEAUX DIVERS 
+Prix II-1 
+Mission II-1 : Ateliers de conception et définition des exigences métier. 
+Forfait 
+1 
+ 
+ 
+Prix II-2 
+Mission II-2 : Conception détaillée du module de gestion des voiries et 
+réseaux divers. 
+Forfait 
+1 
+ 
+ 
+Prix II-3 
+Mission II-3 : Etablissement des master-documents de la norme ISO 
+55001. 
+Forfait 
+1 
+ 
+ 
+
+  
+ 
+Page 37 sur 37 
+ 
+Mission III : DEVELOPPEMENT ET DEPLOIEMENT DU MODULE DE GESTION DES VOIRIES ET RESEAUX DIVERS 
+Prix III-1 
+Mission III-1 : Développement du module et tests de performance. 
+Forfait 
+1 
+ 
+ 
+Prix III-2 
+Mission III-2 : Insertion des données 
+Forfait 
+1 
+ 
+ 
+Prix III-3 
+Mission III-3 : Transfert de compétence 
+Forfait 
+1 
+ 
+ 
+TOTAL HT 
+ 
+Taux TVA (.. %) 
+ 
+TOTAL TTC 
+ 
+ 
+ 
+Le concurrent doit préciser le libellé de la monnaie. 
+Arrêté le montant du présent bordereau des prix – détail estimatif à la somme de : …………………………………………………………. Toutes 
+Taxes Comprises. 
+ 
+Fait à…………………, le ………………. 
+ 
+(Signature et Cachet du Concurrent) 
+ 

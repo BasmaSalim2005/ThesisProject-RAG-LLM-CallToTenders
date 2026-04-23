@@ -1,0 +1,206 @@
+{
+  "dossier_administratif": [
+    {
+      "id": "pieces_justifiant_pouvoirs_conferes_personne_agissant_nom",
+      "description": "Pièces justifiant les pouvoirs conférés à la personne agissant au nom du concurrent. (procuration légalisée pour personne physique, extrait des statuts et/ou PV de l'organe compétent pour personne morale, acte de délégation le cas échéant)",
+      "criteria": "(procuration légalisée pour personne physique, extrait des statuts et/ou PV de l'organe compétent pour personne morale, acte de délégation le cas échéant)",
+      "requirement_type": ""
+    },
+    {
+      "id": "declaration_l_honneur",
+      "description": "Déclaration sur l'honneur. (modèle annexé au RC)",
+      "criteria": "(modèle annexé au RC)",
+      "requirement_type": ""
+    },
+    {
+      "id": "original_recepisse_cautionnement_provisoire",
+      "description": "Original du récépissé du cautionnement provisoire. (84 000,00 DH) ou attestation de caution personnelle et solidaire - constitué par voie électronique via le portail des marchés publics",
+      "criteria": "(84 000,00 DH) ou attestation de caution personnelle et solidaire - constitué par voie électronique via le portail des marchés publics",
+      "requirement_type": ""
+    },
+    {
+      "id": "convention_constitutive_groupement",
+      "description": "Convention constitutive du groupement. (si concurrent en groupement) ou copie certifiée conforme",
+      "criteria": "(si concurrent en groupement) ou copie certifiée conforme",
+      "requirement_type": ""
+    },
+    {
+      "id": "exigence_administratif_5",
+      "description": "Pour le concurrent auquel il est envisagé d'attribuer le marché. Attestation fiscale (moins d'un an) certifiant situation fiscale régulière",
+      "criteria": "Attestation fiscale (moins d'un an) certifiant situation fiscale régulière",
+      "requirement_type": ""
+    },
+    {
+      "id": "exigence_administratif_6",
+      "description": "Pour le concurrent auquel il est envisagé d'attribuer le marché. Attestation CNSS (moins d'un an) certifiant situation régulière",
+      "criteria": "Attestation CNSS (moins d'un an) certifiant situation régulière",
+      "requirement_type": ""
+    },
+    {
+      "id": "exigence_administratif_7",
+      "description": "Pour le concurrent auquel il est envisagé d'attribuer le marché. Copie du certificat d'immatriculation au registre de commerce (modèle 9)",
+      "criteria": "Copie du certificat d'immatriculation au registre de commerce (modèle 9)",
+      "requirement_type": ""
+    },
+    {
+      "id": "non_installes_maroc",
+      "description": "Pour concurrents non installés au Maroc. équivalents des attestations fiscales, CNSS et registre de commerce délivrés par autorités compétentes du pays d'origine, ou attestation judiciaire/administrative si non disponibles",
+      "criteria": "équivalents des attestations fiscales, CNSS et registre de commerce délivrés par autorités compétentes du pays d'origine, ou attestation judiciaire/administrative si non disponibles",
+      "requirement_type": ""
+    }
+  ],
+  "offre_technique": [
+    {
+      "id": "note_indiquant_moyens_humains_techniques",
+      "description": "Note indiquant les moyens humains et techniques du concurrent. (lieu, date, nature, importance des prestations exécutées, qualité de participation)",
+      "criteria": "(lieu, date, nature, importance des prestations exécutées, qualité de participation)",
+      "requirement_type": ""
+    },
+    {
+      "id": "moins_deux",
+      "description": "Au moins deux. (02) attestations de référence pour des prestations similaires réalisées durant les dix (10) dernières années, d'un montant supérieur ou égal à l'estimation du maître d'ouvrage (4 200 000,00 DH TTC)",
+      "criteria": "(02) attestations de référence pour des prestations similaires réalisées durant les dix (10) dernières années, d'un montant supérieur ou égal à l'estimation du maître d'ouvrage (4 200 000,00 DH TTC)",
+      "requirement_type": ""
+    },
+    {
+      "id": "cas_attestations_englobant_plusieurs_prestations",
+      "description": "En cas d'attestations englobant plusieurs prestations. fiches détaillant les activités menées, signées par hommes de l'art ou bénéficiaires",
+      "criteria": "fiches détaillant les activités menées, signées par hommes de l'art ou bénéficiaires",
+      "requirement_type": ""
+    },
+    {
+      "id": "cas_prestations_realisees_groupement",
+      "description": "En cas de prestations réalisées en groupement. fiche indiquant la part en montant et en missions, signée par hommes de l'art ou bénéficiaires",
+      "criteria": "fiche indiquant la part en montant et en missions, signée par hommes de l'art ou bénéficiaires",
+      "requirement_type": ""
+    },
+    {
+      "id": "presentation_detaillee_methodologie_gestion_projet",
+      "description": "Présentation détaillée de la méthodologie de gestion de projet. (organisation, planning prévisionnel avec jalons, gestion de la documentation)",
+      "criteria": "(organisation, planning prévisionnel avec jalons, gestion de la documentation)",
+      "requirement_type": ""
+    },
+    {
+      "id": "architecture_generale_systeme_information_propose",
+      "description": "Architecture générale du système d'information proposé",
+      "criteria": "",
+      "requirement_type": ""
+    },
+    {
+      "id": "methodologie_reprise_donnees_alimentation_bases_donnees",
+      "description": "Méthodologie de reprise des données et d'alimentation des bases de données",
+      "criteria": "",
+      "requirement_type": ""
+    },
+    {
+      "id": "plan_conduite_changement_transfert_competences",
+      "description": "Plan de conduite du changement et de transfert des compétences. (plan de communication, stratégie de conduite du changement, plan de support et formation)",
+      "criteria": "(plan de communication, stratégie de conduite du changement, plan de support et formation)",
+      "requirement_type": ""
+    },
+    {
+      "id": "methodologie_gestion_maintenance_systeme_information",
+      "description": "Méthodologie de gestion de la maintenance du système d'information. (programme de maintenance préventive/curative, méthodologie de maintenance évolutive)",
+      "criteria": "(programme de maintenance préventive/curative, méthodologie de maintenance évolutive)",
+      "requirement_type": ""
+    },
+    {
+      "id": "cvs_intervenants_signes_conjointement_personne_concernee_selon_modele_an",
+      "description": "CVs des intervenants signés conjointement par la personne concernée et le concurrent, selon modèle annexe IV",
+      "criteria": "",
+      "requirement_type": "cv"
+    },
+    {
+      "id": "diplomes_certifies_conformes_l_original_profils_demandes",
+      "description": "Diplômes certifiés conformes à l'original des profils demandés",
+      "criteria": "",
+      "requirement_type": ""
+    },
+    {
+      "id": "cv_diplome_directeur_projet",
+      "description": "CV et diplôme du Directeur de projet. bac+5 minimum, 10 ans expérience management projets Asset Management, au moins 3 projets similaires conduits",
+      "criteria": "bac+5 minimum, 10 ans expérience management projets Asset Management, au moins 3 projets similaires conduits",
+      "requirement_type": "cv"
+    },
+    {
+      "id": "cv_diplome_l_expert_fonctionnel",
+      "description": "CV et diplôme de l'Expert fonctionnel. bac+5 en génie civil minimum, 5 ans expérience gestion ouvrages portuaires ou réseaux/lots techniques",
+      "criteria": "bac+5 en génie civil minimum, 5 ans expérience gestion ouvrages portuaires ou réseaux/lots techniques",
+      "requirement_type": "cv"
+    },
+    {
+      "id": "cv_diplome_l_expert_gmao",
+      "description": "CV et diplôme de l'Expert GMAO. bac+5 minimum, 10 ans expérience gestion projets de maintenance à l'aide de GMAO",
+      "criteria": "bac+5 minimum, 10 ans expérience gestion projets de maintenance à l'aide de GMAO",
+      "requirement_type": "cv"
+    },
+    {
+      "id": "cv_diplome_l_architecte_applicatif_expert_conception_systemes",
+      "description": "CV et diplôme de l'Architecte applicatif expert en conception de systèmes. bac+5 en informatique, 5 ans expérience conception SI, participation à au moins 3 projets de même complexité",
+      "criteria": "bac+5 en informatique, 5 ans expérience conception SI, participation à au moins 3 projets de même complexité",
+      "requirement_type": "cv"
+    },
+    {
+      "id": "cv_diplome_l_expert_developpement",
+      "description": "CV et diplôme de l'Expert en développement. bac+5 en informatique, 5 ans expérience développement SI, participation à au moins 3 projets de même complexité",
+      "criteria": "bac+5 en informatique, 5 ans expérience développement SI, participation à au moins 3 projets de même complexité",
+      "requirement_type": "cv"
+    },
+    {
+      "id": "reglement_consultation",
+      "description": "Règlement de Consultation. (RC) signé électroniquement",
+      "criteria": "(RC) signé électroniquement",
+      "requirement_type": ""
+    },
+    {
+      "id": "cahier_prescriptions_speciales",
+      "description": "Cahier des Prescriptions Spéciales. (CPS) signé électroniquement",
+      "criteria": "(CPS) signé électroniquement",
+      "requirement_type": ""
+    }
+  ],
+  "offre_financiere": [
+    {
+      "id": "actes_engagement",
+      "description": "actes_engagement. Deux actes d'engagement distincts : un pour la partie conception/développement/déploiement et un pour la partie maintenance, conformément aux modèles joints en annexe, montant libellé en chiffres et en lettres",
+      "criteria": "Deux actes d'engagement distincts : un pour la partie conception/développement/déploiement et un pour la partie maintenance, conformément aux modèles joints en annexe, montant libellé en chiffres et en lettres",
+      "requirement_type": ""
+    },
+    {
+      "id": "bordereaux_prix",
+      "description": "bordereaux_prix. Deux bordereaux des prix-détail estimatif distincts : un pour la partie conception et un pour la partie maintenance, prix unitaires et montants totaux en chiffres",
+      "criteria": "Deux bordereaux des prix-détail estimatif distincts : un pour la partie conception et un pour la partie maintenance, prix unitaires et montants totaux en chiffres",
+      "requirement_type": ""
+    },
+    {
+      "id": "cas_groupement_conjoint",
+      "description": "cas_groupement_conjoint. Acte d'engagement unique indiquant le montant total du marché et les parties des prestations que chaque membre s'engage à réaliser",
+      "criteria": "Acte d'engagement unique indiquant le montant total du marché et les parties des prestations que chaque membre s'engage à réaliser",
+      "requirement_type": ""
+    },
+    {
+      "id": "cas_groupement_solidaire",
+      "description": "cas_groupement_solidaire. Acte d'engagement unique indiquant le montant total et l'ensemble des prestations, signé par chaque membre ou par le mandataire justifiant des procurations légalisées",
+      "criteria": "Acte d'engagement unique indiquant le montant total et l'ensemble des prestations, signé par chaque membre ou par le mandataire justifiant des procurations légalisées",
+      "requirement_type": ""
+    },
+    {
+      "id": "cas_groupement_national_etranger",
+      "description": "cas_groupement_national_etranger. Contrat de groupement précisant la part financière revenant à chaque membre",
+      "criteria": "Contrat de groupement précisant la part financière revenant à chaque membre",
+      "requirement_type": ""
+    },
+    {
+      "id": "discordance",
+      "description": "discordance. En cas de discordance entre l'acte d'engagement et le bordereau des prix-détail estimatif, le montant du bordereau prévaut",
+      "criteria": "En cas de discordance entre l'acte d'engagement et le bordereau des prix-détail estimatif, le montant du bordereau prévaut",
+      "requirement_type": ""
+    },
+    {
+      "id": "monnaie_dirham_marocain_installes_maroc_monnaie_convertible_non_installe",
+      "description": "monnaie. Dirham marocain pour les concurrents installés au Maroc ; monnaie convertible pour les non-installés au Maroc (conversion sur base cours Bank Al-Maghrib premier jour ouvrable de la semaine précédant l'ouverture des plis)",
+      "criteria": "Dirham marocain pour les concurrents installés au Maroc ; monnaie convertible pour les non-installés au Maroc (conversion sur base cours Bank Al-Maghrib premier jour ouvrable de la semaine précédant l'ouverture des plis)",
+      "requirement_type": ""
+    }
+  ]
+}

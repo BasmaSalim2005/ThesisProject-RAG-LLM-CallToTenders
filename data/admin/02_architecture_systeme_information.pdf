@@ -1,0 +1,3 @@
+# Architecture générale du système d'information proposé
+
+Vue d'ensemble de l'architecture cible : couches présentation, applicatives et données ; principes de séparation des responsabilités ; exposition des flux principaux entre modules métier, socle d'intégration et entrepôt de données. Schéma logique des domaines fonctionnels et des interfaces avec les systèmes existants.

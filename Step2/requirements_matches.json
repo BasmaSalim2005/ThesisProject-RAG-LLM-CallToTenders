@@ -1,0 +1,410 @@
+{
+  "toggles": {
+    "groupement": false,
+    "hors_maroc": false,
+    "sous_traitance": false,
+    "cas_particulier": false
+  },
+  "matches": [
+    {
+      "id": "pieces_justifiant_pouvoirs_conferes_personne_agissant_nom",
+      "skipped": true,
+      "skip_reason": "condition_toggles",
+      "condition_tags": [
+        "cas_particulier"
+      ],
+      "matches": []
+    },
+    {
+      "id": "declaration_l_honneur",
+      "matches": [
+        {
+          "match": "data/admin/RC modèle 7.pdf",
+          "score": 0.6267,
+          "chroma_score": 0.6267,
+          "doc_type": "admin",
+          "path": "data/admin/RC modèle 7.pdf"
+        }
+      ]
+    },
+    {
+      "id": "original_recepisse_cautionnement_provisoire",
+      "matches": [
+        {
+          "match": "data/admin/Attestation_w5elhwqdf15cp.pdf",
+          "score": 0.6514,
+          "chroma_score": 0.6514,
+          "doc_type": "admin",
+          "path": "data/admin/Attestation_w5elhwqdf15cp.pdf",
+          "validity": "04/08/2022 (date seule sur la premiere partie)"
+        }
+      ]
+    },
+    {
+      "id": "convention_constitutive_groupement",
+      "skipped": true,
+      "skip_reason": "condition_toggles",
+      "condition_tags": [
+        "groupement"
+      ],
+      "matches": []
+    },
+    {
+      "id": "exigence_administratif_5",
+      "matches": [
+        {
+          "match": "data/admin/Attestation_fiscal 2021.pdf",
+          "score": 0.7203,
+          "chroma_score": 0.7203,
+          "doc_type": "admin",
+          "path": "data/admin/Attestation_fiscal 2021.pdf",
+          "validity": "12/07/2021 (date seule sur la premiere partie)"
+        }
+      ]
+    },
+    {
+      "id": "exigence_administratif_6",
+      "matches": [
+        {
+          "match": "data/admin/Attestation de l'CNSS I2S INGENIERIE.pdf",
+          "score": 0.6996,
+          "chroma_score": 0.6996,
+          "doc_type": "admin",
+          "path": "data/admin/Attestation de l'CNSS I2S INGENIERIE.pdf",
+          "validity": "31/08/2010 (date seule sur la premiere partie)"
+        }
+      ]
+    },
+    {
+      "id": "exigence_administratif_7",
+      "matches": [
+        {
+          "match": "data/admin/ATTESTATION1668111914374.PDF",
+          "score": 0.6291,
+          "chroma_score": 0.6291,
+          "doc_type": "admin",
+          "path": "data/admin/ATTESTATION1668111914374.PDF",
+          "validity": "10/11/2022 (date seule sur la premiere partie)"
+        }
+      ]
+    },
+    {
+      "id": "non_installes_maroc",
+      "skipped": true,
+      "skip_reason": "condition_toggles",
+      "condition_tags": [
+        "hors_maroc"
+      ],
+      "matches": []
+    },
+    {
+      "id": "note_indiquant_moyens_humains_techniques",
+      "matches": [
+        {
+          "match": "data/admin/03_reprise_donnees_et_bases.pdf",
+          "score": 0.6389,
+          "chroma_score": 0.6389,
+          "doc_type": "admin",
+          "path": "data/admin/03_reprise_donnees_et_bases.pdf"
+        }
+      ]
+    },
+    {
+      "id": "moins_deux",
+      "matches": [
+        {
+          "match": "data/admin/Attestation de l'ASMP I2S.pdf",
+          "score": 0.5939,
+          "chroma_score": 0.5939,
+          "doc_type": "admin",
+          "path": "data/admin/Attestation de l'ASMP I2S.pdf",
+          "validity": "31/08/2010 (date seule sur la premiere partie)"
+        }
+      ]
+    },
+    {
+      "id": "cas_attestations_englobant_plusieurs_prestations",
+      "skipped": true,
+      "skip_reason": "condition_toggles",
+      "condition_tags": [
+        "cas_particulier"
+      ],
+      "matches": []
+    },
+    {
+      "id": "cas_prestations_realisees_groupement",
+      "skipped": true,
+      "skip_reason": "condition_toggles",
+      "condition_tags": [
+        "groupement"
+      ],
+      "matches": []
+    },
+    {
+      "id": "presentation_detaillee_methodologie_gestion_projet",
+      "matches": [
+        {
+          "match": "data/admin/01_methodologie_gestion_projet.pdf",
+          "score": 0.7977,
+          "chroma_score": 0.7977,
+          "doc_type": "admin",
+          "path": "data/admin/01_methodologie_gestion_projet.pdf"
+        }
+      ]
+    },
+    {
+      "id": "architecture_generale_systeme_information_propose",
+      "matches": [
+        {
+          "match": "data/admin/02_architecture_systeme_information.pdf",
+          "score": 0.7635,
+          "chroma_score": 0.7635,
+          "doc_type": "admin",
+          "path": "data/admin/02_architecture_systeme_information.pdf"
+        }
+      ]
+    },
+    {
+      "id": "methodologie_reprise_donnees_alimentation_bases_donnees",
+      "matches": [
+        {
+          "match": "Karim Bennani [CV_03]",
+          "score": 0.5332,
+          "chroma_score": 0.5332,
+          "doc_type": "cv",
+          "path": "cvs/CV_03_Karim_Bennani.pdf",
+          "exp_years": 20,
+          "bac_plus": 7,
+          "cv_id": "CV_03",
+          "title": "Chef de Projet Senior"
+        }
+      ]
+    },
+    {
+      "id": "plan_conduite_changement_transfert_competences",
+      "matches": [
+        {
+          "match": "data/admin/04_plan_conduite_changement.pdf",
+          "score": 0.8564,
+          "chroma_score": 0.8564,
+          "doc_type": "admin",
+          "path": "data/admin/04_plan_conduite_changement.pdf"
+        }
+      ]
+    },
+    {
+      "id": "methodologie_gestion_maintenance_systeme_information",
+      "matches": [
+        {
+          "match": "data/admin/05_maintenance_systeme_information.pdf",
+          "score": 0.8545,
+          "chroma_score": 0.8545,
+          "doc_type": "admin",
+          "path": "data/admin/05_maintenance_systeme_information.pdf"
+        }
+      ]
+    },
+    {
+      "id": "cvs_intervenants_signes_conjointement_personne_concernee_selon_modele_an",
+      "matches": [
+        {
+          "match": "Zineb Mansouri [CV_10]",
+          "score": 0.2076,
+          "chroma_score": 0.6107,
+          "doc_type": "cv",
+          "path": "cvs/CV_10_Zineb_Mansouri.pdf",
+          "exp_years": 22,
+          "bac_plus": 7,
+          "cv_id": "CV_10",
+          "title": "Directrice de Projet"
+        }
+      ]
+    },
+    {
+      "id": "diplomes_certifies_conformes_l_original_profils_demandes",
+      "matches": [
+        {
+          "match": "data/admin/Attestation de la masse salariale déclarée I2S.pdf",
+          "score": 0.5185,
+          "chroma_score": 0.5185,
+          "doc_type": "admin",
+          "path": "data/admin/Attestation de la masse salariale déclarée I2S.pdf",
+          "validity": "31/08/2010 (date seule sur la premiere partie)"
+        }
+      ]
+    },
+    {
+      "id": "cv_diplome_directeur_projet",
+      "matches": [
+        {
+          "match": "Jean Dupont [CV_11]",
+          "score": 0.5445,
+          "chroma_score": 0.6421,
+          "doc_type": "cv",
+          "path": "cvs/cv_jean_dupont.pdf",
+          "exp_years": 12,
+          "bac_plus": 5,
+          "cv_id": "CV_11",
+          "title": "Directeur de projet"
+        }
+      ]
+    },
+    {
+      "id": "cv_diplome_l_expert_fonctionnel",
+      "matches": [
+        {
+          "match": "Hassan Alami [CV_09]",
+          "score": 0.4293,
+          "chroma_score": 0.5369,
+          "doc_type": "cv",
+          "path": "cvs/CV_09_Hassan_Alami.pdf",
+          "exp_years": 14,
+          "bac_plus": 5,
+          "cv_id": "CV_09",
+          "title": "Expert Ouvrages d'Art"
+        }
+      ]
+    },
+    {
+      "id": "cv_diplome_l_expert_gmao",
+      "matches": [
+        {
+          "match": "Yassine Bono [CV_13]",
+          "score": 0.5009,
+          "chroma_score": 0.687,
+          "doc_type": "cv",
+          "path": "cvs/cv_yassine_bono.pdf",
+          "exp_years": 11,
+          "bac_plus": 5,
+          "cv_id": "CV_13",
+          "title": "Expert GMAO"
+        }
+      ]
+    },
+    {
+      "id": "cv_diplome_l_architecte_applicatif_expert_conception_systemes",
+      "matches": [
+        {
+          "match": "Thomas Morel [CV_14]",
+          "score": 0.3028,
+          "chroma_score": 0.6465,
+          "doc_type": "cv",
+          "path": "cvs/cv_thomas_morel.pdf",
+          "exp_years": 6,
+          "bac_plus": 5,
+          "cv_id": "CV_14",
+          "title": "Architecte applicatif"
+        }
+      ]
+    },
+    {
+      "id": "cv_diplome_l_expert_developpement",
+      "matches": [
+        {
+          "match": "Sophie Bernard [CV_15]",
+          "score": 0.4052,
+          "chroma_score": 0.6484,
+          "doc_type": "cv",
+          "path": "cvs/cv_sophie_bernard.pdf",
+          "exp_years": 5,
+          "bac_plus": 5,
+          "cv_id": "CV_15",
+          "title": "Expert développement"
+        }
+      ]
+    },
+    {
+      "id": "reglement_consultation",
+      "matches": [
+        {
+          "match": "data/admin/RC modèle 9.pdf",
+          "score": 0.5987,
+          "chroma_score": 0.5987,
+          "doc_type": "admin",
+          "path": "data/admin/RC modèle 9.pdf"
+        }
+      ]
+    },
+    {
+      "id": "cahier_prescriptions_speciales",
+      "matches": [
+        {
+          "match": "data/admin/Attestation CNSS (1).PDF",
+          "score": 0.5973,
+          "chroma_score": 0.5973,
+          "doc_type": "admin",
+          "path": "data/admin/Attestation CNSS (1).PDF"
+        }
+      ]
+    },
+    {
+      "id": "actes_engagement",
+      "matches": [
+        {
+          "match": "data/admin/moyens humaines et technique d'I2S_21.pdf",
+          "score": 0.5719,
+          "chroma_score": 0.5719,
+          "doc_type": "admin",
+          "path": "data/admin/moyens humaines et technique d'I2S_21.pdf"
+        }
+      ]
+    },
+    {
+      "id": "bordereaux_prix",
+      "matches": [
+        {
+          "match": "data/admin/ICE.PDF",
+          "score": 0.5861,
+          "chroma_score": 0.5861,
+          "doc_type": "admin",
+          "path": "data/admin/ICE.PDF"
+        }
+      ]
+    },
+    {
+      "id": "cas_groupement_conjoint",
+      "skipped": true,
+      "skip_reason": "condition_toggles",
+      "condition_tags": [
+        "groupement"
+      ],
+      "matches": []
+    },
+    {
+      "id": "cas_groupement_solidaire",
+      "skipped": true,
+      "skip_reason": "condition_toggles",
+      "condition_tags": [
+        "groupement"
+      ],
+      "matches": []
+    },
+    {
+      "id": "cas_groupement_national_etranger",
+      "skipped": true,
+      "skip_reason": "condition_toggles",
+      "condition_tags": [
+        "groupement"
+      ],
+      "matches": []
+    },
+    {
+      "id": "discordance",
+      "skipped": true,
+      "skip_reason": "condition_toggles",
+      "condition_tags": [
+        "cas_particulier"
+      ],
+      "matches": []
+    },
+    {
+      "id": "monnaie_dirham_marocain_installes_maroc_monnaie_convertible_non_installe",
+      "skipped": true,
+      "skip_reason": "condition_toggles",
+      "condition_tags": [
+        "hors_maroc"
+      ],
+      "matches": []
+    }
+  ]
+}

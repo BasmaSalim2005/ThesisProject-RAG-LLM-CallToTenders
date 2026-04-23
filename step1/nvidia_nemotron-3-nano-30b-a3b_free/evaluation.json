@@ -1,0 +1,21 @@
+{
+  "EVALUATION_DES_OFFRES_DES_CONCURRENTS": {
+    "evaluation_technique": [
+      "Méthodologie de gestion de projet",
+      "Architecture générale du système d’information",
+      "Méthodologie de reprise et d’alimentation des données",
+      "Plan de conduite du changement et de transfert des compétences",
+      "Méthodologie de gestion de la maintenance du système",
+      "Planning et chronogramme d’exécution",
+      "Composition de l’équipe et des qualifications des intervenants",
+      "Directeur de projet – expérience (≥10 ans)",
+      "Expert fonctionnel – expérience (≥5 ans)",
+      "Expert GMAO – expérience (≥10 ans)",
+      "Architecte applicatif – expérience (≥5 ans)",
+      "Expert en développement – expérience (≥5 ans)"
+    ],
+    "evaluation_financiere": [
+      "Montant total de l’offre (CF + CM×3)"
+    ]
+  }
+}

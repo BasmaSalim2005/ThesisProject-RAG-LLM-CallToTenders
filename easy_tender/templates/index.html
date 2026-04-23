@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Easy Tender — Extraction des exigences</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,600;1,600&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}" />
+  </head>
+  <body>
+    <div class="wrap">
+      <header class="brand">
+        <h1>Easy Tender</h1>
+        <p class="tagline">
+          Analysez un appel d’offres marocain et obtenez les exigences structurées.
+        </p>
+      </header>
+
+      <section class="card">
+        <h2>Document</h2>
+        <form id="form-extract" enctype="multipart/form-data">
+          <label class="field-label">Fichier PDF</label>
+          <div class="dropzone" id="dropzone" tabindex="0" role="button" aria-label="Choisir un PDF">
+            <input type="file" id="file" name="file" accept=".pdf,.txt,text/plain" />
+            <strong>Déposez un PDF ici</strong>
+            <p class="hint">ou cliquez pour parcourir — .pdf ou texte brut</p>
+            <p class="file-loaded" id="file-loaded">Aucun fichier selectionne.</p>
+          </div>
+
+          <div class="row-model">
+            <label class="field-label" for="model">Modele Claude</label>
+            <input
+              class="model-input"
+              type="text"
+              id="model"
+              name="model"
+              value="{{ default_model }}"
+              autocomplete="off"
+            />
+          </div>
+
+          <div class="actions">
+            <button type="submit" class="primary" id="btn-run">Lancer l’extraction</button>
+            <span class="status" id="status"></span>
+          </div>
+        </form>
+      </section>
+
+      <section class="card results-section hidden" id="results-card">
+        <h2>Checklist des exigences</h2>
+        <div id="warnings" class="hidden"></div>
+        <div id="checklist"></div>
+      </section>
+
+      <footer class="note">
+        Cle API : variable d’environnement <code>CLAUDE_API_KEY</code> (fichier
+        <code>.env</code> à la racine du projet).
+      </footer>
+    </div>
+
+    <script>
+      (function () {
+        const form = document.getElementById("form-extract");
+        const fileInput = document.getElementById("file");
+        const dropzone = document.getElementById("dropzone");
+        const btn = document.getElementById("btn-run");
+        const fileLoadedEl = document.getElementById("file-loaded");
+        const statusEl = document.getElementById("status");
+        const resultsCard = document.getElementById("results-card");
+        const warningsEl = document.getElementById("warnings");
+        const checklistEl = document.getElementById("checklist");
+
+        const labels = {
+          requirements: "Exigences du dossier",
+          dossier_administratif: "Dossier administratif",
+          offre_technique: "Offre technique",
+          offre_financiere: "Offre financiere",
+        };
+
+        dropzone.addEventListener("click", () => fileInput.click());
+        dropzone.addEventListener("keydown", (e) => {
+          if (e.key === "Enter" || e.key === " ") {
+            e.preventDefault();
+            fileInput.click();
+          }
+        });
+        ["dragenter", "dragover"].forEach((ev) => {
+          dropzone.addEventListener(ev, (e) => {
+            e.preventDefault();
+            dropzone.classList.add("dragover");
+          });
+        });
+        ["dragleave", "drop"].forEach((ev) => {
+          dropzone.addEventListener(ev, (e) => {
+            e.preventDefault();
+            dropzone.classList.remove("dragover");
+          });
+        });
+        dropzone.addEventListener("drop", (e) => {
+          const f = e.dataTransfer.files[0];
+          if (f) {
+            fileInput.files = e.dataTransfer.files;
+            setLoadedFile(f);
+          }
+        });
+        fileInput.addEventListener("change", () => {
+          setLoadedFile(fileInput.files && fileInput.files[0]);
+        });
+
+        function setLoadedFile(file) {
+          if (!file) {
+            fileLoadedEl.textContent = "Aucun fichier selectionne.";
+            dropzone.classList.remove("loaded");
+            return;
+          }
+          fileLoadedEl.textContent = "Fichier charge: " + file.name;
+          dropzone.classList.add("loaded");
+        }
+
+        function setLoading(on) {
+          btn.disabled = on;
+          statusEl.textContent = on ? "Extraction en cours…" : "";
+          statusEl.classList.toggle("error", false);
+        }
+
+        function showError(msg) {
+          statusEl.textContent = msg;
+          statusEl.classList.add("error");
+        }
+
+        function renderResults(data) {
+          resultsCard.classList.remove("hidden");
+          checklistEl.innerHTML = "";
+
+          if (data.errors && data.errors.length) {
+            warningsEl.classList.remove("hidden");
+            warningsEl.className = "banner-warn";
+            warningsEl.textContent = data.errors.join(" ");
+          } else {
+            warningsEl.classList.add("hidden");
+            warningsEl.textContent = "";
+          }
+
+          const sections = ["dossier_administratif", "offre_technique", "offre_financiere"];
+          const checklist = data.checklist || {};
+
+          sections.forEach((section) => {
+            const block = document.createElement("div");
+            block.className = "panel active";
+
+            const title = document.createElement("h3");
+            title.textContent = labels[section] || section;
+            block.appendChild(title);
+
+            const items = checklist[section] || [];
+            const ul = document.createElement("ul");
+            ul.className = "req-list";
+
+            if (!items.length) {
+              const li = document.createElement("li");
+              li.textContent = "Aucune exigence detectee.";
+              ul.appendChild(li);
+            } else {
+              items.forEach((txt) => {
+                const li = document.createElement("li");
+                li.textContent = txt;
+                ul.appendChild(li);
+              });
+            }
+
+            block.appendChild(ul);
+            checklistEl.appendChild(block);
+          });
+        }
+
+        form.addEventListener("submit", async (e) => {
+          e.preventDefault();
+          setLoading(true);
+          resultsCard.classList.add("hidden");
+
+          const fd = new FormData(form);
+          try {
+            const res = await fetch("/api/extract", {
+              method: "POST",
+              body: fd,
+            });
+            const data = await res.json();
+            if (!data.ok) {
+              showError(data.error || "Erreur inconnue.");
+              return;
+            }
+            renderResults(data);
+          } catch (err) {
+            showError("Réseau ou serveur indisponible.");
+          } finally {
+            setLoading(false);
+          }
+        });
+      })();
+    </script>
+  </body>
+</html>

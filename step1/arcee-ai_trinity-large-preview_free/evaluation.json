@@ -1,0 +1,249 @@
+{
+  "EVALUATION_DES_OFFRES_DES_CONCURRENTS": {
+    "evaluation_technique": [
+      {
+        "criteria": "Evaluation des critères techniques de la solution proposée",
+        "weight": 50,
+        "sub_criteria": [
+          {
+            "name": "Méthodologie de gestion de projet",
+            "levels": [
+              {
+                "level": "faiblement développé",
+                "score": 2
+              },
+              {
+                "level": "moyennement développé",
+                "score": 5
+              },
+              {
+                "level": "bien développé",
+                "score": 8
+              }
+            ]
+          },
+          {
+            "name": "Architecture générale du système d'information",
+            "levels": [
+              {
+                "level": "faiblement développé",
+                "score": 2
+              },
+              {
+                "level": "moyennement développé",
+                "score": 5
+              },
+              {
+                "level": "bien développé",
+                "score": 8
+              }
+            ]
+          },
+          {
+            "name": "Méthodologie de reprise et d'alimentation des données",
+            "levels": [
+              {
+                "level": "faiblement développé",
+                "score": 2
+              },
+              {
+                "level": "moyennement développé",
+                "score": 5
+              },
+              {
+                "level": "bien développé",
+                "score": 8
+              }
+            ]
+          },
+          {
+            "name": "Plan de conduite du changement et de transfert des compétences",
+            "levels": [
+              {
+                "level": "faiblement développé",
+                "score": 2
+              },
+              {
+                "level": "moyennement développé",
+                "score": 5
+              },
+              {
+                "level": "bien développé",
+                "score": 8
+              }
+            ]
+          },
+          {
+            "name": "Méthodologie de gestion de la maintenance du système",
+            "levels": [
+              {
+                "level": "faiblement développé",
+                "score": 2
+              },
+              {
+                "level": "moyennement développé",
+                "score": 5
+              },
+              {
+                "level": "bien développé",
+                "score": 8
+              }
+            ]
+          },
+          {
+            "name": "Planning et chronogramme d'exécution",
+            "levels": [
+              {
+                "level": "faiblement développé",
+                "score": 3
+              },
+              {
+                "level": "moyennement développé",
+                "score": 7
+              },
+              {
+                "level": "bien développé",
+                "score": 10
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "evaluation_financiere": [
+      {
+        "criteria": "Evaluation de la composition de l'équipe et des qualifications des intervenants",
+        "weight": 50,
+        "sub_criteria": [
+          {
+            "name": "Directeur de projet",
+            "levels": [
+              {
+                "experience": "10 ans",
+                "score": 5
+              },
+              {
+                "experience": "> 10 ans",
+                "score": 7
+              },
+              {
+                "experience": "< 10 ans",
+                "score": "rejeté"
+              }
+            ],
+            "projects": [
+              {
+                "number": "3 projets",
+                "score": 3
+              },
+              {
+                "number": "Plus de 3 projets",
+                "score": 5
+              },
+              {
+                "number": "< 3 projets",
+                "score": "rejeté"
+              }
+            ]
+          },
+          {
+            "name": "Expert fonctionnel",
+            "levels": [
+              {
+                "experience": "5 ans",
+                "score": 5
+              },
+              {
+                "experience": "> 5 ans",
+                "score": 7
+              },
+              {
+                "experience": "< 5 ans",
+                "score": "rejeté"
+              }
+            ]
+          },
+          {
+            "name": "Expert dans le domaine de la GMAO",
+            "levels": [
+              {
+                "experience": "10 ans",
+                "score": 5
+              },
+              {
+                "experience": "> 10 ans",
+                "score": 7
+              },
+              {
+                "experience": "< 10 ans",
+                "score": "rejeté"
+              }
+            ]
+          },
+          {
+            "name": "Architecte applicatif expert en conception de systèmes",
+            "levels": [
+              {
+                "experience": "5 ans",
+                "score": 5
+              },
+              {
+                "experience": "> 5 ans",
+                "score": 7
+              },
+              {
+                "experience": "< 5 ans",
+                "score": "rejeté"
+              }
+            ],
+            "projects": [
+              {
+                "number": "3 projets",
+                "score": 3
+              },
+              {
+                "number": "Plus de 3 projets",
+                "score": 5
+              },
+              {
+                "number": "< 3 projets",
+                "score": "rejeté"
+              }
+            ]
+          },
+          {
+            "name": "Expert en développement",
+            "levels": [
+              {
+                "experience": "5 ans",
+                "score": 5
+              },
+              {
+                "experience": "> 5 ans",
+                "score": 7
+              },
+              {
+                "experience": "< 5 ans",
+                "score": "rejeté"
+              }
+            ],
+            "projects": [
+              {
+                "number": "3 projets",
+                "score": 3
+              },
+              {
+                "number": "Plus de 3 projets",
+                "score": 5
+              },
+              {
+                "number": "< 3 projets",
+                "score": "rejeté"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "cv_database": [
+    {"id": "CV_01", "name": "Yassine Drissi", "title": "Chef de Projet", "study_level": "Bac+5", "exp_years": 15, "projects": "Port Tanger Med, Marina Casablanca", "path": "cvs/CV_01_Yassine_Drissi.pdf"},
+    {"id": "CV_02", "name": "Fatima Zahra", "title": "Ingénieur d'État", "study_level": "Bac+5", "exp_years": 8, "projects": "Pont Mohammed VI, Autoroute Agadir", "path": "cvs/CV_02_Fatima_Zahra.pdf"},
+    {"id": "CV_03", "name": "Karim Bennani", "title": "Chef de Projet Senior", "study_level": "Bac+7", "exp_years": 20, "projects": "LGV Maroc, Centrale Noor", "path": "cvs/CV_03_Karim_Bennani.pdf"},
+    {"id": "CV_04", "name": "Amine Tazi", "title": "Expert Maritime", "study_level": "Bac+5", "exp_years": 12, "projects": "Extension Port Safi", "path": "cvs/CV_04_Amine_Tazi.pdf"},
+    {"id": "CV_05", "name": "Laila Mezouar", "title": "Chef de Projet", "study_level": "Bac+5", "exp_years": 10, "projects": "Aménagement Vallée Bouregreg", "path": "cvs/CV_05_Laila_Mezouar.pdf"},
+    {"id": "CV_06", "name": "Omar Radi", "title": "Ingénieur Civil", "study_level": "Bac+5", "exp_years": 6, "projects": "Rocade de Rabat", "path": "cvs/CV_06_Omar_Radi.pdf"},
+    {"id": "CV_07", "name": "Siham El Fassi", "title": "Consultante Senior", "study_level": "Bac+7", "exp_years": 18, "projects": "Audit ANP, Strategie Logistique", "path": "cvs/CV_07_Siham_El_Fassi.pdf"},
+    {"id": "CV_08", "name": "Mehdi Sadiki", "title": "Chef de Projet Junior", "study_level": "Bac+5", "exp_years": 5, "projects": "Zone Industrielle Kenitra", "path": "cvs/CV_08_Mehdi_Sadiki.pdf"},
+    {"id": "CV_09", "name": "Hassan Alami", "title": "Expert Ouvrages d'Art", "study_level": "Bac+5", "exp_years": 14, "projects": "Viaduc de l'Oued Sebou", "path": "cvs/CV_09_Hassan_Alami.pdf"},
+    {"id": "CV_10", "name": "Zineb Mansouri", "title": "Directrice de Projet", "study_level": "Bac+7", "exp_years": 22, "projects": "Plan National de l'Eau", "path": "cvs/CV_10_Zineb_Mansouri.pdf"},
+    {"id": "CV_11", "name": "Jean Dupont", "title": "Directeur de projet", "study_level": "Bac+5", "exp_years": 12, "projects": "Management, Infrastructure, Génie Civil", "path": "cvs/cv_jean_dupont.pdf"},
+    {"id": "CV_12", "name": "Marie Lefebvre", "title": "Expert fonctionnel", "study_level": "Bac+5 Génie Civil", "exp_years": 7, "projects": "Ouvrages portuaires, Audit, Hydraulique", "path": "cvs/cv_marie_lefebvre.pdf"},
+    {"id": "CV_13", "name": "Yassine Bono", "title": "Expert GMAO", "study_level": "Bac+5", "exp_years": 11, "projects": "GMAO, Maintenance préventive, Asset Management", "path": "cvs/cv_yassine_bono.pdf"},
+    {"id": "CV_14", "name": "Thomas Morel", "title": "Architecte applicatif", "study_level": "Bac+5 Informatique", "exp_years": 6, "projects": "Cloud Architecture, Python, Microservices", "path": "cvs/cv_thomas_morel.pdf"},
+    {"id": "CV_15", "name": "Sophie Bernard", "title": "Expert développement", "study_level": "Bac+5 Informatique", "exp_years": 5, "projects": "Full-stack, API Design, Agile", "path": "cvs/cv_sophie_bernard.pdf"}
+  ]
+}
