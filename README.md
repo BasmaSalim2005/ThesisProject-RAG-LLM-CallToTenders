@@ -27,32 +27,6 @@ Scripts load **the `.env` next to the code they belong to** (not a single root f
 
 `.env` is gitignored. Copy the keys you use into each file as needed.
 
-## End-to-end (from the repo root)
-
-Prerequisites: Python 3, dependencies for `Step2` (e.g. `langchain_chroma`, `fastembed`, `fpdf2`, and others as used by the scripts).
-
-1. **Normalize requirements** (from an extraction JSON):
-
-   `python Step2/formating/export_formated_requirements.py path/to/extraction.json`
-
-2. **Index PDFs** (produces a summarized admin index, example):
-
-   `python Step2/indexing/index_admin_docs_summarized.py`
-
-3. **Embed** into Chroma (default store at repo root: `chroma_admin_summary` if you use defaults from the repo root):
-
-   `python -m Step2.embedding.embed_admin_chroma --force`
-
-4. **Match** requirements to files:
-
-   `python -m Step2.matching.rag_match_requirements`
-
-5. **PDF report** (match section + optional **project** appendix):
-
-   `python -m Step2.reporting.match_report_pdf`
-
-   Shims still work, e.g. `python Step2/match_report_pdf.py`.
-
 ## PDF report: matching + project context
 
 - The first part of the report is the **RAG layout**: suggested documents per requirement (admin + CVs), with toggles, validity window, and notes.
@@ -65,16 +39,7 @@ Prerequisites: Python 3, dependencies for `Step2` (e.g. `langchain_chroma`, `fas
 - To **disable** that appendix: `--no-project-spec`
 - To use **another** JSON: `--project-spec path/to/specifications.json`
 
-## Configuration snippets
+## note
 
 - **Condition checkboxes (groupement, hors Maroc, etc.):** `Step2/match_toggles.json` and CLI flags; see `Step2/matching/condition_toggles.py`.
-- **Chroma path:** use `--chroma-dir` (matching and embedding) consistently from the same working directory, or use absolute paths.
-- **CV matching:** `data/hr/cv.json` is embedded with the admin index when the file is present; CV requirements in the formated JSON are detected via `requirement_type: cv` or the “CV” wording in the technical lot.
 
-## Development note
-
-The `Step2` tree is a Python package. Prefer running from the **repository root** so `import Step2` resolves; entry scripts at `Step2/rag_match_requirements.py`, `Step2/match_report_pdf.py`, and `Step2/embed_admin_chroma.py` are thin shims for the same behavior.
-
----
-
-*Internal / project tool — not a public API guarantee.*
