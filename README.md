@@ -1,4 +1,4 @@
-# Tender RAG assistant
+# ThesisProject-RAG-LLM-CallToTenders
 
 This repository helps **prepare a bid** for a public tender: it **normalizes requirements** from Step 1 extraction, **indexes** administrative documents (and optional CVs) in **Chroma**, **retrieves** the best-matching files per requirement, and produces a **human-readable PDF report** (optionally followed by a **project context** appendix from the specifications export).
 
