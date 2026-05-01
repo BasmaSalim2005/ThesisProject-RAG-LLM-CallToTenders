@@ -1,0 +1,231 @@
+{
+  "toggles": {
+    "groupement": false,
+    "hors_maroc": false,
+    "sous_traitance": false,
+    "cas_particulier": false
+  },
+  "matches": [
+    {
+      "id": "Date de validite",
+      "skipped": true,
+      "skip_reason": "date_validation_context",
+      "matches": []
+    },
+    {
+      "id": "pieces_justifiant_pouvoirs_conferes_personne_agissant_nom",
+      "skipped": true,
+      "skip_reason": "condition_toggles",
+      "condition_tags": [
+        "cas_particulier"
+      ],
+      "matches": []
+    },
+    {
+      "id": "declaration_l_honneur",
+      "matches": [
+        {
+          "match": "data/admin/admin_docs_index.json",
+          "score": 0.5356,
+          "chroma_score": 0.5356,
+          "doc_type": "admin",
+          "path": "data/admin/admin_docs_index.json",
+          "validity": "31/08/2010"
+        }
+      ]
+    },
+    {
+      "id": "original_recepisse_cautionnement_provisoire_attestation_caution_personne",
+      "skipped": true,
+      "skip_reason": "condition_toggles",
+      "condition_tags": [
+        "cas_particulier"
+      ],
+      "matches": []
+    },
+    {
+      "id": "convention_constitutive_groupement",
+      "skipped": true,
+      "skip_reason": "condition_toggles",
+      "condition_tags": [
+        "groupement"
+      ],
+      "matches": []
+    },
+    {
+      "id": "l_attributaire_pressenti_attestation_fiscale_delivree_depuis_moins_an",
+      "matches": [
+        {
+          "match": "data/admin/ATTESTATION1668111914374.PDF",
+          "score": 0.7128,
+          "chroma_score": 0.7128,
+          "doc_type": "admin",
+          "path": "data/admin/ATTESTATION1668111914374.PDF",
+          "validity": "10/11/2022 (date seule sur la premiere partie)"
+        }
+      ]
+    },
+    {
+      "id": "l_attributaire_pressenti_attestation_cnss_autre_organisme_prevoyance_soc",
+      "matches": [
+        {
+          "match": "data/admin/Attestation de l'CNSS I2S INGENIERIE.pdf",
+          "score": 0.7305,
+          "chroma_score": 0.7305,
+          "doc_type": "admin",
+          "path": "data/admin/Attestation de l'CNSS I2S INGENIERIE.pdf",
+          "validity": "31/08/2010 (date seule sur la premiere partie)"
+        }
+      ]
+    },
+    {
+      "id": "l_attributaire_pressenti_copie_certificat_immatriculation_registre_comme",
+      "matches": [
+        {
+          "match": "data/admin/Attestation de l'ASMP I2S.pdf",
+          "score": 0.6777,
+          "chroma_score": 0.6777,
+          "doc_type": "admin",
+          "path": "data/admin/Attestation de l'ASMP I2S.pdf",
+          "validity": "31/08/2010 (date seule sur la premiere partie)"
+        }
+      ]
+    },
+    {
+      "id": "l_attributaire_pressenti_copies_certifiees_conformes_attestations_autori",
+      "skipped": true,
+      "skip_reason": "condition_toggles",
+      "condition_tags": [
+        "cas_particulier"
+      ],
+      "matches": []
+    },
+    {
+      "id": "exemplaire_cps_paraphe_toutes_pages",
+      "matches": [
+        {
+          "match": "data/admin/RC.PDF",
+          "score": 0.6487,
+          "chroma_score": 0.6487,
+          "doc_type": "admin",
+          "path": "data/admin/RC.PDF"
+        }
+      ]
+    },
+    {
+      "id": "organigramme_l_equipe_affectee_projet",
+      "matches": [
+        {
+          "match": "data/admin/03_reprise_donnees_et_bases.pdf",
+          "score": 0.5999,
+          "chroma_score": 0.5999,
+          "doc_type": "admin",
+          "path": "data/admin/03_reprise_donnees_et_bases.pdf"
+        }
+      ]
+    },
+    {
+      "id": "curriculum_vitae",
+      "matches": [
+        {
+          "match": "Zineb Mansouri [CV_10]",
+          "score": 0.1678,
+          "chroma_score": 0.4934,
+          "doc_type": "cv",
+          "path": "cvs/CV_10_Zineb_Mansouri.pdf",
+          "exp_years": 22,
+          "bac_plus": 7,
+          "cv_id": "CV_10",
+          "title": "Directrice de Projet"
+        }
+      ]
+    },
+    {
+      "id": "profils_obligatoires_l_equipe",
+      "matches": [
+        {
+          "match": "Karim Bennani [CV_03]",
+          "score": 0.6299,
+          "chroma_score": 0.6299,
+          "doc_type": "cv",
+          "path": "cvs/CV_03_Karim_Bennani.pdf",
+          "exp_years": 20,
+          "bac_plus": 7,
+          "cv_id": "CV_03",
+          "title": "Chef de Projet Senior"
+        }
+      ]
+    },
+    {
+      "id": "methodologie_proposee_realisation_prestations_objet",
+      "matches": [
+        {
+          "match": "data/admin/01_methodologie_gestion_projet.pdf",
+          "score": 0.6073,
+          "chroma_score": 0.6073,
+          "doc_type": "admin",
+          "path": "data/admin/01_methodologie_gestion_projet.pdf"
+        }
+      ]
+    },
+    {
+      "id": "planning_chronogramme_realisation",
+      "matches": [
+        {
+          "match": "data/admin/02_architecture_systeme_information.pdf",
+          "score": 0.5511,
+          "chroma_score": 0.5511,
+          "doc_type": "admin",
+          "path": "data/admin/02_architecture_systeme_information.pdf"
+        }
+      ]
+    },
+    {
+      "id": "nb_proposition_sous_traitant_consultant_toute_personne_n_appartenant",
+      "skipped": true,
+      "skip_reason": "condition_toggles",
+      "condition_tags": [
+        "groupement",
+        "sous_traitance"
+      ],
+      "matches": []
+    },
+    {
+      "id": "nb_non_remise_pieces_justificatives_entraine_non_prise_compte",
+      "matches": [
+        {
+          "match": "data/admin/Attestation CNSS (1).PDF",
+          "score": 0.4952,
+          "chroma_score": 0.4952,
+          "doc_type": "admin",
+          "path": "data/admin/Attestation CNSS (1).PDF"
+        }
+      ]
+    },
+    {
+      "id": "documents",
+      "matches": [
+        {
+          "match": "data/admin/Registre de commerce.PDF",
+          "score": 0.6603,
+          "chroma_score": 0.6603,
+          "doc_type": "admin",
+          "path": "data/admin/Registre de commerce.PDF"
+        }
+      ]
+    },
+    {
+      "id": "monnaie_dirham_marocain",
+      "matches": [
+        {
+          "match": "data/admin/DECISION ORDINAIRE.pdf",
+          "score": 0.5519,
+          "chroma_score": 0.5519,
+          "doc_type": "admin",
+          "path": "data/admin/DECISION ORDINAIRE.pdf",
+          "validity": "22/06/2024 (date seule sur la premiere partie)"
+        }
+      ]
+    }
+  ]
+}

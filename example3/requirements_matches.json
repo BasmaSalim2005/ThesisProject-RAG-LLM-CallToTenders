@@ -1,0 +1,322 @@
+{
+  "toggles": {
+    "groupement": false,
+    "hors_maroc": false,
+    "sous_traitance": false,
+    "cas_particulier": false
+  },
+  "matches": [
+    {
+      "id": "Date de validite",
+      "skipped": true,
+      "skip_reason": "date_validation_context",
+      "matches": []
+    },
+    {
+      "id": "pieces_justifiant_pouvoirs_conferes_personne_agissant_nom",
+      "skipped": true,
+      "skip_reason": "condition_toggles",
+      "condition_tags": [
+        "cas_particulier"
+      ],
+      "matches": []
+    },
+    {
+      "id": "declaration_l_honneur",
+      "matches": [
+        {
+          "match": "data/admin/admin_docs_index.json",
+          "score": 0.5356,
+          "chroma_score": 0.5356,
+          "doc_type": "admin",
+          "path": "data/admin/admin_docs_index.json",
+          "validity": "31/08/2010"
+        }
+      ]
+    },
+    {
+      "id": "original_recepisse_cautionnement_provisoire_attestation_caution_personne",
+      "skipped": true,
+      "skip_reason": "condition_toggles",
+      "condition_tags": [
+        "cas_particulier"
+      ],
+      "matches": []
+    },
+    {
+      "id": "convention_constitutive_groupement",
+      "skipped": true,
+      "skip_reason": "condition_toggles",
+      "condition_tags": [
+        "groupement"
+      ],
+      "matches": []
+    },
+    {
+      "id": "pressenti_attributaire_attestation_fiscale_delivree_depuis_moins_an_perc",
+      "matches": [
+        {
+          "match": "data/admin/Attestation_w5elhwqdf15cp.pdf",
+          "score": 0.7187,
+          "chroma_score": 0.7187,
+          "doc_type": "admin",
+          "path": "data/admin/Attestation_w5elhwqdf15cp.pdf",
+          "validity": "04/08/2022 (date seule sur la premiere partie)"
+        }
+      ]
+    },
+    {
+      "id": "pressenti_attributaire_attestation_cnss_autre_organisme_prevoyance_socia",
+      "matches": [
+        {
+          "match": "data/admin/Attestation de l'CNSS I2S INGENIERIE.pdf",
+          "score": 0.7113,
+          "chroma_score": 0.7113,
+          "doc_type": "admin",
+          "path": "data/admin/Attestation de l'CNSS I2S INGENIERIE.pdf",
+          "validity": "31/08/2010 (date seule sur la premiere partie)"
+        }
+      ]
+    },
+    {
+      "id": "pressenti_attributaire_copie_certificat_immatriculation_registre_commerc",
+      "matches": [
+        {
+          "match": "data/admin/Attestation de l'ASMP I2S.pdf",
+          "score": 0.6565,
+          "chroma_score": 0.6565,
+          "doc_type": "admin",
+          "path": "data/admin/Attestation de l'ASMP I2S.pdf",
+          "validity": "31/08/2010 (date seule sur la premiere partie)"
+        }
+      ]
+    },
+    {
+      "id": "cps_paraphe_toutes_pages",
+      "matches": [
+        {
+          "match": "data/admin/Attestation CNSS (1).PDF",
+          "score": 0.6199,
+          "chroma_score": 0.6199,
+          "doc_type": "admin",
+          "path": "data/admin/Attestation CNSS (1).PDF"
+        }
+      ]
+    },
+    {
+      "id": "reglement_consultation_paraphe_signe_portant_mention_lu_accepte",
+      "matches": [
+        {
+          "match": "data/admin/ATTESTATION1668111914374.PDF",
+          "score": 0.5291,
+          "chroma_score": 0.5291,
+          "doc_type": "admin",
+          "path": "data/admin/ATTESTATION1668111914374.PDF",
+          "validity": "10/11/2022 (date seule sur la premiere partie)"
+        }
+      ]
+    },
+    {
+      "id": "dossier_technique_bet",
+      "matches": [
+        {
+          "match": "data/admin/attestation RIB.pdf",
+          "score": 0.6093,
+          "chroma_score": 0.6093,
+          "doc_type": "admin",
+          "path": "data/admin/attestation RIB.pdf"
+        }
+      ]
+    },
+    {
+      "id": "cv_diplome_certifies_conformes_l_original_chef_projet_ingenieur",
+      "matches": [
+        {
+          "match": "Jean Dupont [CV_11]",
+          "score": 0.5742,
+          "chroma_score": 0.5894,
+          "doc_type": "cv",
+          "path": "cvs/cv_jean_dupont.pdf",
+          "exp_years": 12,
+          "bac_plus": 5,
+          "cv_id": "CV_11",
+          "title": "Directeur de projet"
+        }
+      ]
+    },
+    {
+      "id": "cv_diplome_certifies_conformes_l_original_l_ingenieur_specialite",
+      "matches": [
+        {
+          "match": "Fatima Zahra [CV_02]",
+          "score": 0.2925,
+          "chroma_score": 0.5008,
+          "doc_type": "cv",
+          "path": "cvs/CV_02_Fatima_Zahra.pdf",
+          "exp_years": 8,
+          "bac_plus": 5,
+          "cv_id": "CV_02",
+          "title": "Ingénieur d'État"
+        }
+      ]
+    },
+    {
+      "id": "cv_diplome_certifies_conformes_l_original_l_ingenieur_specialite_1",
+      "matches": [
+        {
+          "match": "Marie Lefebvre [CV_12]",
+          "score": 0.3718,
+          "chroma_score": 0.6033,
+          "doc_type": "cv",
+          "path": "cvs/cv_marie_lefebvre.pdf",
+          "exp_years": 7,
+          "bac_plus": 5,
+          "cv_id": "CV_12",
+          "title": "Expert fonctionnel"
+        }
+      ]
+    },
+    {
+      "id": "cv_diplome_certifies_conformes_l_original_technicien_topographe",
+      "matches": [
+        {
+          "match": "Zineb Mansouri [CV_10]",
+          "score": 0.3895,
+          "chroma_score": 0.5054,
+          "doc_type": "cv",
+          "path": "cvs/CV_10_Zineb_Mansouri.pdf",
+          "exp_years": 22,
+          "bac_plus": 7,
+          "cv_id": "CV_10",
+          "title": "Directrice de Projet"
+        }
+      ]
+    },
+    {
+      "id": "cv_diplome_certifies_conformes_l_original_technicien_genie_civil",
+      "matches": [
+        {
+          "match": "Omar Radi [CV_06]",
+          "score": 0.178,
+          "chroma_score": 0.4776,
+          "doc_type": "cv",
+          "path": "cvs/CV_06_Omar_Radi.pdf",
+          "exp_years": 6,
+          "bac_plus": 5,
+          "cv_id": "CV_06",
+          "title": "Ingénieur Civil"
+        }
+      ]
+    },
+    {
+      "id": "nb_tout_personnel_doit_obligatoirement_appartenir_l_entite",
+      "matches": [
+        {
+          "match": "data/admin/04_plan_conduite_changement.pdf",
+          "score": 0.5063,
+          "chroma_score": 0.5063,
+          "doc_type": "admin",
+          "path": "data/admin/04_plan_conduite_changement.pdf"
+        }
+      ]
+    },
+    {
+      "id": "methodologie_proposee_realisation_prestations_objet",
+      "matches": [
+        {
+          "match": "data/admin/03_reprise_donnees_et_bases.pdf",
+          "score": 0.6777,
+          "chroma_score": 0.6777,
+          "doc_type": "admin",
+          "path": "data/admin/03_reprise_donnees_et_bases.pdf"
+        }
+      ]
+    },
+    {
+      "id": "planning_chronogramme_travaux_avec_plans_controle_suivi_planning_interve",
+      "matches": [
+        {
+          "match": "data/admin/moyens humaines et technique d'I2S_21.pdf",
+          "score": 0.5925,
+          "chroma_score": 0.5925,
+          "doc_type": "admin",
+          "path": "data/admin/moyens humaines et technique d'I2S_21.pdf"
+        }
+      ]
+    },
+    {
+      "id": "l_offre_technique_doit_etre_signee",
+      "matches": [
+        {
+          "match": "data/admin/05_maintenance_systeme_information.pdf",
+          "score": 0.4741,
+          "chroma_score": 0.4741,
+          "doc_type": "admin",
+          "path": "data/admin/05_maintenance_systeme_information.pdf"
+        }
+      ]
+    },
+    {
+      "id": "documents_requis",
+      "matches": [
+        {
+          "match": "data/admin/Registre de commerce.PDF",
+          "score": 0.6373,
+          "chroma_score": 0.6373,
+          "doc_type": "admin",
+          "path": "data/admin/Registre de commerce.PDF"
+        }
+      ]
+    },
+    {
+      "id": "monnaie_dirham_marocain",
+      "matches": [
+        {
+          "match": "data/admin/DECISION ORDINAIRE.pdf",
+          "score": 0.5519,
+          "chroma_score": 0.5519,
+          "doc_type": "admin",
+          "path": "data/admin/DECISION ORDINAIRE.pdf",
+          "validity": "22/06/2024 (date seule sur la premiere partie)"
+        }
+      ]
+    },
+    {
+      "id": "langue_arabe_francais",
+      "matches": [
+        {
+          "match": "data/admin/RC modèle 9.pdf",
+          "score": 0.5378,
+          "chroma_score": 0.5378,
+          "doc_type": "admin",
+          "path": "data/admin/RC modèle 9.pdf"
+        }
+      ]
+    },
+    {
+      "id": "validite_offre_jours",
+      "matches": [
+        {
+          "match": "data/admin/Attestation CNSS.PDF",
+          "score": 0.3844,
+          "chroma_score": 0.3844,
+          "doc_type": "admin",
+          "path": "data/admin/Attestation CNSS.PDF"
+        }
+      ]
+    },
+    {
+      "id": "note_prix_doivent_etre_exprimes_dirhams_conformement_l_article",
+      "matches": [
+        {
+          "match": "data/admin/Attestation_fiscale-04-08-2022 (1).pdf",
+          "score": 0.5387,
+          "chroma_score": 0.5387,
+          "doc_type": "admin",
+          "path": "data/admin/Attestation_fiscale-04-08-2022 (1).pdf",
+          "validity": "04/08/2022 (date seule sur la premiere partie)"
+        }
+      ]
+    }
+  ]
+}

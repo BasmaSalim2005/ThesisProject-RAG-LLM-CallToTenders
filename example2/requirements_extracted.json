@@ -1,0 +1,33 @@
+{
+  "publication_date": "04/06/2026",
+  "dossier_administratif": [
+    "Pièces justifiant les pouvoirs conférés à la personne agissant au nom du concurrent (selon forme juridique) : aucune pièce pour auto-entrepreneur/personne physique pour son propre compte ; copie certifiée conforme de la procuration légalisée pour représentant d'une personne physique ; extrait des statuts et/ou PV de l'organe compétent pour société ; acte de délégation de pouvoir le cas échéant",
+    "Déclaration sur l'honneur",
+    "Original du récépissé du cautionnement provisoire ou attestation de la caution personnelle et solidaire en tenant lieu (le cas échéant)",
+    "Convention constitutive du groupement (ou copie certifiée conforme) si le concurrent est un groupement (article 150)",
+    "[Pour l'attributaire pressenti] Attestation fiscale délivrée depuis moins d'un an par le percepteur du lieu d'imposition certifiant la situation fiscale régulière (ou garanties constituées) — doit mentionner l'activité imposée",
+    "[Pour l'attributaire pressenti] Attestation CNSS ou autre organisme de prévoyance sociale délivrée depuis moins d'un an certifiant la situation régulière",
+    "[Pour l'attributaire pressenti] Copie du certificat d'immatriculation au registre de commerce (modèle 9) pour les personnes assujetties",
+    "[Pour l'attributaire pressenti] Copies certifiées conformes des attestations ou autorisations requises pour l'exécution des prestations (le cas échéant)",
+    "Exemplaire du CPS paraphé sur toutes les pages"
+  ],
+  "dossier_technique": [
+    "Copie certifiée conforme du certificat d'agrément dans le domaine : D14"
+  ],
+  "offre_technique": [
+    "Organigramme de l'équipe affectée au projet (phase étude et phase exécution des travaux) indiquant le chef de projet et les responsables du suivi",
+    "Curriculum Vitae (CV) du personnel affecté à l'étude et au suivi des travaux, cosignés par l'intéressé et le responsable du BET, établis selon le modèle en annexe — accompagnés du bordereau CNSS des 3 mois précédant la date d'ouverture de l'AO pour chaque membre de l'équipe, ainsi que des copies certifiées conformes aux originaux des diplômes",
+    "Profils obligatoires de l'équipe : Chef de projet (Ingénieur d'État en Génie Civil), Ingénieur d'État en Génie Civil pour les études, Technicien ou Ingénieur ou Équivalent en Génie Civil pour le suivi",
+    "Méthodologie proposée pour la réalisation des prestations objet du marché (signée par le concurrent)",
+    "Planning et chronogramme de réalisation",
+    "NB : La proposition d'un sous-traitant, consultant ou toute personne n'appartenant pas effectivement au BET concurrent ne sera pas prise en compte",
+    "NB : La non remise des pièces justificatives entraîne la non prise en compte des éléments concernés dans la grille de notation"
+  ],
+  "offre_financiere": {
+    "documents": [
+      "Acte d'engagement",
+      "Bordereau des prix et détail estimatif"
+    ],
+    "monnaie": "Dirham marocain (MAD)"
+  }
+}

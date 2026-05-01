@@ -1,0 +1,122 @@
+{
+  "dossier_administratif": [
+    {
+      "id": "Date de validite",
+      "description": "04/06/2026",
+      "criteria": "",
+      "requirement_type": "date"
+    },
+    {
+      "id": "pieces_justifiant_pouvoirs_conferes_personne_agissant_nom",
+      "description": "Pièces justifiant les pouvoirs conférés à la personne agissant au nom du concurrent (selon forme juridique). aucune pièce pour auto-entrepreneur/personne physique pour son propre compte ; copie certifiée conforme de la procuration légalisée pour représentant d'une personne physique ; extrait des statuts et/ou PV de l'organe compétent pour société ; acte de délégation de pouvoir le cas échéant",
+      "criteria": "aucune pièce pour auto-entrepreneur/personne physique pour son propre compte ; copie certifiée conforme de la procuration légalisée pour représentant d'une personne physique ; extrait des statuts et/ou PV de l'organe compétent pour société ; acte de délégation de pouvoir le cas échéant",
+      "requirement_type": ""
+    },
+    {
+      "id": "declaration_l_honneur",
+      "description": "Déclaration sur l'honneur",
+      "criteria": "",
+      "requirement_type": ""
+    },
+    {
+      "id": "original_recepisse_cautionnement_provisoire_attestation_caution_personne",
+      "description": "Original du récépissé du cautionnement provisoire ou attestation de la caution personnelle et solidaire en tenant lieu. (le cas échéant)",
+      "criteria": "(le cas échéant)",
+      "requirement_type": ""
+    },
+    {
+      "id": "convention_constitutive_groupement",
+      "description": "Convention constitutive du groupement. (ou copie certifiée conforme) si le concurrent est un groupement (article 150)",
+      "criteria": "(ou copie certifiée conforme) si le concurrent est un groupement (article 150)",
+      "requirement_type": ""
+    },
+    {
+      "id": "l_attributaire_pressenti_attestation_fiscale_delivree_depuis_moins_an",
+      "description": "[Pour l'attributaire pressenti] Attestation fiscale délivrée depuis moins d'un an par le percepteur du lieu d'imposition certifiant la situation fiscale régulière. (ou garanties constituées) — doit mentionner l'activité imposée",
+      "criteria": "(ou garanties constituées) — doit mentionner l'activité imposée",
+      "requirement_type": ""
+    },
+    {
+      "id": "l_attributaire_pressenti_attestation_cnss_autre_organisme_prevoyance_soc",
+      "description": "[Pour l'attributaire pressenti] Attestation CNSS ou autre organisme de prévoyance sociale. [Pour l'attributaire pressenti] Attestation CNSS ou autre organisme de prévoyance sociale délivrée depuis moins d'un an certifiant la situation régulière",
+      "criteria": "[Pour l'attributaire pressenti] Attestation CNSS ou autre organisme de prévoyance sociale délivrée depuis moins d'un an certifiant la situation régulière",
+      "requirement_type": ""
+    },
+    {
+      "id": "l_attributaire_pressenti_copie_certificat_immatriculation_registre_comme",
+      "description": "[Pour l'attributaire pressenti] Copie du certificat d'immatriculation au registre de commerce. (modèle 9) pour les personnes assujetties",
+      "criteria": "(modèle 9) pour les personnes assujetties",
+      "requirement_type": ""
+    },
+    {
+      "id": "l_attributaire_pressenti_copies_certifiees_conformes_attestations_autori",
+      "description": "[Pour l'attributaire pressenti] Copies certifiées conformes des attestations ou autorisations requises pour l'exécution des prestations. (le cas échéant)",
+      "criteria": "(le cas échéant)",
+      "requirement_type": ""
+    },
+    {
+      "id": "exemplaire_cps_paraphe_toutes_pages",
+      "description": "Exemplaire du CPS paraphé sur toutes les pages",
+      "criteria": "",
+      "requirement_type": ""
+    }
+  ],
+  "offre_technique": [
+    {
+      "id": "organigramme_l_equipe_affectee_projet",
+      "description": "Organigramme de l'équipe affectée au projet. (phase étude et phase exécution des travaux) indiquant le chef de projet et les responsables du suivi",
+      "criteria": "(phase étude et phase exécution des travaux) indiquant le chef de projet et les responsables du suivi",
+      "requirement_type": ""
+    },
+    {
+      "id": "curriculum_vitae",
+      "description": "Curriculum Vitae. (CV) du personnel affecté à l'étude et au suivi des travaux, cosignés par l'intéressé et le responsable du BET, établis selon le modèle en annexe — accompagnés du bordereau CNSS des 3 mois précédant la date d'ouverture de l'AO pour chaque membre de l'équipe, ainsi que des copies certifiées conformes aux originaux des diplômes",
+      "criteria": "(CV) du personnel affecté à l'étude et au suivi des travaux, cosignés par l'intéressé et le responsable du BET, établis selon le modèle en annexe — accompagnés du bordereau CNSS des 3 mois précédant la date d'ouverture de l'AO pour chaque membre de l'équipe, ainsi que des copies certifiées conformes aux originaux des diplômes",
+      "requirement_type": "cv"
+    },
+    {
+      "id": "profils_obligatoires_l_equipe",
+      "description": "Profils obligatoires de l'équipe. Chef de projet (Ingénieur d'État en Génie Civil), Ingénieur d'État en Génie Civil pour les études, Technicien ou Ingénieur ou Équivalent en Génie Civil pour le suivi",
+      "criteria": "Chef de projet (Ingénieur d'État en Génie Civil), Ingénieur d'État en Génie Civil pour les études, Technicien ou Ingénieur ou Équivalent en Génie Civil pour le suivi",
+      "requirement_type": ""
+    },
+    {
+      "id": "methodologie_proposee_realisation_prestations_objet",
+      "description": "Méthodologie proposée pour la réalisation des prestations objet du marché. (signée par le concurrent)",
+      "criteria": "(signée par le concurrent)",
+      "requirement_type": ""
+    },
+    {
+      "id": "planning_chronogramme_realisation",
+      "description": "Planning et chronogramme de réalisation",
+      "criteria": "",
+      "requirement_type": ""
+    },
+    {
+      "id": "nb_proposition_sous_traitant_consultant_toute_personne_n_appartenant",
+      "description": "NB. La proposition d'un sous-traitant, consultant ou toute personne n'appartenant pas effectivement au BET concurrent ne sera pas prise en compte",
+      "criteria": "La proposition d'un sous-traitant, consultant ou toute personne n'appartenant pas effectivement au BET concurrent ne sera pas prise en compte",
+      "requirement_type": ""
+    },
+    {
+      "id": "nb_non_remise_pieces_justificatives_entraine_non_prise_compte",
+      "description": "NB. La non remise des pièces justificatives entraîne la non prise en compte des éléments concernés dans la grille de notation",
+      "criteria": "La non remise des pièces justificatives entraîne la non prise en compte des éléments concernés dans la grille de notation",
+      "requirement_type": ""
+    }
+  ],
+  "offre_financiere": [
+    {
+      "id": "documents",
+      "description": "documents. [\"Acte d'engagement\", 'Bordereau des prix et détail estimatif']",
+      "criteria": "[\"Acte d'engagement\", 'Bordereau des prix et détail estimatif']",
+      "requirement_type": ""
+    },
+    {
+      "id": "monnaie_dirham_marocain",
+      "description": "monnaie. Dirham marocain (MAD)",
+      "criteria": "Dirham marocain (MAD)",
+      "requirement_type": ""
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "publication_date": "09/06/2026",
+  "dossier_administratif": [
+    "Pièces justifiant les pouvoirs conférés à la personne agissant au nom du concurrent (selon la forme juridique) : aucune pièce pour auto-entrepreneur ou personne physique agissant pour son propre compte ; copie certifiée conforme de la procuration légalisée pour représentant d'une personne physique ; extrait des statuts et/ou PV de l'organe compétent pour représentant d'une société ; acte de délégation de pouvoir le cas échéant",
+    "Déclaration sur l'honneur",
+    "Original du récépissé du cautionnement provisoire ou attestation de la caution personnelle et solidaire en tenant lieu (le cas échéant)",
+    "Convention constitutive du groupement (article 150) ou copie certifiée conforme, si le concurrent est un groupement",
+    "[Pour le concurrent pressenti attributaire] Attestation fiscale délivrée depuis moins d'un an par le percepteur du lieu d'imposition certifiant la situation fiscale régulière (ou garanties constituées), mentionnant l'activité imposée",
+    "[Pour le concurrent pressenti attributaire] Attestation CNSS ou autre organisme de prévoyance sociale délivrée depuis moins d'un an certifiant la situation régulière",
+    "[Pour le concurrent pressenti attributaire] Copie du certificat d'immatriculation au registre de commerce (modèle 9) pour les personnes assujetties",
+    "CPS paraphé sur toutes les pages",
+    "Règlement de consultation paraphé et signé portant la mention 'lu et accepté'"
+  ],
+  "offre_technique": [
+    "Dossier technique BET : Copie certifiée conforme des certificats d'agrément dans les domaines D4 et D5",
+    "CV + Diplôme certifiés conformes à l'original du Chef de projet ingénieur d'État en génie civil (au moins 10 ans d'expérience) + bordereaux CNSS des 3 derniers mois",
+    "CV + Diplôme certifiés conformes à l'original de l'Ingénieur spécialité routes ou VRD (au moins 05 ans d'expérience) + bordereaux CNSS des 3 derniers mois",
+    "CV + Diplôme certifiés conformes à l'original de l'Ingénieur spécialité hydraulique (au moins 05 ans d'expérience)",
+    "CV + Diplôme certifiés conformes à l'original du Technicien topographe (au moins 10 ans d'expérience) + bordereaux CNSS des 3 derniers mois",
+    "CV + Diplôme certifiés conformes à l'original du Technicien en génie civil (ou cadre supérieur même spécialité) assurant le suivi permanent sur chantier (au moins 10 ans d'expérience) + bordereaux CNSS des 3 derniers mois",
+    "NB : Tout le personnel doit obligatoirement appartenir à l'entité (BET) justifié par bordereau CNSS des 3 derniers mois - l'absence d'un membre ou d'une pièce exigée conduit à l'écartement de l'offre",
+    "Méthodologie proposée pour la réalisation des prestations objet du marché (mémoire technique détaillé, conformité CPS, étude d'impact environnemental, conception paysagère)",
+    "Planning et chronogramme des travaux avec plans de contrôle et de suivi, planning d'intervention des membres de l'équipe",
+    "L'offre technique doit être signée par le concurrent"
+  ],
+  "offre_financiere": {
+    "documents_requis": [
+      "Acte d'engagement signé",
+      "Bordereau des prix portant détail estimatif"
+    ],
+    "monnaie": "Dirham marocain (MAD)",
+    "langue": "Arabe ou français",
+    "validite_offre_jours": 60,
+    "note": "Les prix doivent être exprimés en dirhams conformément à l'article 21 paragraphe 3 du décret n° 2-22-431"
+  }
+}

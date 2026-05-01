@@ -18,6 +18,8 @@ from .match_postprocess import is_date_validity_policy_requirement
 
 CV_REQ_MARK = "cv requirement:"
 
+_CV_LINE_HINT = re.compile(r"\b(CVs?|curriculum\s+vitae)\b", re.IGNORECASE)
+
 _STOP = frozenset(
     """
     des les une un pour avec dans sur aux son sa ses leur le la ce cet cette ces
@@ -65,15 +67,14 @@ def flatten_requirements(payload: dict[str, Any]) -> list[dict[str, str]]:
                             text = f"{text}. {criteria}".strip()
 
                     req_type = str(entry.get("requirement_type", "")).strip().lower()
-                    if not req_type and category == "offre_technique":
-                        if re.search(r"\bCVs?\b", text, flags=re.IGNORECASE):
-                            req_type = "cv"
+                    if not req_type and _CV_LINE_HINT.search(text):
+                        req_type = "cv"
                     if req_type == "cv":
                         text = f"CV requirement: {text}".strip()
                     push(category, req_id, text)
                 else:
                     raw = str(entry).strip()
-                    if category == "offre_technique" and re.search(r"\bCVs?\b", raw, flags=re.IGNORECASE):
+                    if _CV_LINE_HINT.search(raw):
                         raw = f"CV requirement: {raw}"
                     push(category, f"{category}_{idx+1}", raw)
         elif isinstance(value, dict):
@@ -142,8 +143,11 @@ def _cv_bac_plus(meta: dict[str, Any]) -> int | None:
     return parse_study_level_to_int(str(meta.get("study_level") or ""))
 
 
-def role_keyword_overlap(requirement: str, title: str) -> float:
-    """How well the CV title aligns with role words in the requirement (0–1)."""
+def role_keyword_overlap(requirement: str, title: str, embedded_summary: str = "") -> float:
+    """
+    How well the CV post (title + optional embedded résumé lines) matches role words in the
+    requirement (0–1). Same scoring for every CV row: intitulé + texte indexé.
+    """
     req = _fold_lower(requirement)
     if CV_REQ_MARK in req:
         req = req.split(CV_REQ_MARK, 1)[-1].strip()
@@ -152,60 +156,67 @@ def role_keyword_overlap(requirement: str, title: str) -> float:
     if not words:
         return 0.45
     ttl = _fold_lower(title)
-    hits = sum(1 for w in words if w in ttl)
+    emb = _fold_lower((embedded_summary or "")[:900])
+    combined = f"{ttl} {emb}".strip()
+    hits = sum(1 for w in words if w in combined)
     # Directeur / directrice / chef + projet (same role family for tenders)
     role_ask = bool(re.search(r"direct(eur|rice)\b", req) or re.search(r"\bchef\b", req))
-    role_ttl = bool(re.search(r"direct(eur|rice)\b", ttl) or re.search(r"\bchef\b", ttl))
+    role_ttl = bool(
+        re.search(r"direct(eur|rice)\b", combined) or re.search(r"\bchef\b", combined)
+    )
     proj_req = "projet" in req or "projets" in req
-    proj_ttl = "projet" in ttl or "projets" in ttl
+    proj_ttl = "projet" in combined or "projets" in combined
     if role_ask and role_ttl and proj_req and proj_ttl:
         hits += 3
-    elif re.search(r"direct(eur|rice)\b", req) and re.search(r"direct(eur|rice)\b", ttl):
+    elif re.search(r"direct(eur|rice)\b", req) and re.search(r"direct(eur|rice)\b", combined):
         hits += 1
-    elif "chef" in req and "chef" in ttl and proj_req and proj_ttl:
+    elif "chef" in req and "chef" in combined and proj_req and proj_ttl:
         hits += 2
     # Penalize pure consulting titles when the ask is a project lead / director
-    if role_ask and proj_req and re.search(r"consult", ttl) and not re.search(r"consult", req):
+    if role_ask and proj_req and re.search(r"consult", combined) and not re.search(r"consult", req):
         hits -= 2
     denom = max(5, int(0.55 * len(words)) + 1)
     return max(0.12, min(1.0, hits / denom))
 
 
+def _cv_embedded_snippet(doc: Document) -> str:
+    return str(doc.page_content or "").strip()[:900]
+
+
 def cv_rank_key(requirement_text: str, doc: Document, embed_score: float) -> tuple:
     """
-    How to order CVs for a requirement: (1) job title vs exigence, (2) more experience,
-    (3) higher study level, (4) Chroma score. Titles are compared first; exp/Bac only break
-    ties among similar title fits, including when no CV meets the minimum years (still
-    return the best available).
+    Uniform CV ordering for every exigence: (1) post / role match (title + embedded text),
+    (2) higher formation (Bac+N), (3) more years of experience, (4) Chroma score.
     """
     meta = doc.metadata or {}
     title = str(meta.get("title") or "")
-    ov = role_keyword_overlap(requirement_text, title)
+    ov = role_keyword_overlap(requirement_text, title, _cv_embedded_snippet(doc))
     exp_i = _safe_int_exp(meta)
     exp_sort = exp_i if exp_i is not None else -1
     cand_bac = _cv_bac_plus(meta)
     bac_sort = cand_bac if cand_bac is not None else -1
-    return (ov, exp_sort, bac_sort, float(embed_score))
+    return (ov, bac_sort, exp_sort, float(embed_score))
 
 
-def cv_composite_score(requirement_text: str, embed_score: float, meta: dict[str, Any]) -> float:
+def cv_composite_score(requirement_text: str, embed_score: float, doc: Document) -> float:
     """
-    Report score: mirrors title-first logic without harsh multipliers (ranking is done by
-    cv_rank_key). embed_score: higher = better (Chroma relevance).
+    Display score for reports: same signals as cv_rank_key (overlap on full CV text,
+    then soft penalties/boosts vs explicited min Bac+ / years in the tender line).
     """
+    meta = doc.metadata or {}
     exp_i = _safe_int_exp(meta)
     title = str(meta.get("title") or "")
     min_exp = parse_min_experience_years(requirement_text)
     min_bac = parse_min_bac_level(requirement_text)
     cand_bac = _cv_bac_plus(meta)
-    overlap = role_keyword_overlap(requirement_text, title)
+    overlap = role_keyword_overlap(requirement_text, title, _cv_embedded_snippet(doc))
 
     score = float(embed_score) * (0.25 + 0.75 * overlap)
 
-    if min_exp is not None and exp_i is not None and exp_i < min_exp:
-        score *= 0.82
     if min_bac is not None and cand_bac is not None and cand_bac < min_bac:
         score *= 0.88
+    if min_exp is not None and exp_i is not None and exp_i < min_exp:
+        score *= 0.82
     if min_exp is not None and exp_i is not None and exp_i >= min_exp:
         score += min(0.2, (exp_i - min_exp) * 0.02)
     return score
@@ -378,6 +389,27 @@ def load_chroma_db(chroma_dir: Path) -> Chroma:
     return Chroma(persist_directory=str(chroma_dir), embedding_function=_embeddings())
 
 
+def _similarity_cv_candidates(db: Chroma, query: str, retrieve_k: int) -> list[tuple[Document, float]]:
+    """
+    Pull only CV rows from Chroma (same RAG query for every CV exigence), then caller
+    re-ranks by post/Bac+/exp. Falls back to an unfiltered search + in-Python filter if
+    metadata filtering is unavailable.
+    """
+    flt: dict[str, str] = {"doc_type": "cv"}
+    pool: list[tuple[Document, float]] = []
+    try:
+        pool = db.similarity_search_with_relevance_scores(query, k=retrieve_k, filter=flt)
+    except (TypeError, ValueError):
+        pool = []
+    if pool:
+        return pool
+    try:
+        raw = db.similarity_search_with_relevance_scores(query, k=retrieve_k)
+    except Exception:
+        return []
+    return [(d, s) for d, s in raw if (d.metadata or {}).get("doc_type") == "cv"]
+
+
 def match_display_label(doc: Document) -> str:
     """Single human-readable line for a match (path, or CV name + id)."""
     md = doc.metadata or {}
@@ -430,18 +462,14 @@ def run_matching(
 
         query = str(req.get("text", ""))
         if is_cv_requirement(query):
-            retrieve_k = min(120, max(40, top_k * 12))
-            pool = db.similarity_search_with_relevance_scores(query, k=retrieve_k)
-            cv_hits = [(d, s) for d, s in pool if (d.metadata or {}).get("doc_type") == "cv"]
-            if cv_hits:
-                ranked = sorted(
-                    cv_hits,
-                    key=lambda ds: cv_rank_key(query, ds[0], ds[1]),
-                    reverse=True,
-                )
-                results = ranked[:top_k]
-            else:
-                results = pool[:top_k]
+            retrieve_k = min(250, max(50, top_k * 18))
+            cv_hits = _similarity_cv_candidates(db, query, retrieve_k)
+            ranked = sorted(
+                cv_hits,
+                key=lambda ds: cv_rank_key(query, ds[0], ds[1]),
+                reverse=True,
+            )
+            results = ranked[:top_k]
         else:
             results = db.similarity_search_with_relevance_scores(query, k=top_k)
 
@@ -460,7 +488,7 @@ def _match_row(query: str, doc: Document, chroma_s: float) -> dict[str, Any]:
     path = str(md.get("source") or "").strip()
     chroma_r = round(float(chroma_s), 4)
     if is_cv_requirement(query) and ctype == "cv":
-        final_r = round(cv_composite_score(query, chroma_s, md), 4)
+        final_r = round(cv_composite_score(query, chroma_s, doc), 4)
     else:
         final_r = chroma_r
 

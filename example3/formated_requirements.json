@@ -1,0 +1,158 @@
+{
+  "dossier_administratif": [
+    {
+      "id": "Date de validite",
+      "description": "09/06/2026",
+      "criteria": "",
+      "requirement_type": "date"
+    },
+    {
+      "id": "pieces_justifiant_pouvoirs_conferes_personne_agissant_nom",
+      "description": "Pièces justifiant les pouvoirs conférés à la personne agissant au nom du concurrent (selon la forme juridique). aucune pièce pour auto-entrepreneur ou personne physique agissant pour son propre compte ; copie certifiée conforme de la procuration légalisée pour représentant d'une personne physique ; extrait des statuts et/ou PV de l'organe compétent pour représentant d'une société ; acte de délégation de pouvoir le cas échéant",
+      "criteria": "aucune pièce pour auto-entrepreneur ou personne physique agissant pour son propre compte ; copie certifiée conforme de la procuration légalisée pour représentant d'une personne physique ; extrait des statuts et/ou PV de l'organe compétent pour représentant d'une société ; acte de délégation de pouvoir le cas échéant",
+      "requirement_type": ""
+    },
+    {
+      "id": "declaration_l_honneur",
+      "description": "Déclaration sur l'honneur",
+      "criteria": "",
+      "requirement_type": ""
+    },
+    {
+      "id": "original_recepisse_cautionnement_provisoire_attestation_caution_personne",
+      "description": "Original du récépissé du cautionnement provisoire ou attestation de la caution personnelle et solidaire en tenant lieu. (le cas échéant)",
+      "criteria": "(le cas échéant)",
+      "requirement_type": ""
+    },
+    {
+      "id": "convention_constitutive_groupement",
+      "description": "Convention constitutive du groupement. (article 150) ou copie certifiée conforme, si le concurrent est un groupement",
+      "criteria": "(article 150) ou copie certifiée conforme, si le concurrent est un groupement",
+      "requirement_type": ""
+    },
+    {
+      "id": "pressenti_attributaire_attestation_fiscale_delivree_depuis_moins_an_perc",
+      "description": "[Pour le concurrent pressenti attributaire] Attestation fiscale délivrée depuis moins d'un an par le percepteur du lieu d'imposition certifiant la situation fiscale régulière. (ou garanties constituées), mentionnant l'activité imposée",
+      "criteria": "(ou garanties constituées), mentionnant l'activité imposée",
+      "requirement_type": ""
+    },
+    {
+      "id": "pressenti_attributaire_attestation_cnss_autre_organisme_prevoyance_socia",
+      "description": "[Pour le concurrent pressenti attributaire] Attestation CNSS ou autre organisme de prévoyance sociale. [Pour le concurrent pressenti attributaire] Attestation CNSS ou autre organisme de prévoyance sociale délivrée depuis moins d'un an certifiant la situation régulière",
+      "criteria": "[Pour le concurrent pressenti attributaire] Attestation CNSS ou autre organisme de prévoyance sociale délivrée depuis moins d'un an certifiant la situation régulière",
+      "requirement_type": ""
+    },
+    {
+      "id": "pressenti_attributaire_copie_certificat_immatriculation_registre_commerc",
+      "description": "[Pour le concurrent pressenti attributaire] Copie du certificat d'immatriculation au registre de commerce. (modèle 9) pour les personnes assujetties",
+      "criteria": "(modèle 9) pour les personnes assujetties",
+      "requirement_type": ""
+    },
+    {
+      "id": "cps_paraphe_toutes_pages",
+      "description": "CPS paraphé sur toutes les pages",
+      "criteria": "",
+      "requirement_type": ""
+    },
+    {
+      "id": "reglement_consultation_paraphe_signe_portant_mention_lu_accepte",
+      "description": "Règlement de consultation paraphé et signé portant la mention 'lu et accepté'",
+      "criteria": "",
+      "requirement_type": ""
+    }
+  ],
+  "offre_technique": [
+    {
+      "id": "dossier_technique_bet",
+      "description": "Dossier technique BET. Copie certifiée conforme des certificats d'agrément dans les domaines D4 et D5",
+      "criteria": "Copie certifiée conforme des certificats d'agrément dans les domaines D4 et D5",
+      "requirement_type": ""
+    },
+    {
+      "id": "cv_diplome_certifies_conformes_l_original_chef_projet_ingenieur",
+      "description": "CV + Diplôme certifiés conformes à l'original du Chef de projet ingénieur d'État en génie civil. (au moins 10 ans d'expérience) + bordereaux CNSS des 3 derniers mois",
+      "criteria": "(au moins 10 ans d'expérience) + bordereaux CNSS des 3 derniers mois",
+      "requirement_type": "cv"
+    },
+    {
+      "id": "cv_diplome_certifies_conformes_l_original_l_ingenieur_specialite",
+      "description": "CV + Diplôme certifiés conformes à l'original de l'Ingénieur spécialité routes ou VRD. (au moins 05 ans d'expérience) + bordereaux CNSS des 3 derniers mois",
+      "criteria": "(au moins 05 ans d'expérience) + bordereaux CNSS des 3 derniers mois",
+      "requirement_type": "cv"
+    },
+    {
+      "id": "cv_diplome_certifies_conformes_l_original_l_ingenieur_specialite_1",
+      "description": "CV + Diplôme certifiés conformes à l'original de l'Ingénieur spécialité hydraulique. (au moins 05 ans d'expérience)",
+      "criteria": "(au moins 05 ans d'expérience)",
+      "requirement_type": "cv"
+    },
+    {
+      "id": "cv_diplome_certifies_conformes_l_original_technicien_topographe",
+      "description": "CV + Diplôme certifiés conformes à l'original du Technicien topographe. (au moins 10 ans d'expérience) + bordereaux CNSS des 3 derniers mois",
+      "criteria": "(au moins 10 ans d'expérience) + bordereaux CNSS des 3 derniers mois",
+      "requirement_type": "cv"
+    },
+    {
+      "id": "cv_diplome_certifies_conformes_l_original_technicien_genie_civil",
+      "description": "CV + Diplôme certifiés conformes à l'original du Technicien en génie civil. (ou cadre supérieur même spécialité) assurant le suivi permanent sur chantier (au moins 10 ans d'expérience) + bordereaux CNSS des 3 derniers mois",
+      "criteria": "(ou cadre supérieur même spécialité) assurant le suivi permanent sur chantier (au moins 10 ans d'expérience) + bordereaux CNSS des 3 derniers mois",
+      "requirement_type": "cv"
+    },
+    {
+      "id": "nb_tout_personnel_doit_obligatoirement_appartenir_l_entite",
+      "description": "NB. Tout le personnel doit obligatoirement appartenir à l'entité (BET) justifié par bordereau CNSS des 3 derniers mois - l'absence d'un membre ou d'une pièce exigée conduit à l'écartement de l'offre",
+      "criteria": "Tout le personnel doit obligatoirement appartenir à l'entité (BET) justifié par bordereau CNSS des 3 derniers mois - l'absence d'un membre ou d'une pièce exigée conduit à l'écartement de l'offre",
+      "requirement_type": ""
+    },
+    {
+      "id": "methodologie_proposee_realisation_prestations_objet",
+      "description": "Méthodologie proposée pour la réalisation des prestations objet du marché. (mémoire technique détaillé, conformité CPS, étude d'impact environnemental, conception paysagère)",
+      "criteria": "(mémoire technique détaillé, conformité CPS, étude d'impact environnemental, conception paysagère)",
+      "requirement_type": ""
+    },
+    {
+      "id": "planning_chronogramme_travaux_avec_plans_controle_suivi_planning_interve",
+      "description": "Planning et chronogramme des travaux avec plans de contrôle et de suivi, planning d'intervention des membres de l'équipe",
+      "criteria": "",
+      "requirement_type": ""
+    },
+    {
+      "id": "l_offre_technique_doit_etre_signee",
+      "description": "L'offre technique doit être signée par le concurrent",
+      "criteria": "",
+      "requirement_type": ""
+    }
+  ],
+  "offre_financiere": [
+    {
+      "id": "documents_requis",
+      "description": "documents_requis. [\"Acte d'engagement signé\", 'Bordereau des prix portant détail estimatif']",
+      "criteria": "[\"Acte d'engagement signé\", 'Bordereau des prix portant détail estimatif']",
+      "requirement_type": ""
+    },
+    {
+      "id": "monnaie_dirham_marocain",
+      "description": "monnaie. Dirham marocain (MAD)",
+      "criteria": "Dirham marocain (MAD)",
+      "requirement_type": ""
+    },
+    {
+      "id": "langue_arabe_francais",
+      "description": "langue. Arabe ou français",
+      "criteria": "Arabe ou français",
+      "requirement_type": ""
+    },
+    {
+      "id": "validite_offre_jours",
+      "description": "validite_offre_jours. 60",
+      "criteria": "60",
+      "requirement_type": ""
+    },
+    {
+      "id": "note_prix_doivent_etre_exprimes_dirhams_conformement_l_article",
+      "description": "note. Les prix doivent être exprimés en dirhams conformément à l'article 21 paragraphe 3 du décret n° 2-22-431",
+      "criteria": "Les prix doivent être exprimés en dirhams conformément à l'article 21 paragraphe 3 du décret n° 2-22-431",
+      "requirement_type": ""
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "publication_date": "19/08/2026",
+  "dossier_administratif": [
+    "Pièces justifiant les pouvoirs conférés à la personne agissant au nom du concurrent (selon forme juridique: procuration légalisée pour personne physique, extrait des statuts et/ou PV de l'organe compétent pour société, acte de délégation le cas échéant, pièces justifiant les pouvoirs pour coopérative/union de coopératives)",
+    "Déclaration sur l'honneur (exemplaire unique) comportant les indications de l'article 29 du décret n°2-22-431, signée électroniquement",
+    "Original du récépissé du cautionnement provisoire ou attestation de caution personnelle et solidaire en tenant lieu (le cas échéant)",
+    "Pour groupements: convention constitutive du groupement (article 150 du décret 2-22-431) ou copie certifiée conforme",
+    "[À fournir uniquement par l'attributaire pressenti] Attestation fiscale délivrée depuis moins d'un an par le percepteur du lieu d'imposition certifiant la situation fiscale régulière (mentionnant l'activité imposée)",
+    "[À fournir uniquement par l'attributaire pressenti] Attestation CNSS ou organisme de prévoyance sociale délivrée depuis moins d'un an certifiant la situation régulière",
+    "[À fournir uniquement par l'attributaire pressenti] Copie du certificat d'immatriculation au registre de commerce (modèle 9) pour les personnes assujetties",
+    "[À fournir uniquement par l'attributaire pressenti] Copies certifiées conformes des attestations ou autorisations requises pour l'exécution des prestations (le cas échéant)",
+    "[Cas coopérative/union de coopératives - au dépôt de l'offre] Attestation d'immatriculation au registre local des coopératives",
+    "[Cas coopérative/union de coopératives - attributaire pressenti] Attestation fiscale depuis moins d'un an (mentionnant l'activité imposée)",
+    "[Cas coopérative/union de coopératives - attributaire pressenti] Attestation CNSS depuis moins d'un an",
+    "[Cas auto-entrepreneur - au dépôt de l'offre] Attestation d'immatriculation au registre national de l'auto-entrepreneur ou copie certifiée conforme délivrée depuis moins d'un an",
+    "[Cas auto-entrepreneur - attributaire pressenti] Attestation fiscale depuis moins d'un an certifiant la situation fiscale régulière (mentionnant l'activité imposée)"
+  ],
+  "offre_technique": [
+    "Copie légalisée du certificat d'agrément du bureau d'études délivré par le Ministère de l'Équipement, du Transport et de la Logistique - domaine D17 (Voirie), conformément à l'arrêté n°1564-10 du 14 Mai 2010",
+    "[Groupement conjoint] Chaque membre doit présenter individuellement l'agrément D17 pour les parties qu'il s'engage à réaliser",
+    "[Groupement solidaire] Chaque membre doit présenter l'agrément requis pour le ou les domaines d'activités exigés",
+    "Curriculums vitae (CV) des cadres affectés à la mission, cosignés par l'intéressé et le responsable du Bureau d'Études, établis selon le modèle Annexe III: Ingénieur en génie civil chef de projet + Technicien en génie civil conducteur des travaux",
+    "Copies certifiées conformes des diplômes jointes aux CV",
+    "Organigramme de l'équipe projet avec désignation de chaque membre et poste réservé",
+    "Bordereau CNSS des 3 derniers mois pour chaque membre de l'équipe",
+    "Note de méthodologie exhaustive exposant: méthodologie de réalisation de chaque mission, démarche à suivre, moyens à mettre en œuvre, organigramme, effectif de l'équipe, planning proposé, durée d'intervention de chaque mission, qualité de l'organisation, gestion des interventions, modalités d'astreintes, dispositif d'autocontrôle",
+    "Chronogramme d'affectation des ressources (poste occupé, tâches à exécuter, temps d'intervention en homme x jours, calendrier de travail)",
+    "Taux de participation des experts marocains parmi le personnel proposé",
+    "Références techniques indiquant obligatoirement la nature des prestations, date d'achèvement, montants et/ou surfaces hors œuvres",
+    "CPS signé électroniquement et individuellement",
+    "Règlement de consultation signé électroniquement et individuellement"
+  ],
+  "offre_financiere": {
+    "acte_engagement": "Acte d'engagement établi en un seul exemplaire, montant total libellé en chiffres et en toutes lettres (tenant compte du rabais éventuel); pour groupement conjoint: acte unique indiquant le montant total et les prestations de chaque membre; pour groupement solidaire: acte unique indiquant le montant total et l'ensemble des prestations solidaires",
+    "bordereau_prix_detail_estimatif": "Bordereau des prix et détail estimatif avec prix unitaires libellés en chiffres et montant total libellé en chiffres",
+    "monnaie": "Dirham marocain (MAD) pour les concurrents installés au Maroc",
+    "note": "Offre excessive si > 20% de l'estimation administrative; offre anormalement basse si < 20% de l'estimation administrative - appliqué sur tous les prix du bordereau"
+  }
+}

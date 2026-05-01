@@ -20,7 +20,7 @@ if str(_ROOT) not in sys.path:
 
 from easy_tender.format_requirements import format_requirements_payload
 
-DEFAULT_OUTPUT = _HERE / "formated_requirements.json"
+DEFAULT_OUTPUT = _HERE / "formated_requirements-1.json"
 
 
 def main() -> None:
