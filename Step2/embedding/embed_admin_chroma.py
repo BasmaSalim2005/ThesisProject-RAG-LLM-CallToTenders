@@ -2,14 +2,14 @@
 
 Run after the indexers under `Step2/indexing/`. By default embeds:
   - `data/admin/admin_docs_index_summarized.json` (or override with --admin-index)
-  - `data/hr/cv.json` when that file exists (skip with --no-cv)
+  - `data/hr/cv_docs_index.json` when that file exists (skip with --no-cv)
 
 Then match: `Step2/formating/formated_requirements.json` and ``python -m Step2.matching.rag_match_requirements``.
 
 Examples:
   python Step2/indexing/index_admin_docs_summarized.py
   python -m Step2.embedding.embed_admin_chroma --force
-  python -m Step2.embedding.embed_admin_chroma --admin-index data/admin/admin_docs_index.json --cv-json data/hr/cv.json --chroma-dir chroma_admin_cv --force
+  python -m Step2.embedding.embed_admin_chroma --admin-index data/admin/admin_docs_index.json --cv-json data/hr/cv_docs_index.json --chroma-dir chroma_admin_cv --force
 """
 
 from __future__ import annotations
@@ -36,7 +36,7 @@ def main() -> None:
     )
     parser.add_argument(
         "--cv-json",
-        default="data/hr/cv.json",
+        default="data/hr/cv_docs_index.json",
         help="CV catalogue JSON with cv_database (ignored if missing unless you pass --require-cv)",
     )
     parser.add_argument(

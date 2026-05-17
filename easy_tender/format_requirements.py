@@ -21,15 +21,63 @@ _VALIDITY_RE = re.compile(
 _OPENROUTER_BASE = "https://openrouter.ai/api/v1"
 _DEFAULT_OPENROUTER_FORMAT_MODEL = "mistralai/mistral-7b-instruct:free"
 
+_ROLE_TERM_RE = re.compile(
+    r"\b("
+    r"CVs?|curriculum\s+vitae|profil[s]?|personnel|ressources?\s+humaines?|"
+    r"chef\s+de\s+projet|direct(?:eur|rice)\s+de\s+projet|responsable|"
+    r"ing[ée]nieur|technicien|expert|consultant|architecte|d[ée]veloppeur"
+    r")\b",
+    re.IGNORECASE,
+)
+
+_PROFILE_GROUP_RE = re.compile(
+    r"\b(profil[s]?\s+(?:obligatoires?\s+)?(?:de\s+l['’]?equipe|de\s+l['’]?équipe|requis)|"
+    r"personnel\s+affect[ée]|[ée]quipe\s+affect[ée]e?|membres?\s+de\s+l['’]?[ée]quipe)"
+    r"\b",
+    re.IGNORECASE,
+)
+
+_CV_DOC_RE = re.compile(r"\b(CVs?|curriculum\s+vitae)\b", re.IGNORECASE)
+
+_TECHNICAL_DOCUMENT_RE = re.compile(
+    r"\b(organigramme|m[ée]thodologie|planning|chronogramme|note\s+m[ée]thodologique)\b",
+    re.IGNORECASE,
+)
+
+_ROLE_START_RE = re.compile(
+    r"^\s*(?:"
+    r"chef\s+de\s+projet|direct(?:eur|rice)\s+de\s+projet|responsable|"
+    r"ing[ée]nieur|technicien|expert|consultant|architecte|d[ée]veloppeur"
+    r")\b",
+    re.IGNORECASE,
+)
+
+_RULE_RE = re.compile(
+    r"^\s*(?:NB|N\.B\.?|note|remarque)\b|"
+    r"ne\s+sera\s+pas\s+pris(?:e|es)?\s+en\s+compte|"
+    r"non\s+remise|entra[iî]ne|grille\s+de\s+notation|"
+    r"n['’]appartenant\s+pas\s+effectivement|"
+    r"(?:tous|toutes|chaque|les)\s+[^.]{0,80}\b(?:doivent|doit)\b[^.]{0,80}\b(?:certificat|certification|dipl[oô]me|attestation)",
+    re.IGNORECASE,
+)
+
 
 def _detect_requirement_type(category: str, *parts: str) -> str:
     """
-    Disambiguate items inside "offre_technique" (CV requirements vs other documents).
+    Disambiguate items inside "offre_technique":
+    - cv: people/profile rows that should search the CV index.
+    - rule: notes/policies that should be displayed but not vector-matched.
     """
     if category != "offre_technique":
         return ""
     hay = " ".join(p for p in parts if p).strip()
-    if re.search(r"\bCVs?\b", hay, re.IGNORECASE):
+    if _RULE_RE.search(hay):
+        return "rule"
+    if _CV_DOC_RE.search(hay):
+        return "cv"
+    if _TECHNICAL_DOCUMENT_RE.search(hay):
+        return ""
+    if _PROFILE_GROUP_RE.search(hay) or _ROLE_START_RE.search(hay):
         return "cv"
     return ""
 
@@ -215,6 +263,121 @@ def _build_description(title: str, extra: str) -> str:
     return title or extra
 
 
+def _split_top_level_role_fragments(text: str) -> list[str]:
+    """Split role lists on commas/semicolons, but not inside parentheses."""
+    parts: list[str] = []
+    buf: list[str] = []
+    depth = 0
+    for ch in text:
+        if ch == "(":
+            depth += 1
+        elif ch == ")" and depth > 0:
+            depth -= 1
+        if ch in ",;" and depth == 0:
+            piece = "".join(buf).strip(" .:-")
+            if piece:
+                parts.append(piece)
+            buf = []
+            continue
+        buf.append(ch)
+    piece = "".join(buf).strip(" .:-")
+    if piece:
+        parts.append(piece)
+    return parts
+
+
+def _extract_parenthetical_constraints(text: str) -> tuple[str, str]:
+    constraints: list[str] = []
+
+    def collect(match: re.Match[str]) -> str:
+        inner = match.group(1).strip()
+        if inner:
+            constraints.append(inner)
+        return " "
+
+    role = re.sub(r"\(([^()]*)\)", collect, text).strip(" .:-")
+    return " ".join(role.split()), " ; ".join(constraints)
+
+
+def _profile_role_body(desc: str, criteria: str) -> str:
+    if criteria and _PROFILE_GROUP_RE.search(desc):
+        return criteria.strip()
+    if ":" in desc:
+        _, right = _split_on_first_colon(desc)
+        return right
+    if "." in desc:
+        left, right = desc.split(".", 1)
+        if _PROFILE_GROUP_RE.search(left):
+            return right.strip()
+    return ""
+
+
+def _split_cv_profile_entries(
+    category: str,
+    desc: str,
+    criteria: str,
+) -> list[dict[str, str]]:
+    """
+    Turn "Profils obligatoires: Chef..., Ingénieur..." into one CV requirement per role.
+    Constraint text such as Bac+N, experience years, diplomas, and specialties stays attached
+    to the role so CV ranking can use it.
+    """
+    if category != "offre_technique" or _RULE_RE.search(f"{desc} {criteria}"):
+        return []
+    if _CV_DOC_RE.search(desc):
+        return []
+
+    body = _profile_role_body(desc, criteria)
+    if not body:
+        return []
+
+    fragments = _split_top_level_role_fragments(body)
+    role_fragments = [p for p in fragments if _ROLE_TERM_RE.search(p)]
+    if len(role_fragments) < 2:
+        return []
+
+    out: list[dict[str, str]] = []
+    for frag in role_fragments:
+        role, constraint = _extract_parenthetical_constraints(frag)
+        if not role:
+            role = frag.strip()
+        item_criteria = constraint
+        if criteria and criteria != body and criteria not in item_criteria:
+            item_criteria = f"{item_criteria}. {criteria}".strip(". ")
+        out.append(
+            {
+                "description": role,
+                "criteria": item_criteria,
+                "requirement_type": "cv",
+            }
+        )
+    return out
+
+
+def _append_normalized_entry(
+    normalized: list[dict[str, str]],
+    *,
+    category: str,
+    desc: str,
+    criteria: str,
+    requirement_type: str,
+    line_index: int,
+    used_ids: set[str],
+) -> None:
+    name_source = _choose_text_for_id(desc, criteria)
+    req_id = _file_like_id_from_description(
+        name_source, category=category, line_index=line_index, used=used_ids
+    )
+    normalized.append(
+        {
+            "id": req_id,
+            "description": desc,
+            "criteria": criteria,
+            "requirement_type": requirement_type,
+        }
+    )
+
+
 def _normalize_list(category: str, values: list[Any]) -> list[dict[str, str]]:
     normalized: list[dict[str, str]] = []
     used_ids: set[str] = set()
@@ -234,21 +397,32 @@ def _normalize_list(category: str, values: list[Any]) -> list[dict[str, str]]:
             elif not desc:
                 desc = criteria or f"Requirement {idx}"
 
-            name_source = _choose_text_for_id(desc, criteria)
-            req_id = _file_like_id_from_description(
-                name_source, category=category, line_index=idx, used=used_ids
-            )
             requirement_type = str(value.get("requirement_type", "")).strip().lower()
             if not requirement_type:
                 requirement_type = _detect_requirement_type(category, desc, criteria)
 
-            normalized.append(
-                {
-                    "id": req_id,
-                    "description": desc,
-                    "criteria": criteria,
-                    "requirement_type": requirement_type,
-                }
+            split_profiles = _split_cv_profile_entries(category, desc, criteria)
+            if split_profiles and requirement_type != "rule":
+                for offset, profile in enumerate(split_profiles):
+                    _append_normalized_entry(
+                        normalized,
+                        category=category,
+                        desc=profile["description"],
+                        criteria=profile["criteria"],
+                        requirement_type=profile["requirement_type"],
+                        line_index=idx * 100 + offset,
+                        used_ids=used_ids,
+                    )
+                continue
+
+            _append_normalized_entry(
+                normalized,
+                category=category,
+                desc=desc,
+                criteria=criteria,
+                requirement_type=requirement_type,
+                line_index=idx,
+                used_ids=used_ids,
             )
             continue
 
@@ -259,15 +433,28 @@ def _normalize_list(category: str, values: list[Any]) -> list[dict[str, str]]:
 
         requirement_type = _detect_requirement_type(category, raw_text, desc, criteria)
 
-        normalized.append(
-            {
-                "id": _file_like_id_from_description(
-                    desc or raw_text, category=category, line_index=idx, used=used_ids
-                ),
-                "description": desc or raw_text,
-                "criteria": criteria,
-                "requirement_type": requirement_type,
-            }
+        split_profiles = _split_cv_profile_entries(category, desc, criteria)
+        if split_profiles and requirement_type != "rule":
+            for offset, profile in enumerate(split_profiles):
+                _append_normalized_entry(
+                    normalized,
+                    category=category,
+                    desc=profile["description"],
+                    criteria=profile["criteria"],
+                    requirement_type=profile["requirement_type"],
+                    line_index=idx * 100 + offset,
+                    used_ids=used_ids,
+                )
+            continue
+
+        _append_normalized_entry(
+            normalized,
+            category=category,
+            desc=desc or raw_text,
+            criteria=criteria,
+            requirement_type=requirement_type,
+            line_index=idx,
+            used_ids=used_ids,
         )
     return normalized
 
@@ -364,7 +551,8 @@ def _refine_with_openrouter(base: dict[str, list[dict[str, str]]]) -> dict[str, 
     user_content = (
         "JSON d'exigences d'un appel d'offres marocain (déjà structuré). "
         "Améliore le français de description et criteria: orthographe, clarté, "
-        "sans changer le sens juridique. requirement_type: chaîne vide ou 'cv' pour les lignes CV.\n\n"
+        "sans changer le sens juridique. requirement_type: chaîne vide, 'cv' pour les lignes CV/profils, "
+        "ou 'rule' pour les notes/règles non matchables.\n\n"
         "Règles: réponds avec UN SEUL objet JSON, mêmes clés (dossier_administratif, offre_technique, "
         "offre_financiere), même nombre d'éléments par liste, même ordre, mêmes id. "
         "Ne pas ajouter/supprimer d'objets ni de clés (id, description, criteria, requirement_type).\n\n"

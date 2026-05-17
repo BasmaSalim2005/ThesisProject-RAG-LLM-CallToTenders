@@ -1,37 +1,31 @@
 {
   "dossier_administratif": [
     {
-      "id": "Date de validite",
-      "description": "19/08/2026",
-      "criteria": "",
-      "requirement_type": "date"
-    },
-    {
-      "id": "pieces_justifiant_pouvoirs_conferes_personne_agissant_nom",
+      "id": "procuration_legalisee_personne_physique_extrait_statuts_pv_l_organe",
       "description": "Pièces justifiant les pouvoirs conférés à la personne agissant au nom du concurrent (selon forme juridique. procuration légalisée pour personne physique, extrait des statuts et/ou PV de l'organe compétent pour société, acte de délégation le cas échéant, pièces justifiant les pouvoirs pour coopérative/union de coopératives)",
       "criteria": "procuration légalisée pour personne physique, extrait des statuts et/ou PV de l'organe compétent pour société, acte de délégation le cas échéant, pièces justifiant les pouvoirs pour coopérative/union de coopératives)",
       "requirement_type": ""
     },
     {
-      "id": "declaration_l_honneur",
+      "id": "exigence_administratif_2",
       "description": "Déclaration sur l'honneur. (exemplaire unique) comportant les indications de l'article 29 du décret n°2-22-431, signée électroniquement",
       "criteria": "(exemplaire unique) comportant les indications de l'article 29 du décret n°2-22-431, signée électroniquement",
       "requirement_type": ""
     },
     {
-      "id": "original_recepisse_cautionnement_provisoire_attestation_caution_personne",
+      "id": "exigence_administratif_3",
       "description": "Original du récépissé du cautionnement provisoire ou attestation de caution personnelle et solidaire en tenant lieu. (le cas échéant)",
       "criteria": "(le cas échéant)",
       "requirement_type": ""
     },
     {
-      "id": "groupements",
+      "id": "convention_constitutive_groupement",
       "description": "Pour groupements. convention constitutive du groupement (article 150 du décret 2-22-431) ou copie certifiée conforme",
       "criteria": "convention constitutive du groupement (article 150 du décret 2-22-431) ou copie certifiée conforme",
       "requirement_type": ""
     },
     {
-      "id": "fournir_uniquement_l_attributaire_pressenti_attestation_fiscale_delivree",
+      "id": "exigence_administratif_5",
       "description": "[À fournir uniquement par l'attributaire pressenti] Attestation fiscale délivrée depuis moins d'un an par le percepteur du lieu d'imposition certifiant la situation fiscale régulière. (mentionnant l'activité imposée)",
       "criteria": "(mentionnant l'activité imposée)",
       "requirement_type": ""
@@ -43,13 +37,13 @@
       "requirement_type": ""
     },
     {
-      "id": "fournir_uniquement_l_attributaire_pressenti_copie_certificat_immatricula",
+      "id": "exigence_administratif_7",
       "description": "[À fournir uniquement par l'attributaire pressenti] Copie du certificat d'immatriculation au registre de commerce. (modèle 9) pour les personnes assujetties",
       "criteria": "(modèle 9) pour les personnes assujetties",
       "requirement_type": ""
     },
     {
-      "id": "fournir_uniquement_l_attributaire_pressenti_copies_certifiees_conformes_",
+      "id": "exigence_administratif_8",
       "description": "[À fournir uniquement par l'attributaire pressenti] Copies certifiées conformes des attestations ou autorisations requises pour l'exécution des prestations. (le cas échéant)",
       "criteria": "(le cas échéant)",
       "requirement_type": ""
@@ -61,7 +55,7 @@
       "requirement_type": ""
     },
     {
-      "id": "cas_cooperative_union_cooperatives_attributaire_pressenti_attestation_fi",
+      "id": "exigence_administratif_10",
       "description": "[Cas coopérative/union de coopératives - attributaire pressenti] Attestation fiscale depuis moins d'un an. (mentionnant l'activité imposée)",
       "criteria": "(mentionnant l'activité imposée)",
       "requirement_type": ""
@@ -79,7 +73,7 @@
       "requirement_type": ""
     },
     {
-      "id": "cas_auto_entrepreneur_attributaire_pressenti_attestation_fiscale_depuis_",
+      "id": "exigence_administratif_13",
       "description": "[Cas auto-entrepreneur - attributaire pressenti] Attestation fiscale depuis moins d'un an certifiant la situation fiscale régulière. (mentionnant l'activité imposée)",
       "criteria": "(mentionnant l'activité imposée)",
       "requirement_type": ""
@@ -87,7 +81,7 @@
   ],
   "offre_technique": [
     {
-      "id": "copie_legalisee_certificat_agrement_bureau_etudes_delivre_ministere_l",
+      "id": "exigence_technique_1",
       "description": "Copie légalisée du certificat d'agrément du bureau d'études délivré par le Ministère de l'Équipement, du Transport et de la Logistique - domaine D17. (Voirie), conformément à l'arrêté n°1564-10 du 14 Mai 2010",
       "criteria": "(Voirie), conformément à l'arrêté n°1564-10 du 14 Mai 2010",
       "requirement_type": ""
@@ -105,7 +99,7 @@
       "requirement_type": ""
     },
     {
-      "id": "curriculums_vitae",
+      "id": "ingenieur_genie_civil_chef_projet_technicien_genie_civil_conducteur",
       "description": "Curriculums vitae (CV) des cadres affectés à la mission, cosignés par l'intéressé et le responsable du Bureau d'Études, établis selon le modèle Annexe III. Ingénieur en génie civil chef de projet + Technicien en génie civil conducteur des travaux",
       "criteria": "Ingénieur en génie civil chef de projet + Technicien en génie civil conducteur des travaux",
       "requirement_type": "cv"
@@ -126,16 +120,16 @@
       "id": "bordereau_cnss_3_derniers_mois_chaque_membre_l_equipe",
       "description": "Bordereau CNSS des 3 derniers mois pour chaque membre de l'équipe",
       "criteria": "",
-      "requirement_type": ""
+      "requirement_type": "cv"
     },
     {
-      "id": "note_methodologie_exhaustive_exposant",
+      "id": "methodologie_realisation_chaque_mission_demarche_suivre_moyens_mettre_uv",
       "description": "Note de méthodologie exhaustive exposant. méthodologie de réalisation de chaque mission, démarche à suivre, moyens à mettre en œuvre, organigramme, effectif de l'équipe, planning proposé, durée d'intervention de chaque mission, qualité de l'organisation, gestion des interventions, modalités d'astreintes, dispositif d'autocontrôle",
       "criteria": "méthodologie de réalisation de chaque mission, démarche à suivre, moyens à mettre en œuvre, organigramme, effectif de l'équipe, planning proposé, durée d'intervention de chaque mission, qualité de l'organisation, gestion des interventions, modalités d'astreintes, dispositif d'autocontrôle",
-      "requirement_type": ""
+      "requirement_type": "rule"
     },
     {
-      "id": "chronogramme_affectation_ressources",
+      "id": "exigence_technique_9",
       "description": "Chronogramme d'affectation des ressources. (poste occupé, tâches à exécuter, temps d'intervention en homme x jours, calendrier de travail)",
       "criteria": "(poste occupé, tâches à exécuter, temps d'intervention en homme x jours, calendrier de travail)",
       "requirement_type": ""
@@ -173,13 +167,13 @@
       "requirement_type": ""
     },
     {
-      "id": "bordereau_prix_detail_estimatif",
+      "id": "bordereau_prix_detail_estimatif_avec_prix_unitaires_libelles_chiffres",
       "description": "bordereau_prix_detail_estimatif. Bordereau des prix et détail estimatif avec prix unitaires libellés en chiffres et montant total libellé en chiffres",
       "criteria": "Bordereau des prix et détail estimatif avec prix unitaires libellés en chiffres et montant total libellé en chiffres",
       "requirement_type": ""
     },
     {
-      "id": "monnaie_dirham_marocain",
+      "id": "dirham_marocain",
       "description": "monnaie. Dirham marocain (MAD) pour les concurrents installés au Maroc",
       "criteria": "Dirham marocain (MAD) pour les concurrents installés au Maroc",
       "requirement_type": ""

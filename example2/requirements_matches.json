@@ -2,49 +2,51 @@
   "toggles": {
     "groupement": false,
     "hors_maroc": false,
+    "RC": false,
     "sous_traitance": false,
     "cas_particulier": false
   },
   "matches": [
     {
-      "id": "Date de validite",
-      "skipped": true,
-      "skip_reason": "date_validation_context",
-      "matches": []
-    },
-    {
-      "id": "pieces_justifiant_pouvoirs_conferes_personne_agissant_nom",
-      "skipped": true,
-      "skip_reason": "condition_toggles",
-      "condition_tags": [
-        "cas_particulier"
-      ],
-      "matches": []
+      "id": "aucune_piece_auto_entrepreneur_personne_physique_son_propre_compte",
+      "matches": [
+        {
+          "match": "data/admin/allfiles/Attestation de l'CNSS I2S INGENIERIE.pdf",
+          "score": 0.5917,
+          "chroma_score": 0.5917,
+          "doc_type": "admin",
+          "path": "data/admin/allfiles/Attestation de l'CNSS I2S INGENIERIE.pdf",
+          "validity": "31/08/2010 (date seule sur la premiere partie)"
+        }
+      ]
     },
     {
       "id": "declaration_l_honneur",
       "matches": [
         {
-          "match": "data/admin/admin_docs_index.json",
-          "score": 0.5356,
-          "chroma_score": 0.5356,
+          "match": "data/admin/allfiles/ATTESTATION1668111914374.PDF",
+          "score": 0.5322,
+          "chroma_score": 0.5322,
           "doc_type": "admin",
-          "path": "data/admin/admin_docs_index.json",
-          "validity": "31/08/2010"
+          "path": "data/admin/allfiles/ATTESTATION1668111914374.PDF",
+          "validity": "10/11/2022 (date seule sur la premiere partie)"
         }
       ]
     },
     {
-      "id": "original_recepisse_cautionnement_provisoire_attestation_caution_personne",
-      "skipped": true,
-      "skip_reason": "condition_toggles",
-      "condition_tags": [
-        "cas_particulier"
-      ],
-      "matches": []
+      "id": "exigence_administratif_3",
+      "matches": [
+        {
+          "match": "data/admin/allfiles/Attestation CNSS (1).PDF",
+          "score": 0.596,
+          "chroma_score": 0.596,
+          "doc_type": "admin",
+          "path": "data/admin/allfiles/Attestation CNSS (1).PDF"
+        }
+      ]
     },
     {
-      "id": "convention_constitutive_groupement",
+      "id": "exigence_administratif_4",
       "skipped": true,
       "skip_reason": "condition_toggles",
       "condition_tags": [
@@ -53,15 +55,15 @@
       "matches": []
     },
     {
-      "id": "l_attributaire_pressenti_attestation_fiscale_delivree_depuis_moins_an",
+      "id": "exigence_administratif_5",
       "matches": [
         {
-          "match": "data/admin/ATTESTATION1668111914374.PDF",
-          "score": 0.7128,
-          "chroma_score": 0.7128,
+          "match": "data/admin/allfiles/Attestation_fiscal 2021.pdf",
+          "score": 0.7153,
+          "chroma_score": 0.7153,
           "doc_type": "admin",
-          "path": "data/admin/ATTESTATION1668111914374.PDF",
-          "validity": "10/11/2022 (date seule sur la premiere partie)"
+          "path": "data/admin/allfiles/Attestation_fiscal 2021.pdf",
+          "validity": "12/07/2021 (date seule sur la premiere partie)"
         }
       ]
     },
@@ -69,102 +71,85 @@
       "id": "l_attributaire_pressenti_attestation_cnss_autre_organisme_prevoyance_soc",
       "matches": [
         {
-          "match": "data/admin/Attestation de l'CNSS I2S INGENIERIE.pdf",
-          "score": 0.7305,
-          "chroma_score": 0.7305,
+          "match": "data/admin/allfiles/Attestation de l'ASMP I2S.pdf",
+          "score": 0.7389,
+          "chroma_score": 0.7389,
           "doc_type": "admin",
-          "path": "data/admin/Attestation de l'CNSS I2S INGENIERIE.pdf",
+          "path": "data/admin/allfiles/Attestation de l'ASMP I2S.pdf",
           "validity": "31/08/2010 (date seule sur la premiere partie)"
         }
       ]
     },
     {
-      "id": "l_attributaire_pressenti_copie_certificat_immatriculation_registre_comme",
-      "matches": [
-        {
-          "match": "data/admin/Attestation de l'ASMP I2S.pdf",
-          "score": 0.6777,
-          "chroma_score": 0.6777,
-          "doc_type": "admin",
-          "path": "data/admin/Attestation de l'ASMP I2S.pdf",
-          "validity": "31/08/2010 (date seule sur la premiere partie)"
-        }
-      ]
-    },
-    {
-      "id": "l_attributaire_pressenti_copies_certifiees_conformes_attestations_autori",
+      "id": "exigence_administratif_7",
       "skipped": true,
       "skip_reason": "condition_toggles",
       "condition_tags": [
-        "cas_particulier"
+        "RC"
       ],
       "matches": []
+    },
+    {
+      "id": "exigence_administratif_8",
+      "matches": [
+        {
+          "match": "data/admin/allfiles/attestation RIB.pdf",
+          "score": 0.6376,
+          "chroma_score": 0.6376,
+          "doc_type": "admin",
+          "path": "data/admin/allfiles/attestation RIB.pdf"
+        }
+      ]
     },
     {
       "id": "exemplaire_cps_paraphe_toutes_pages",
       "matches": [
         {
-          "match": "data/admin/RC.PDF",
-          "score": 0.6487,
-          "chroma_score": 0.6487,
+          "match": "data/admin/allfiles/03_reprise_donnees_et_bases.pdf",
+          "score": 0.6586,
+          "chroma_score": 0.6586,
           "doc_type": "admin",
-          "path": "data/admin/RC.PDF"
+          "path": "data/admin/allfiles/03_reprise_donnees_et_bases.pdf"
         }
       ]
     },
     {
-      "id": "organigramme_l_equipe_affectee_projet",
+      "id": "exigence_technique_1",
       "matches": [
         {
-          "match": "data/admin/03_reprise_donnees_et_bases.pdf",
-          "score": 0.5999,
-          "chroma_score": 0.5999,
+          "match": "data/admin/allfiles/moyens humaines et technique d'I2S_21.pdf",
+          "score": 0.5354,
+          "chroma_score": 0.5354,
           "doc_type": "admin",
-          "path": "data/admin/03_reprise_donnees_et_bases.pdf"
+          "path": "data/admin/allfiles/moyens humaines et technique d'I2S_21.pdf"
         }
       ]
     },
     {
       "id": "curriculum_vitae",
-      "matches": [
-        {
-          "match": "Zineb Mansouri [CV_10]",
-          "score": 0.1678,
-          "chroma_score": 0.4934,
-          "doc_type": "cv",
-          "path": "cvs/CV_10_Zineb_Mansouri.pdf",
-          "exp_years": 22,
-          "bac_plus": 7,
-          "cv_id": "CV_10",
-          "title": "Directrice de Projet"
-        }
-      ]
+      "matches": []
     },
     {
-      "id": "profils_obligatoires_l_equipe",
-      "matches": [
-        {
-          "match": "Karim Bennani [CV_03]",
-          "score": 0.6299,
-          "chroma_score": 0.6299,
-          "doc_type": "cv",
-          "path": "cvs/CV_03_Karim_Bennani.pdf",
-          "exp_years": 20,
-          "bac_plus": 7,
-          "cv_id": "CV_03",
-          "title": "Chef de Projet Senior"
-        }
-      ]
+      "id": "chef_projet",
+      "matches": []
     },
     {
-      "id": "methodologie_proposee_realisation_prestations_objet",
+      "id": "ingenieur_etat_genie_civil_etudes",
+      "matches": []
+    },
+    {
+      "id": "technicien_ingenieur_equivalent_genie_civil_suivi",
+      "matches": []
+    },
+    {
+      "id": "exigence_technique_4",
       "matches": [
         {
-          "match": "data/admin/01_methodologie_gestion_projet.pdf",
-          "score": 0.6073,
-          "chroma_score": 0.6073,
+          "match": "data/admin/allfiles/04_plan_conduite_changement.pdf",
+          "score": 0.5568,
+          "chroma_score": 0.5568,
           "doc_type": "admin",
-          "path": "data/admin/01_methodologie_gestion_projet.pdf"
+          "path": "data/admin/allfiles/04_plan_conduite_changement.pdf"
         }
       ]
     },
@@ -172,11 +157,11 @@
       "id": "planning_chronogramme_realisation",
       "matches": [
         {
-          "match": "data/admin/02_architecture_systeme_information.pdf",
-          "score": 0.5511,
-          "chroma_score": 0.5511,
+          "match": "data/admin/allfiles/05_maintenance_systeme_information.pdf",
+          "score": 0.493,
+          "chroma_score": 0.493,
           "doc_type": "admin",
-          "path": "data/admin/02_architecture_systeme_information.pdf"
+          "path": "data/admin/allfiles/05_maintenance_systeme_information.pdf"
         }
       ]
     },
@@ -192,38 +177,32 @@
     },
     {
       "id": "nb_non_remise_pieces_justificatives_entraine_non_prise_compte",
-      "matches": [
-        {
-          "match": "data/admin/Attestation CNSS (1).PDF",
-          "score": 0.4952,
-          "chroma_score": 0.4952,
-          "doc_type": "admin",
-          "path": "data/admin/Attestation CNSS (1).PDF"
-        }
-      ]
+      "skipped": true,
+      "skip_reason": "rule_or_note",
+      "matches": []
     },
     {
-      "id": "documents",
+      "id": "acte_engagement_bordereau_prix_detail_estimatif",
       "matches": [
         {
-          "match": "data/admin/Registre de commerce.PDF",
+          "match": "data/admin/allfiles/Registre de commerce.PDF",
           "score": 0.6603,
           "chroma_score": 0.6603,
           "doc_type": "admin",
-          "path": "data/admin/Registre de commerce.PDF"
+          "path": "data/admin/allfiles/Registre de commerce.PDF"
         }
       ]
     },
     {
-      "id": "monnaie_dirham_marocain",
+      "id": "dirham_marocain",
       "matches": [
         {
-          "match": "data/admin/DECISION ORDINAIRE.pdf",
-          "score": 0.5519,
-          "chroma_score": 0.5519,
+          "match": "data/admin/allfiles/Attestation_w5elhwqdf15cp.pdf",
+          "score": 0.5087,
+          "chroma_score": 0.5087,
           "doc_type": "admin",
-          "path": "data/admin/DECISION ORDINAIRE.pdf",
-          "validity": "22/06/2024 (date seule sur la premiere partie)"
+          "path": "data/admin/allfiles/Attestation_w5elhwqdf15cp.pdf",
+          "validity": "04/08/2022 (date seule sur la premiere partie)"
         }
       ]
     }

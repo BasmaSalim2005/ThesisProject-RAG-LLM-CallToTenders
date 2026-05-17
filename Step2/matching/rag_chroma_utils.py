@@ -19,6 +19,7 @@ from .match_postprocess import is_date_validity_policy_requirement
 CV_REQ_MARK = "cv requirement:"
 
 _CV_LINE_HINT = re.compile(r"\b(CVs?|curriculum\s+vitae)\b", re.IGNORECASE)
+_NON_MATCHABLE_REQUIREMENT_TYPES = frozenset({"rule", "note", "policy"})
 
 _STOP = frozenset(
     """
@@ -32,7 +33,7 @@ _STOP = frozenset(
 def flatten_requirements(payload: dict[str, Any]) -> list[dict[str, str]]:
     items: list[dict[str, str]] = []
 
-    def push(category: str, req_id: str, text: str) -> None:
+    def push(category: str, req_id: str, text: str, requirement_type: str = "") -> None:
         text = " ".join(str(text).split())
         if not text:
             return
@@ -43,6 +44,7 @@ def flatten_requirements(payload: dict[str, Any]) -> list[dict[str, str]]:
                 "id": req_id,
                 "text": text,
                 "condition_tags": sorted(tags),
+                "requirement_type": requirement_type,
             }
         )
 
@@ -71,12 +73,14 @@ def flatten_requirements(payload: dict[str, Any]) -> list[dict[str, str]]:
                         req_type = "cv"
                     if req_type == "cv":
                         text = f"CV requirement: {text}".strip()
-                    push(category, req_id, text)
+                    push(category, req_id, text, req_type)
                 else:
                     raw = str(entry).strip()
+                    req_type = ""
                     if _CV_LINE_HINT.search(raw):
                         raw = f"CV requirement: {raw}"
-                    push(category, f"{category}_{idx+1}", raw)
+                        req_type = "cv"
+                    push(category, f"{category}_{idx+1}", raw, req_type)
         elif isinstance(value, dict):
             for key, sub in value.items():
                 push(category, str(key), str(sub))
@@ -224,6 +228,11 @@ def cv_composite_score(requirement_text: str, embed_score: float, doc: Document)
 
 def is_cv_requirement(text: str) -> bool:
     return _fold_lower(text).startswith(_fold_lower(CV_REQ_MARK))
+
+
+def is_non_matchable_requirement(req: dict[str, Any]) -> bool:
+    req_type = str(req.get("requirement_type", "")).strip().lower()
+    return req_type in _NON_MATCHABLE_REQUIREMENT_TYPES
 
 
 def _admin_rows_to_documents(rows: list[Any]) -> list[Document]:
@@ -444,6 +453,17 @@ def run_matching(
                     "skipped": True,
                     "skip_reason": "condition_toggles",
                     "condition_tags": sorted(ctags),
+                    "matches": [],
+                }
+            )
+            continue
+
+        if is_non_matchable_requirement(req):
+            output.append(
+                {
+                    "id": req.get("id", ""),
+                    "skipped": True,
+                    "skip_reason": "rule_or_note",
                     "matches": [],
                 }
             )

@@ -73,6 +73,14 @@ _SPECS: tuple[ConditionSpec, ...] = (
         ),
     ),
     ConditionSpec(
+        id="RC",
+        label_fr="Registre de commerce",
+        patterns=_pats(
+            r"registre\s+de\s+commerce",
+            
+        ),
+    ),
+    ConditionSpec(
         id="sous_traitance",
         label_fr="Sous-traitance / co-traitance",
         patterns=_pats(
@@ -87,7 +95,6 @@ _SPECS: tuple[ConditionSpec, ...] = (
         patterns=_pats(
             r"\ben\s+cas\s+d['\u2019]?\w+",
             r"\ben\s+cas\s+de\s+",
-            r"\ble\s+cas\s+echeant\b",
             r"\ble\s+cas\s+ou\b",
         ),
     ),
@@ -109,7 +116,7 @@ def default_toggles() -> dict[str, bool]:
 
 
 def _dedupe_cas_if_specific(tags: set[str]) -> set[str]:
-    if tags & ({"groupement", "hors_maroc", "sous_traitance"}):
+    if tags & ({"groupement", "hors_maroc", "sous_traitance", "RC" }):
         tags.discard("cas_particulier")
     return tags
 

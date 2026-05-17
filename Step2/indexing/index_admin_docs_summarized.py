@@ -152,8 +152,9 @@ def summarize_with_claude(
         scope = (
             f"Ceci est le texte **complet** d'une seule page d'un PDF ({page_info}). "
             "L'extrait contient toute la page, sans troncature.\n"
-            "Resume en francais **tout** le contenu utile de cette page (titres, mentions, tableaux, "
-            "noms, dates, numeros) : 2 a 8 phrases si la page est riche, moins si elle est mince. "
+            "Resume en francais **tout** le contenu utile de cette page "
+            ": 2 a 4 phrases dependant de la taille de text dand la page. "
+            "Decrit dans le resume quel est ce document et se qu'il est utilise pour. "
             "Ne te limite pas a la premiere phrase du texte. Pas de JSON. Pas de markdown.\n\n"
         )
     else:

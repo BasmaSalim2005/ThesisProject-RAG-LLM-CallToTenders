@@ -2,5 +2,6 @@
   "groupement": false,
   "hors_maroc": false,
   "sous_traitance": false,
+  "RC": false,
   "cas_particulier": false
 }

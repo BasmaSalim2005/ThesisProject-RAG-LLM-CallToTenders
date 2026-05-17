@@ -1,13 +1,7 @@
 {
   "dossier_administratif": [
     {
-      "id": "Date de validite",
-      "description": "04/06/2026",
-      "criteria": "",
-      "requirement_type": "date"
-    },
-    {
-      "id": "pieces_justifiant_pouvoirs_conferes_personne_agissant_nom",
+      "id": "aucune_piece_auto_entrepreneur_personne_physique_son_propre_compte",
       "description": "Pièces justifiant les pouvoirs conférés à la personne agissant au nom du concurrent (selon forme juridique). aucune pièce pour auto-entrepreneur/personne physique pour son propre compte ; copie certifiée conforme de la procuration légalisée pour représentant d'une personne physique ; extrait des statuts et/ou PV de l'organe compétent pour société ; acte de délégation de pouvoir le cas échéant",
       "criteria": "aucune pièce pour auto-entrepreneur/personne physique pour son propre compte ; copie certifiée conforme de la procuration légalisée pour représentant d'une personne physique ; extrait des statuts et/ou PV de l'organe compétent pour société ; acte de délégation de pouvoir le cas échéant",
       "requirement_type": ""
@@ -19,19 +13,19 @@
       "requirement_type": ""
     },
     {
-      "id": "original_recepisse_cautionnement_provisoire_attestation_caution_personne",
+      "id": "exigence_administratif_3",
       "description": "Original du récépissé du cautionnement provisoire ou attestation de la caution personnelle et solidaire en tenant lieu. (le cas échéant)",
       "criteria": "(le cas échéant)",
       "requirement_type": ""
     },
     {
-      "id": "convention_constitutive_groupement",
+      "id": "exigence_administratif_4",
       "description": "Convention constitutive du groupement. (ou copie certifiée conforme) si le concurrent est un groupement (article 150)",
       "criteria": "(ou copie certifiée conforme) si le concurrent est un groupement (article 150)",
       "requirement_type": ""
     },
     {
-      "id": "l_attributaire_pressenti_attestation_fiscale_delivree_depuis_moins_an",
+      "id": "exigence_administratif_5",
       "description": "[Pour l'attributaire pressenti] Attestation fiscale délivrée depuis moins d'un an par le percepteur du lieu d'imposition certifiant la situation fiscale régulière. (ou garanties constituées) — doit mentionner l'activité imposée",
       "criteria": "(ou garanties constituées) — doit mentionner l'activité imposée",
       "requirement_type": ""
@@ -43,13 +37,13 @@
       "requirement_type": ""
     },
     {
-      "id": "l_attributaire_pressenti_copie_certificat_immatriculation_registre_comme",
+      "id": "exigence_administratif_7",
       "description": "[Pour l'attributaire pressenti] Copie du certificat d'immatriculation au registre de commerce. (modèle 9) pour les personnes assujetties",
       "criteria": "(modèle 9) pour les personnes assujetties",
       "requirement_type": ""
     },
     {
-      "id": "l_attributaire_pressenti_copies_certifiees_conformes_attestations_autori",
+      "id": "exigence_administratif_8",
       "description": "[Pour l'attributaire pressenti] Copies certifiées conformes des attestations ou autorisations requises pour l'exécution des prestations. (le cas échéant)",
       "criteria": "(le cas échéant)",
       "requirement_type": ""
@@ -63,7 +57,7 @@
   ],
   "offre_technique": [
     {
-      "id": "organigramme_l_equipe_affectee_projet",
+      "id": "exigence_technique_1",
       "description": "Organigramme de l'équipe affectée au projet. (phase étude et phase exécution des travaux) indiquant le chef de projet et les responsables du suivi",
       "criteria": "(phase étude et phase exécution des travaux) indiquant le chef de projet et les responsables du suivi",
       "requirement_type": ""
@@ -75,13 +69,25 @@
       "requirement_type": "cv"
     },
     {
-      "id": "profils_obligatoires_l_equipe",
-      "description": "Profils obligatoires de l'équipe. Chef de projet (Ingénieur d'État en Génie Civil), Ingénieur d'État en Génie Civil pour les études, Technicien ou Ingénieur ou Équivalent en Génie Civil pour le suivi",
-      "criteria": "Chef de projet (Ingénieur d'État en Génie Civil), Ingénieur d'État en Génie Civil pour les études, Technicien ou Ingénieur ou Équivalent en Génie Civil pour le suivi",
-      "requirement_type": ""
+      "id": "chef_projet",
+      "description": "Chef de projet",
+      "criteria": "Ingénieur d'État en Génie Civil",
+      "requirement_type": "cv"
     },
     {
-      "id": "methodologie_proposee_realisation_prestations_objet",
+      "id": "ingenieur_etat_genie_civil_etudes",
+      "description": "Ingénieur d'État en Génie Civil pour les études",
+      "criteria": "",
+      "requirement_type": "cv"
+    },
+    {
+      "id": "technicien_ingenieur_equivalent_genie_civil_suivi",
+      "description": "Technicien ou Ingénieur ou Équivalent en Génie Civil pour le suivi",
+      "criteria": "",
+      "requirement_type": "cv"
+    },
+    {
+      "id": "exigence_technique_4",
       "description": "Méthodologie proposée pour la réalisation des prestations objet du marché. (signée par le concurrent)",
       "criteria": "(signée par le concurrent)",
       "requirement_type": ""
@@ -96,24 +102,24 @@
       "id": "nb_proposition_sous_traitant_consultant_toute_personne_n_appartenant",
       "description": "NB. La proposition d'un sous-traitant, consultant ou toute personne n'appartenant pas effectivement au BET concurrent ne sera pas prise en compte",
       "criteria": "La proposition d'un sous-traitant, consultant ou toute personne n'appartenant pas effectivement au BET concurrent ne sera pas prise en compte",
-      "requirement_type": ""
+      "requirement_type": "rule"
     },
     {
       "id": "nb_non_remise_pieces_justificatives_entraine_non_prise_compte",
       "description": "NB. La non remise des pièces justificatives entraîne la non prise en compte des éléments concernés dans la grille de notation",
       "criteria": "La non remise des pièces justificatives entraîne la non prise en compte des éléments concernés dans la grille de notation",
-      "requirement_type": ""
+      "requirement_type": "rule"
     }
   ],
   "offre_financiere": [
     {
-      "id": "documents",
+      "id": "acte_engagement_bordereau_prix_detail_estimatif",
       "description": "documents. [\"Acte d'engagement\", 'Bordereau des prix et détail estimatif']",
       "criteria": "[\"Acte d'engagement\", 'Bordereau des prix et détail estimatif']",
       "requirement_type": ""
     },
     {
-      "id": "monnaie_dirham_marocain",
+      "id": "dirham_marocain",
       "description": "monnaie. Dirham marocain (MAD)",
       "criteria": "Dirham marocain (MAD)",
       "requirement_type": ""
