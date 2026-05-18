@@ -96,6 +96,7 @@ _SPECS: tuple[ConditionSpec, ...] = (
             r"\ben\s+cas\s+d['\u2019]?\w+",
             r"\ben\s+cas\s+de\s+",
             r"\ble\s+cas\s+ou\b",
+            r"\ble\s+cas\s+échéant\b",
         ),
     ),
 )
