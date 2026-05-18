@@ -1,45 +1,119 @@
-# ThesisProject-RAG-LLM-CallToTenders
+# Tender RAG Assistant
 
-This repository helps **prepare a bid** for a public tender: it **normalizes requirements** from Step 1 extraction, **indexes** administrative documents (and optional CVs) in **Chroma**, **retrieves** the best-matching files per requirement, and produces a **human-readable PDF report** (optionally followed by a **project context** appendix from the specifications export).
+This project helps prepare a response to a Moroccan public tender. It extracts tender requirements, formats them into a clean checklist, indexes company administrative documents and CV profiles, matches each requirement with the best available file or person, then generates a readable PDF report.
 
-## What is where
+The matching step uses Chroma/RAG for document search. CV/profile requirements are handled separately so requested roles, study level, and experience can be compared against the available CV dataset.
 
-| Path | Role |
-|------|------|
-| `step1/` | Extraction and intermediate JSON (e.g. `v2/specifications_extracted.json`, per-lot `*_extracted.json`) |
-| `Step2/matching/` | RAG: requirements flattening, Chroma search, condition toggles, post-processing (bundles, one-file rule) |
-| `Step2/reporting/` | PDF report from `requirements_matches.json` + labels |
-| `Step2/embedding/` | Build / refresh the Chroma vector store from the admin index and optional `data/hr/cv.json` |
-| `Step2/indexing/` | Build **JSON indexes** of PDFs (text + LLM summary or OCR variant) |
-| `Step2/formating/` | Export **normalized** requirements (`formated_requirements.json`) for matching |
-| `data/` | Source PDFs, admin index, CV catalogue |
-| `easy_tender/` | Small app / shared **format** logic for requirements |
+## Main Files And Folders
 
-## Environment (`.env` per folder)
+| Path | Purpose |
+| --- | --- |
+| `easy_tender/` | Web app and shared extraction/formatting logic. `app.py` runs the UI, `extract_service.py` extracts tender text, and `format_requirements.py` normalizes requirements. |
+| `extraction/` | Experimental/CLI extraction scripts and extracted JSON examples. |
+| `Step2/formating/` | CLI formatter that writes `formated_requirements.json` from extracted requirements. |
+| `Step2/indexing/` | Builds JSON indexes from admin PDFs before embedding. |
+| `Step2/embedding/` | Builds the Chroma vector store from admin document indexes and the CV catalogue. |
+| `Step2/matching/` | Requirement matching logic, CV ranking, condition toggles, and post-processing. |
+| `Step2/reporting/` | Generates the final PDF report from matches and formatted requirements. |
+| `data/admin/` | Admin document index and source admin files. |
+| `data/hr/cv_docs_index.json` | CV/profile dataset used for HR matching. |
+| `example1/`, `example2/`, `example3/` | Example inputs, formatted requirements, matches, and reports. |
 
-Scripts load **the `.env` next to the code they belong to** (not a single root file):
+## Setup
 
-| File | Purpose (typical keys) |
-|------|------------------------|
-| `step1/.env` | e.g. `CLAUDE_API_KEY` for `extract.py` and other step1 scripts as needed |
-| `Step2/.env` | e.g. `CLAUDE_API_KEY`, `EASY_TENDER_MODEL`, `TESSERACT_CMD` for `Step2/indexing/…` |
-| `easy_tender/.env` | e.g. `OPENROUTER_API_KEY`, `CLAUDE_API_KEY` for the web app and `format_requirements` |
+Create a virtual environment and install dependencies:
 
-`.env` is gitignored. Copy the keys you use into each file as needed.
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+```
 
-## PDF report: matching + project context
+Add API keys where needed. The app and scripts load `.env` files near the code:
 
-- The first part of the report is the **RAG layout**: suggested documents per requirement (admin + CVs), with toggles, validity window, and notes.
-- If `step1/v2/specifications_extracted.json` exists, a final section **“Contexte du marche”** is added with a **synthesis** of:
-  - `PERIMETRE_DU_PROJET`
-  - `DEROULEMENT_DU_PROJET`
-  - `CONSISTANCE_DES_PRESTATIONS`  
-  (and any other top-level string fields in the same file.)
+```text
+easy_tender/.env
+Step2/.env
+extraction/.env
+```
 
-- To **disable** that appendix: `--no-project-spec`
-- To use **another** JSON: `--project-spec path/to/specifications.json`
+Typical keys are:
 
-## note
+```text
+CLAUDE_API_KEY=...
+OPENROUTER_API_KEY=...
+```
 
-- **Condition checkboxes (groupement, hors Maroc, etc.):** `Step2/match_toggles.json` and CLI flags; see `Step2/matching/condition_toggles.py`.
+## Run The Web App
+
+Use this if you want to upload a tender PDF/TXT and get extracted/formatted requirements through the UI:
+
+```bash
+python -m easy_tender.app
+```
+
+Then open:
+
+```text
+http://127.0.0.1:5050
+```
+
+## Run The Pipeline Manually
+
+### 1. Format Extracted Requirements
+
+Use an extracted requirements JSON, for example one of the example files:
+
+```bash
+python Step2/formating/export_formated_requirements.py example2/requirements_extracted.json --output Step2/formating/formated_requirements.json
+```
+
+This creates the normalized requirements file used by matching.
+
+### 2. Build Or Refresh The Admin Index
+
+If the admin PDF index already exists at `data/admin/admin_docs_index_summarized.json`, you can skip this step.
+
+```bash
+python Step2/indexing/index_admin_docs_summarized.py
+```
+
+### 3. Build The Chroma Store
+
+This embeds admin documents and CV profiles:
+
+```bash
+python -m Step2.embedding.embed_admin_chroma --force
+```
+
+By default it uses:
+
+```text
+data/admin/admin_docs_index_summarized.json
+data/hr/cv_docs_index.json
+```
+
+### 4. Match Requirements
+
+```bash
+python -m Step2.matching.rag_match_requirements --requirements Step2/formating/formated_requirements.json --output Step2/requirements_matches.json
+```
+
+Optional situation toggles can be passed with CLI flags or a toggles file:
+
+```bash
+python -m Step2.matching.rag_match_requirements --toggles-file Step2/match_toggles.json
+```
+
+### 5. Generate The PDF Report
+
+```bash
+python -m Step2.reporting.match_report_pdf --matches Step2/requirements_matches.json --requirements Step2/formating/formated_requirements.json --output Step2/requirements_matches_report.pdf
+```
+
+To remove the project-context appendix:
+
+```bash
+python -m Step2.reporting.match_report_pdf --no-project-spec
+```
 
